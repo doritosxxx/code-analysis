@@ -1,0 +1,17 @@
+/viewsfrom/src/main/java/com/jaouan/viewsfrom/filters/AbstractRegexViewFilter.java,28
+/viewsfrom/src/main/java/com/jaouan/viewsfrom/filters/TypeViewFilter.java,12
+/viewsfrom/src/main/java/com/jaouan/viewsfrom/filters/IdViewFilter.java,13
+/viewsfrom/src/main/java/com/jaouan/viewsfrom/filters/ComplementedViewFilter.java,13
+/viewsfrom/src/main/java/com/jaouan/viewsfrom/filters/VisibilityViewFilter.java,13
+/viewsfrom/src/main/java/com/jaouan/viewsfrom/filters/FilterHelper.java,21
+/viewsfrom/src/main/java/com/jaouan/viewsfrom/filters/AbstractEqualsViewFilter.java,14
+/viewsfrom/src/main/java/com/jaouan/viewsfrom/filters/TagViewFilter.java,12
+/viewsfrom/src/main/java/com/jaouan/viewsfrom/filters/ExcluderViewFilter.java,13
+/viewsfrom/src/main/java/com/jaouan/viewsfrom/filters/TagRegexViewFilter.java,15
+/viewsfrom/src/main/java/com/jaouan/viewsfrom/filters/AggregatedViewFilters.java,19
+/viewsfrom/src/main/java/com/jaouan/viewsfrom/ViewsFinder.java,135
+/viewsfrom/src/main/java/com/jaouan/viewsfrom/FunctionUtils.java,27
+/viewsfrom/src/main/java/com/jaouan/viewsfrom/ViewsAnimator.java,96
+/viewsfrom/src/main/java/com/jaouan/viewsfrom/ViewsHelper.java,23
+/viewsfrom/src/main/java/com/jaouan/viewsfrom/Views.java,8
+/app/src/main/java/com/jaouan/viewsfrom/example/ExampleActivity.java,45

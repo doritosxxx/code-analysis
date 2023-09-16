@@ -1,0 +1,15 @@
+/InstantRunSourceCode/gen/com/example/businesslayoutdemo/ff/BuildConfig.java,0,0:,0:,1,1:,0,1,0:,0:,4,0:,0,0,2:,1:,0:
+/InstantRunSourceCode/src/com/android/tools/fd/common/Log.java,0,0:,0:,2,1:,0,29,0:,0:,12,3:,0,0,6:,1:,0:
+/InstantRunSourceCode/src/com/android/tools/fd/runtime/Paths.java,0,0:,0:,6,1:,0,0,0:,0:,24,0:,0,0,17:,6:,5:
+/InstantRunSourceCode/src/com/android/tools/fd/runtime/MonkeyPatcher.java,22,0:,0:,22,58:,114,14,0:,0:,391,0:,4,37,199:,0:,5:
+/InstantRunSourceCode/src/com/android/tools/fd/runtime/Restarter.java,8,0:,0:,12,32:,67,0,0:,0:,203,3:,1,20,111:,0:,9:
+/InstantRunSourceCode/src/com/android/tools/fd/runtime/ApplicationPatch.java,3,2:,0:,8,4:,3,0,1:,0:,42,3:,3,3,22:,0:,1:
+/InstantRunSourceCode/src/com/android/tools/fd/runtime/BootstrapApplication.java,10,2:,0:,24,39:,76,3,1:,0:,222,7:,1,35,125:,1:,2:
+/InstantRunSourceCode/src/com/android/tools/fd/runtime/AppInfo.java,0,0:,0:,3,1:,0,7,0:,0:,7,0:,0,0,5:,4:,0:
+/InstantRunSourceCode/src/com/android/tools/fd/runtime/AndroidInstantRuntime.java,3,0:,0:,26,31:,43,3,0:,0:,222,6:,1,10,116:,0:,15:
+/InstantRunSourceCode/src/com/android/tools/fd/runtime/AbstractPatchesLoaderImpl.java,12,0:,0:,5,8:,12,0,0:,1:,42,2:,12,12,22:,0:,0:
+/InstantRunSourceCode/src/com/android/tools/fd/runtime/InstantReloadException.java,0,0:,0:,1,1:,0,0,1:,0:,6,0:,0,0,3:,0:,0:
+/InstantRunSourceCode/src/com/android/tools/fd/runtime/FileManager.java,8,0:,0:,41,105:,170,3,0:,0:,512,0:,1,27,337:,9:,30:
+/InstantRunSourceCode/src/com/android/tools/fd/runtime/IncrementalClassLoader.java,2,1:,0:,14,7:,10,0,2:,0:,80,2:,1,5,43:,1:,4:
+/InstantRunSourceCode/src/com/android/tools/fd/runtime/Server.java,13,3:,0:,29,91:,173,0,3:,0:,452,8:,1,61,302:,3:,5:
+/InstantRunSourceCode/src/com/android/tools/fd/runtime/PatchesLoaderDumper.java,3,0:,0:,1,2:,3,0,0:,0:,17,0:,3,3,7:,0:,1:

@@ -1,0 +1,10 @@
+/example/android/app/src/main/java/com/mythichelm/localnotificationsexample/MainActivity.java,0
+/android/src/main/java/com/mythichelm/localnotifications/entities/NotificationChannelSettings.java,0
+/android/src/main/java/com/mythichelm/localnotifications/entities/NotificationSettings.java,3
+/android/src/main/java/com/mythichelm/localnotifications/entities/NotificationAction.java,0
+/android/src/main/java/com/mythichelm/localnotifications/LocalNotificationsPlugin.java,6
+/android/src/main/java/com/mythichelm/localnotifications/GenerateLocalNotificationsTask.java,0
+/android/src/main/java/com/mythichelm/localnotifications/services/LocalNotificationsService.java,0
+/android/src/main/java/com/mythichelm/localnotifications/factories/NotificationChannelSettingsFactory.java,0
+/android/src/main/java/com/mythichelm/localnotifications/factories/NotificationFactory.java,1
+/android/src/main/java/com/mythichelm/localnotifications/factories/NotificationSettingsFactory.java,4

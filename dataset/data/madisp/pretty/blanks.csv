@@ -1,0 +1,12 @@
+/samples/src/main/java/com/madisp/pretty/samples/SampleActivity.java,3
+/samples/src/main/java/com/madisp/pretty/samples/FontDecor.java,6
+/samples/src/main/java/com/madisp/pretty/samples/SampleFragment.java,2
+/tests/src/main/java/com/madisp/pretty/FragInLayoutActivity.java,1
+/tests/src/main/java/com/madisp/pretty/TestFragment.java,2
+/tests/src/main/java/com/madisp/pretty/CreatesFragActivity.java,3
+/tests/src/androidTest/java/com/madisp/pretty/UiThreadRule.java,6
+/pretty/src/main/java/com/madisp/pretty/Pretty.java,8
+/pretty/src/main/java/com/madisp/pretty/AttrsDecor.java,8
+/pretty/src/main/java/com/madisp/pretty/LayoutFactoryWrapper.java,8
+/pretty/src/main/java/com/madisp/pretty/PrettyLayoutInflater.java,11
+/pretty/src/main/java/com/madisp/pretty/PrettyLayoutFactory.java,5

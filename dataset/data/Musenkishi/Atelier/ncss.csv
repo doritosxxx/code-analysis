@@ -1,0 +1,17 @@
+/lib/src/main/java/com/musenkishi/atelier/Atelier.java,305:
+/lib/src/main/java/com/musenkishi/atelier/swatch/DarkVibrantSwatch.java,5:
+/lib/src/main/java/com/musenkishi/atelier/swatch/DarkMutedSwatch.java,5:
+/lib/src/main/java/com/musenkishi/atelier/swatch/AbstractSwatch.java,27:
+/lib/src/main/java/com/musenkishi/atelier/swatch/LightVibrantSwatch.java,5:
+/lib/src/main/java/com/musenkishi/atelier/swatch/LightMutedSwatch.java,5:
+/lib/src/main/java/com/musenkishi/atelier/swatch/VibrantSwatch.java,5:
+/lib/src/main/java/com/musenkishi/atelier/swatch/MutedSwatch.java,5:
+/sample/src/main/java/com/musenkishi/atelier/sample/CountryListFragment.java,28:
+/sample/src/main/java/com/musenkishi/atelier/sample/model/Countries.java,2:
+/sample/src/main/java/com/musenkishi/atelier/sample/model/Country.java,13:
+/sample/src/main/java/com/musenkishi/atelier/sample/MainActivity.java,15:
+/sample/src/main/java/com/musenkishi/atelier/sample/adapter/AbsCountryAdapter.java,21:
+/sample/src/main/java/com/musenkishi/atelier/sample/adapter/SmartFragmentPagerAdapter.java,22:
+/sample/src/main/java/com/musenkishi/atelier/sample/adapter/CountryPicassoAdapter.java,8:
+/sample/src/main/java/com/musenkishi/atelier/sample/adapter/CountryGlideAdapter.java,11:
+/sample/src/main/java/com/musenkishi/atelier/sample/adapter/SmartFragmentStatePagerAdapter.java,12:

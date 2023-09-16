@@ -1,0 +1,17 @@
+/carbonite/src/main/java/info/evelio/carbonite/serialization/KryoSerializer.java,21:
+/carbonite/src/main/java/info/evelio/carbonite/cache/UnmodifiableCache.java,10:
+/carbonite/src/main/java/info/evelio/carbonite/cache/StorageLruCache.java,93:
+/carbonite/src/main/java/info/evelio/carbonite/cache/MemoryLruCache.java,19:
+/carbonite/src/main/java/info/evelio/carbonite/cache/MapCache.java,38:
+/carbonite/src/main/java/info/evelio/carbonite/cache/ReferenceCache.java,10:
+/carbonite/src/main/java/info/evelio/carbonite/cache/SortedReferenceCache.java,18:
+/carbonite/src/main/java/info/evelio/carbonite/cache/WeakKeyCache.java,10:
+/carbonite/src/main/java/info/evelio/carbonite/Carbonite.java,12:
+/carbonite/src/main/java/info/evelio/carbonite/CarboniteBuilderBaseImp.java,59:
+/carbonite/src/main/java/info/evelio/carbonite/future/Present.java,14:
+/carbonite/src/main/java/info/evelio/carbonite/future/UncheckedFuture.java,39:
+/carbonite/src/main/java/info/evelio/carbonite/CacheFactoryImp.java,27:
+/carbonite/src/main/java/info/evelio/carbonite/CarboniteImp.java,151:
+/carbonite/src/main/java/info/evelio/carbonite/util/L.java,23:
+/carbonite/src/main/java/info/evelio/carbonite/util/LruCache.java,119:
+/carbonite/src/main/java/info/evelio/carbonite/util/Util.java,94:

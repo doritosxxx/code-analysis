@@ -1,0 +1,16 @@
+/StandOutRoundR/gen/wei/mark/standout/BuildConfig.java,0,0:,0:,1,1:,0,1,0:,0:,4,0:,0,0,2:,1:,0:
+/StandOutRoundR/gen/wei/mark/standout/R.java,0,0:,0:,2,1:,0,6,0:,0:,41,0:,0,0,33:,26:,0:
+/StandOutRoundR/src/wei/mark/standout/ui/TouchInfo.java,0,4:,0:,3,1:,0,13,0:,0:,13,1:,0,0,7:,0:,0:
+/StandOutRoundR/src/wei/mark/standout/ui/Window.java,7,13:,0:,102,71:,111,206,3:,0:,394,24:,1,25,284:,5:,0:
+/StandOutRoundR/src/wei/mark/standout/constants/StandOutFlags.java,0,0:,0:,19,1:,0,166,0:,0:,29,0:,0,0,19:,18:,0:
+/StandOutRoundR/src/wei/mark/standout/WindowCache.java,1,1:,0:,16,8:,9,56,1:,0:,61,7:,1,3,40:,0:,0:
+/StandOutRoundR/src/wei/mark/standout/StandOutWindow.java,5,8:,0:,227,90:,125,977,7:,0:,742,70:,1,20,508:,19:,10:
+/StandOutRoundR/src/wei/mark/standout/Utils.java,0,0:,0:,1,1:,0,0,0:,0:,6,0:,0,0,3:,0:,1:
+/RoundR/gen/wei/mark/standout/R.java,0,0:,0:,1,1:,0,6,0:,0:,39,0:,0,0,32:,26:,0:
+/RoundR/gen/mohammad/adib/roundr/BuildConfig.java,0,0:,0:,1,1:,0,1,0:,0:,4,0:,0,0,2:,1:,0:
+/RoundR/gen/mohammad/adib/roundr/R.java,0,0:,0:,2,1:,0,6,0:,0:,71,0:,0,0,60:,50:,0:
+/RoundR/src/mohammad/adib/roundr/SettingsActivity.java,34,0:,0:,9,3:,34,20,0:,0:,149,3:,34,34,22:,0:,0:
+/RoundR/src/mohammad/adib/roundr/BootReceiver.java,1,1:,0:,7,2:,1,23,0:,0:,21,1:,1,1,10:,1:,0:
+/RoundR/src/mohammad/adib/roundr/SeekBarPreference.java,2,10:,0:,46,16:,18,12,2:,1:,154,12:,1,5,95:,3:,0:
+/RoundR/src/mohammad/adib/roundr/MainActivity.java,3,1:,0:,7,4:,3,23,0:,0:,27,1:,3,3,14:,0:,0:
+/RoundR/src/mohammad/adib/roundr/Corner.java,6,1:,0:,27,25:,32,36,0:,0:,186,14:,1,22,105:,6:,0:

@@ -1,0 +1,12 @@
+/desktop/src/com/google/android/desktop/proofer/ControllerForm.java,392
+/desktop/src/com/google/android/desktop/proofer/os/MacBinder.java,26
+/desktop/src/com/google/android/desktop/proofer/os/DefaultBinder.java,10
+/desktop/src/com/google/android/desktop/proofer/os/OSBinder.java,31
+/desktop/src/com/google/android/desktop/proofer/ProoferException.java,15
+/desktop/src/com/google/android/desktop/proofer/AdbRunner.java,104
+/desktop/src/com/google/android/desktop/proofer/Config.java,6
+/desktop/src/com/google/android/desktop/proofer/Proofer.java,283
+/desktop/src/com/google/android/desktop/proofer/RegionSelector.java,342
+/desktop/src/com/google/android/desktop/proofer/Util.java,126
+/android/src/com/google/android/apps/proofer/DesktopViewerActivity.java,196
+/android/src/com/google/android/apps/proofer/SystemUiHider.java,48

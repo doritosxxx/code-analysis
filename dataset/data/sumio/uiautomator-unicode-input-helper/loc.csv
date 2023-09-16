@@ -1,0 +1,17 @@
+/UiAutomatorInputSample/src/com/beetstra/jutf7/ModifiedUTF7Charset.java,19
+/UiAutomatorInputSample/src/com/beetstra/jutf7/UTF7StyleCharset.java,30
+/UiAutomatorInputSample/src/com/beetstra/jutf7/CharsetProvider.java,60
+/UiAutomatorInputSample/src/com/beetstra/jutf7/UTF7Charset.java,25
+/UiAutomatorInputSample/src/com/beetstra/jutf7/UTF7StyleCharsetDecoder.java,109
+/UiAutomatorInputSample/src/com/beetstra/jutf7/Base64Util.java,34
+/UiAutomatorInputSample/src/com/beetstra/jutf7/UTF7StyleCharsetEncoder.java,91
+/UiAutomatorInputSample/src/jp/jun_nama/test/utf7ime/helper/Utf7ImeHelper.java,54
+/Utf7Ime/src/jp/jun_nama/test/utf7ime/Utf7ImeService.java,103
+/helper-library/src/com/beetstra/jutf7/ModifiedUTF7Charset.java,19
+/helper-library/src/com/beetstra/jutf7/UTF7StyleCharset.java,30
+/helper-library/src/com/beetstra/jutf7/CharsetProvider.java,60
+/helper-library/src/com/beetstra/jutf7/UTF7Charset.java,25
+/helper-library/src/com/beetstra/jutf7/UTF7StyleCharsetDecoder.java,109
+/helper-library/src/com/beetstra/jutf7/Base64Util.java,34
+/helper-library/src/com/beetstra/jutf7/UTF7StyleCharsetEncoder.java,91
+/helper-library/src/jp/jun_nama/test/utf7ime/helper/Utf7ImeHelper.java,54

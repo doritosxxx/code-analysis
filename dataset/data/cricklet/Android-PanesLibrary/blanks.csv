@@ -1,0 +1,15 @@
+/example/gen/com/actionbarsherlock/R.java,1
+/example/gen/com/mapsaurus/panesexample/BuildConfig.java,1
+/example/gen/com/mapsaurus/panesexample/R.java,225
+/example/gen/com/mapsaurus/panelayout/R.java,1
+/example/src/com/mapsaurus/panesexample/ExampleActivity.java,12
+/example/src/com/mapsaurus/panesexample/ExampleFragment.java,33
+/library/gen/com/mapsaurus/panelayout/BuildConfig.java,1
+/library/gen/com/mapsaurus/panelayout/R.java,217
+/library/src/com/mapsaurus/paneslayout/ActivityDelegate.java,28
+/library/src/com/mapsaurus/paneslayout/SimpleScrollView.java,32
+/library/src/com/mapsaurus/paneslayout/PhoneDelegate.java,32
+/library/src/com/mapsaurus/paneslayout/PanesActivity.java,25
+/library/src/com/mapsaurus/paneslayout/MenuItemWrapper.java,45
+/library/src/com/mapsaurus/paneslayout/PanesLayout.java,111
+/library/src/com/mapsaurus/paneslayout/TabletDelegate.java,47

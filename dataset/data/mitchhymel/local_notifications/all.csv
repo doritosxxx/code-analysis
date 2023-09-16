@@ -1,0 +1,10 @@
+/example/android/app/src/main/java/com/mythichelm/localnotificationsexample/MainActivity.java,0,0:,0:,4,1:,0,0,0:,0:,11,1:,0,0,4:,0:,0:
+/android/src/main/java/com/mythichelm/localnotifications/entities/NotificationChannelSettings.java,0,6:,0:,1,1:,0,0,0:,0:,9,0:,0,0,7:,0:,0:
+/android/src/main/java/com/mythichelm/localnotifications/entities/NotificationSettings.java,0,13:,0:,3,1:,0,3,0:,0:,18,0:,0,0,14:,0:,0:
+/android/src/main/java/com/mythichelm/localnotifications/entities/NotificationAction.java,1,4:,0:,11,6:,4,0,1:,0:,48,5:,1,2,26:,1:,0:
+/android/src/main/java/com/mythichelm/localnotifications/LocalNotificationsPlugin.java,1,3:,0:,33,19:,19,6,1:,2:,176,9:,1,7,107:,10:,7:
+/android/src/main/java/com/mythichelm/localnotifications/GenerateLocalNotificationsTask.java,3,3:,0:,11,4:,3,0,1:,0:,58,4:,3,3,30:,0:,0:
+/android/src/main/java/com/mythichelm/localnotifications/services/LocalNotificationsService.java,2,0:,0:,8,3:,2,0,1:,0:,28,1:,2,2,16:,1:,2:
+/android/src/main/java/com/mythichelm/localnotifications/factories/NotificationChannelSettingsFactory.java,0,0:,0:,7,1:,0,0,0:,1:,25,1:,0,0,10:,0:,0:
+/android/src/main/java/com/mythichelm/localnotifications/factories/NotificationFactory.java,1,0:,0:,17,6:,6,1,0:,1:,64,6:,1,2,30:,0:,0:
+/android/src/main/java/com/mythichelm/localnotifications/factories/NotificationSettingsFactory.java,1,0:,0:,12,2:,1,4,0:,1:,50,3:,1,1,25:,0:,0:

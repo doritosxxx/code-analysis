@@ -1,0 +1,15 @@
+/src/main/java/com/twitter/joauth/MalformedRequest.java,0,0:,0:,2,1:,0,3,1:,0:,6,0:,0,0,3:,0:,0:
+/src/main/java/com/twitter/joauth/keyvalue/KeyValueHandler.java,3,0:,0:,39,9:,11,54,0:,1:,124,1:,1,7,78:,0:,0:
+/src/main/java/com/twitter/joauth/keyvalue/KeyValueParser.java,7,2:,0:,19,13:,22,34,1:,1:,55,2:,1,18,47:,0:,0:
+/src/main/java/com/twitter/joauth/keyvalue/Transformer.java,0,0:,0:,7,1:,0,24,0:,1:,19,1:,0,0,10:,0:,0:
+/src/main/java/com/twitter/joauth/UrlCodec.java,12,0:,0:,21,50:,62,19,0:,0:,127,0:,1,40,113:,17:,5:
+/src/main/java/com/twitter/joauth/Request.java,8,2:,0:,23,31:,44,11,1:,0:,116,3:,2,19,89:,0:,0:
+/src/main/java/com/twitter/joauth/Verifier.java,4,0:,0:,22,11:,14,23,0:,0:,137,0:,1,11,59:,0:,4:
+/src/main/java/com/twitter/joauth/Normalizer.java,4,0:,0:,21,8:,9,37,0:,0:,85,5:,2,7,40:,3:,1:
+/src/main/java/com/twitter/joauth/UnpackedRequest.java,9,1:,0:,69,68:,92,32,1:,1:,317,3:,1,27,203:,0:,0:
+/src/main/java/com/twitter/joauth/Unpacker.java,4,8:,0:,60,20:,28,46,1:,1:,230,13:,1,12,124:,3:,0:
+/src/main/java/com/twitter/joauth/OAuthParams.java,10,22:,0:,45,43:,80,57,2:,0:,237,27:,1,70,173:,18:,1:
+/src/main/java/com/twitter/joauth/Signer.java,1,2:,0:,27,2:,1,38,1:,0:,74,12:,1,1,37:,5:,1:
+/src/main/java/com/twitter/joauth/NonceValidator.java,0,0:,0:,10,1:,0,21,0:,1:,21,1:,0,0,12:,0:,0:
+/src/main/java/com/twitter/joauth/Base64Util.java,49,0:,0:,10,18:,49,40,0:,0:,81,0:,49,49,59:,4:,3:
+/src/main/java/com/twitter/joauth/UnpackerException.java,0,0:,0:,4,1:,0,14,2:,0:,9,0:,0,0,5:,0:,0:

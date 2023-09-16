@@ -1,0 +1,10 @@
+/src/main/java/org/graylog2/plugins/slack/output/SlackMessageOutput.java,157
+/src/main/java/org/graylog2/plugins/slack/configuration/SlackConfiguration.java,17
+/src/main/java/org/graylog2/plugins/slack/configuration/SlackConfigurationRequestFactory.java,170
+/src/main/java/org/graylog2/plugins/slack/SlackPluginModule.java,11
+/src/main/java/org/graylog2/plugins/slack/SlackMessage.java,142
+/src/main/java/org/graylog2/plugins/slack/SlackPluginMetadata.java,42
+/src/main/java/org/graylog2/plugins/slack/callback/SlackAlarmCallback.java,117
+/src/main/java/org/graylog2/plugins/slack/SlackPlugin.java,16
+/src/main/java/org/graylog2/plugins/slack/SlackClient.java,89
+/src/main/java/org/graylog2/plugins/slack/SlackPluginBase.java,71

@@ -1,0 +1,12 @@
+/app/src/main/java/com/cainwong/demo/mvp/fragments/IpsumDetailFragment.java,26
+/app/src/main/java/com/cainwong/demo/mvp/fragments/BasePresenterFragment.java,53
+/app/src/main/java/com/cainwong/demo/mvp/fragments/IpsumListFragment.java,26
+/app/src/main/java/com/cainwong/demo/mvp/adapters/BasePresenterAdapter.java,34
+/app/src/main/java/com/cainwong/demo/mvp/adapters/IpsumListAdapter.java,32
+/app/src/main/java/com/cainwong/demo/mvp/vus/IpsumDetailVu.java,26
+/app/src/main/java/com/cainwong/demo/mvp/vus/IpsumListVu.java,36
+/app/src/main/java/com/cainwong/demo/mvp/vus/IpsumListItemVu.java,22
+/app/src/main/java/com/cainwong/demo/mvp/vus/MainVu.java,22
+/app/src/main/java/com/cainwong/demo/mvp/activities/BasePresenterActivity.java,57
+/app/src/main/java/com/cainwong/demo/mvp/activities/MainActivity.java,36
+/app/src/main/java/com/cainwong/demo/mvp/events/ItemSelectedEvent.java,7

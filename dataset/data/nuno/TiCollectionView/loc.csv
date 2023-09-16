@@ -1,0 +1,16 @@
+/android/src/de/marcelpociot/collectionview/CollectionViewTemplate.java,197
+/android/src/de/marcelpociot/collectionview/CollectionItemProxy.java,68
+/android/src/de/marcelpociot/collectionview/CollectionSectionProxy.java,786
+/android/src/de/marcelpociot/collectionview/ViewItem.java,41
+/android/src/de/marcelpociot/collectionview/BakedBezierInterpolator.java,40
+/android/src/de/marcelpociot/collectionview/SwipeRefreshLayout.java,416
+/android/src/de/marcelpociot/collectionview/ExampleProxy.java,75
+/android/src/de/marcelpociot/collectionview/BaseCollectionViewItem.java,52
+/android/src/de/marcelpociot/collectionview/CollectionView.java,733
+/android/src/de/marcelpociot/collectionview/TiGridView.java,591
+/android/src/de/marcelpociot/collectionview/AndroidcollectionviewModule.java,37
+/android/src/de/marcelpociot/collectionview/SwipeProgressBar.java,159
+/android/src/de/marcelpociot/collectionview/DefaultCollectionViewTemplate.java,88
+/android/src/de/marcelpociot/collectionview/CollectionSwipeRefreshLayout.java,44
+/android/src/de/marcelpociot/collectionview/CollectionViewProxy.java,376
+/android/src/de/marcelpociot/collectionview/CollectionItem.java,89

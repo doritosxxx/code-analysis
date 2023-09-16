@@ -1,0 +1,15 @@
+/app/src/main/java/me/declangao/wordpressreader/adaptor/RecyclerViewFragmentPagerAdaptor.java,0:
+/app/src/main/java/me/declangao/wordpressreader/adaptor/MyRecyclerViewAdaptor.java,0:
+/app/src/main/java/me/declangao/wordpressreader/model/Post.java,0:
+/app/src/main/java/me/declangao/wordpressreader/model/Category.java,0:
+/app/src/main/java/me/declangao/wordpressreader/app/PostFragment.java,0:
+/app/src/main/java/me/declangao/wordpressreader/app/RecyclerViewFragment.java,1:
+/app/src/main/java/me/declangao/wordpressreader/app/MainActivity.java,5:
+/app/src/main/java/me/declangao/wordpressreader/app/SearchResultFragment.java,0:
+/app/src/main/java/me/declangao/wordpressreader/app/CommentFragment.java,0:
+/app/src/main/java/me/declangao/wordpressreader/app/TabLayoutFragment.java,1:
+/app/src/main/java/me/declangao/wordpressreader/app/AppController.java,0:
+/app/src/main/java/me/declangao/wordpressreader/util/JSONParser.java,0:
+/app/src/main/java/me/declangao/wordpressreader/util/LruBitmapCache.java,1:
+/app/src/main/java/me/declangao/wordpressreader/util/MyWebViewClient.java,0:
+/app/src/main/java/me/declangao/wordpressreader/util/Config.java,0:

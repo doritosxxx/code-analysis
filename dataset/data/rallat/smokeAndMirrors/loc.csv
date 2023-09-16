@@ -1,0 +1,12 @@
+/app/src/main/java/com/israelferrer/smokeandmirrors/activity/GooglePhotosActivity.java,153
+/app/src/main/java/com/israelferrer/smokeandmirrors/activity/MainActivity.java,45
+/app/src/main/java/com/israelferrer/smokeandmirrors/activity/AnimationOverActivity.java,33
+/app/src/main/java/com/israelferrer/smokeandmirrors/activity/ClipChildrenActivity.java,54
+/app/src/main/java/com/israelferrer/smokeandmirrors/activity/ClipPaddingActivity.java,52
+/app/src/main/java/com/israelferrer/smokeandmirrors/AnimationUtils.java,22
+/app/src/main/java/com/israelferrer/smokeandmirrors/model/Photo.java,9
+/app/src/main/java/com/israelferrer/smokeandmirrors/view/MediumRecyclerViewHolder.java,17
+/app/src/main/java/com/israelferrer/smokeandmirrors/view/SmallRecyclerViewHolder.java,15
+/app/src/main/java/com/israelferrer/smokeandmirrors/gesturedetector/ItemTouchListenerDispatcher.java,55
+/app/src/main/java/com/israelferrer/smokeandmirrors/gesturedetector/SmallMediumGestureDetector.java,93
+/app/src/main/java/com/israelferrer/smokeandmirrors/SmallRecyclerAdapter.java,3

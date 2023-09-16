@@ -1,0 +1,11 @@
+/src/main/java/com/konifar/stringssearch/models/PluralStringElement.java,13
+/src/main/java/com/konifar/stringssearch/models/NormalStringElement.java,10
+/src/main/java/com/konifar/stringssearch/models/AbstractStringElement.java,10
+/src/main/java/com/konifar/stringssearch/models/QuantityStringElement.java,10
+/src/main/java/com/konifar/stringssearch/search/SearchStringItemProvider.java,9
+/src/main/java/com/konifar/stringssearch/search/StringElementListCellRenderer.java,26
+/src/main/java/com/konifar/stringssearch/search/SearchStringFilterFactory.java,22
+/src/main/java/com/konifar/stringssearch/search/StringEllipsisPolicy.java,14
+/src/main/java/com/konifar/stringssearch/search/SearchStringConfiguration.java,5
+/src/main/java/com/konifar/stringssearch/search/SearchStringModel.java,20
+/src/main/java/com/konifar/stringssearch/SearchStringsAction.java,9

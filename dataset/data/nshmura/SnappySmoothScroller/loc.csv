@@ -1,0 +1,16 @@
+/library/src/main/java/com/nshmura/snappysmoothscroller/SnappyGridLayoutManager.java,60
+/library/src/main/java/com/nshmura/snappysmoothscroller/SnappySmoothScroller.java,330
+/library/src/main/java/com/nshmura/snappysmoothscroller/StaggeredGridLayoutScrollVectorDetector.java,34
+/library/src/main/java/com/nshmura/snappysmoothscroller/SnappyLinearLayoutManager.java,60
+/library/src/main/java/com/nshmura/snappysmoothscroller/SnappyStaggeredGridLayoutManager.java,56
+/library/src/main/java/com/nshmura/snappysmoothscroller/LinearLayoutScrollVectorDetector.java,13
+/demo/src/main/java/com/nshmura/snappysmoothscroller/demo/DetailAdapter.java,95
+/demo/src/main/java/com/nshmura/snappysmoothscroller/demo/BaseActivity.java,19
+/demo/src/main/java/com/nshmura/snappysmoothscroller/demo/BasicActivity.java,39
+/demo/src/main/java/com/nshmura/snappysmoothscroller/demo/Basic2Activity.java,49
+/demo/src/main/java/com/nshmura/snappysmoothscroller/demo/MainActivity.java,92
+/demo/src/main/java/com/nshmura/snappysmoothscroller/demo/DemoAdapter.java,134
+/demo/src/main/java/com/nshmura/snappysmoothscroller/demo/DemoActivity.java,58
+/demo/src/main/java/com/nshmura/snappysmoothscroller/demo/BasicAdapter.java,64
+/demo/src/main/java/com/nshmura/snappysmoothscroller/demo/DetailActivity.java,192
+/demo/src/main/java/com/nshmura/snappysmoothscroller/demo/Utils.java,16

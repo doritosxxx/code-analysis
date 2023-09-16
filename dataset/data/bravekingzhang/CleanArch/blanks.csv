@@ -1,0 +1,15 @@
+/app/src/main/java/com/tencent/clean/RxBus.java,11
+/app/src/main/java/com/tencent/clean/data/RetrofitHelper.java,9
+/app/src/main/java/com/tencent/clean/data/model/SampleResult.java,8
+/app/src/main/java/com/tencent/clean/data/model/SampleModel.java,24
+/app/src/main/java/com/tencent/clean/data/repository/SampleRemoveRepositroyImpl.java,8
+/app/src/main/java/com/tencent/clean/data/repository/SampleLocalRepositoryImpl.java,11
+/app/src/main/java/com/tencent/clean/presentation/ui/fragment/SampleFragment.java,21
+/app/src/main/java/com/tencent/clean/presentation/ui/activities/MainActivity.java,9
+/app/src/main/java/com/tencent/clean/presentation/event/SampleRxEventClearDb.java,1
+/app/src/main/java/com/tencent/clean/presentation/event/SampleReloadEvent.java,1
+/app/src/main/java/com/tencent/clean/presentation/presenters/impl/MainPresenterImpl.java,18
+/app/src/main/java/com/tencent/clean/presentation/adapter/SampleAdapter.java,12
+/app/src/main/java/com/tencent/clean/domain/logic/Converter.java,6
+/app/src/main/java/com/tencent/clean/domain/usercase/SampleUserCase.java,7
+/app/src/main/java/com/tencent/clean/AndroidApplication.java,4

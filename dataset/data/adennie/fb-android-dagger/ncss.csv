@@ -1,0 +1,16 @@
+/src/main/java/com/fizzbuzz/android/dagger/InjectingFragmentModule.java,17:
+/src/main/java/com/fizzbuzz/android/dagger/InjectingBroadcastReceiver.java,30:
+/src/main/java/com/fizzbuzz/android/dagger/InjectingFragment.java,21:
+/src/main/java/com/fizzbuzz/android/dagger/InjectingActivity.java,17:
+/src/main/java/com/fizzbuzz/android/dagger/LoggingManager.java,3:
+/src/main/java/com/fizzbuzz/android/dagger/InjectingFragmentActivity.java,17:
+/src/main/java/com/fizzbuzz/android/dagger/Preconditions.java,5:
+/src/main/java/com/fizzbuzz/android/dagger/InjectingActionBarActivity.java,17:
+/src/main/java/com/fizzbuzz/android/dagger/InjectingPreferenceFragment.java,21:
+/src/main/java/com/fizzbuzz/android/dagger/InjectingActivityModule.java,13:
+/src/main/java/com/fizzbuzz/android/dagger/InjectingAppWidgetProvider.java,31:
+/src/main/java/com/fizzbuzz/android/dagger/InjectingService.java,26:
+/src/main/java/com/fizzbuzz/android/dagger/InjectingPreferenceActivity.java,17:
+/src/main/java/com/fizzbuzz/android/dagger/InjectingListFragment.java,21:
+/src/main/java/com/fizzbuzz/android/dagger/InjectingApplication.java,34:
+/src/main/java/com/fizzbuzz/android/dagger/InjectingDialogFragment.java,21:

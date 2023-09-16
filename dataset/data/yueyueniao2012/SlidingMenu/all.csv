@@ -1,0 +1,9 @@
+/gen/com/example/slidingmenu/BuildConfig.java,0,0:,0:,1,1:,0,1,0:,0:,4,0:,0,0,2:,1:,0:
+/gen/com/example/slidingmenu/R.java,0,0:,0:,5,1:,0,16,0:,0:,68,0:,0,0,59:,51:,0:
+/src/com/example/slidingmenu/activity/SlidingActivity.java,4,4:,0:,14,3:,4,15,0:,0:,61,6:,4,4,37:,0:,0:
+/src/com/example/slidingmenu/view/SlidingMenu.java,22,19:,0:,46,68:,157,21,3:,0:,352,15:,1,98,272:,1:,0:
+/src/com/example/slidingmenu/fragment/PageFragment2.java,0,0:,0:,8,1:,0,15,0:,0:,17,2:,0,0,5:,0:,0:
+/src/com/example/slidingmenu/fragment/RightFragment.java,0,0:,0:,6,1:,0,15,0:,0:,17,2:,0,0,5:,0:,0:
+/src/com/example/slidingmenu/fragment/PageFragment1.java,0,0:,0:,8,1:,0,15,0:,0:,17,2:,0,0,5:,0:,0:
+/src/com/example/slidingmenu/fragment/ViewPageFragment.java,2,6:,0:,37,5:,8,15,1:,0:,100,13:,2,2,52:,0:,0:
+/src/com/example/slidingmenu/fragment/LeftFragment.java,0,0:,0:,6,1:,0,15,0:,0:,17,2:,0,0,5:,0:,0:

@@ -1,0 +1,16 @@
+/grounded-java/src/org/alejolp/grounded/GamePanel.java,3,4:,0:,17,5:,10,22,1:,1:,66,5:,2,5,42:,1:,0:
+/grounded-java/src/org/alejolp/grounded/Constants.java,0,0:,0:,6,1:,0,18,0:,0:,17,0:,0,0,15:,14:,0:
+/grounded-java/src/org/alejolp/grounded/GameCanvas.java,6,2:,0:,26,12:,19,24,1:,0:,101,6:,1,9,58:,1:,0:
+/grounded-java/src/org/alejolp/grounded/Map.java,4,9:,0:,47,36:,41,25,1:,0:,179,14:,1,13,135:,0:,2:
+/grounded-java/src/org/alejolp/grounded/MainApplet.java,1,1:,0:,10,1:,2,18,1:,0:,27,3:,1,1,17:,1:,0:
+/grounded-java/src/org/alejolp/grounded/MainApp.java,0,1:,0:,10,1:,0,21,1:,0:,23,0:,0,0,15:,1:,1:
+/grounded-java/src/org/alejolp/grounded/gameobjects/Zombie.java,2,0:,0:,8,3:,2,21,1:,0:,21,2:,2,2,11:,0:,0:
+/grounded-java/src/org/alejolp/grounded/gameobjects/FireBall.java,5,1:,0:,10,5:,5,21,1:,0:,27,1:,5,5,17:,0:,0:
+/grounded-java/src/org/alejolp/grounded/gameobjects/Exit.java,0,0:,0:,5,1:,0,18,1:,0:,7,0:,0,0,3:,0:,0:
+/grounded-java/src/org/alejolp/grounded/gameobjects/Player.java,2,0:,0:,9,3:,2,18,1:,0:,28,2:,2,2,18:,0:,0:
+/grounded-java/src/org/alejolp/grounded/gameobjects/Ent.java,8,5:,0:,22,17:,26,21,1:,0:,91,6:,2,19,76:,0:,0:
+/grounded-java/src/org/alejolp/grounded/gameobjects/Item.java,0,0:,0:,5,1:,0,18,1:,0:,7,0:,0,0,3:,0:,0:
+/grounded-java/src/org/alejolp/grounded/gameobjects/GameObject.java,0,3:,0:,8,1:,0,20,1:,0:,19,3:,0,0,12:,0:,0:
+/grounded-java/src/org/alejolp/grounded/gameobjects/ZombiePortal.java,2,0:,0:,7,3:,2,18,1:,0:,20,2:,2,2,10:,0:,0:
+/grounded-java/src/org/alejolp/grounded/gameobjects/Elevator.java,12,4:,0:,7,7:,12,18,1:,0:,32,1:,12,12,24:,0:,0:
+/grounded-java/src/org/alejolp/grounded/Game.java,4,5:,0:,20,7:,9,20,1:,1:,62,5:,1,8,46:,1:,1:

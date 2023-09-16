@@ -1,0 +1,14 @@
+/src/com/google/javascript/rhino/JSDocInfoAccessor.java,12
+/src/com/google/javascript/jscomp/CompilerAccessor.java,9
+/src/com/google/javascript/jscomp/ModulePathAccessor.java,10
+/src/info/persistent/jscomp/Debug.java,56
+/src/info/persistent/jscomp/Ast.java,15
+/src/info/persistent/jscomp/AstDump.java,25
+/src/info/persistent/react/jscomp/SymbolTable.java,96
+/src/info/persistent/react/jscomp/StateTypeExtractor.java,154
+/src/info/persistent/react/jscomp/ReactCommandLineRunner.java,30
+/src/info/persistent/react/jscomp/PropTypesExtractor.java,856
+/src/info/persistent/react/jscomp/React.java,102
+/src/info/persistent/react/jscomp/Props.java,60
+/src/info/persistent/react/jscomp/ReactWarningsGuard.java,69
+/src/info/persistent/react/jscomp/ReactCompilerPass.java,1740

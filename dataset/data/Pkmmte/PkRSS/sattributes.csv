@@ -1,0 +1,16 @@
+/pkrss/src/main/java/com/pkmmte/pkrss/Category.java,1:
+/pkrss/src/main/java/com/pkmmte/pkrss/parser/Parser.java,0:
+/pkrss/src/main/java/com/pkmmte/pkrss/parser/Rss2Parser.java,0:
+/pkrss/src/main/java/com/pkmmte/pkrss/parser/AtomParser.java,0:
+/pkrss/src/main/java/com/pkmmte/pkrss/Request.java,1:
+/pkrss/src/main/java/com/pkmmte/pkrss/Enclosure.java,1:
+/pkrss/src/main/java/com/pkmmte/pkrss/PkRSS.java,11:
+/pkrss/src/main/java/com/pkmmte/pkrss/RequestCreator.java,1:
+/pkrss/src/main/java/com/pkmmte/pkrss/downloader/OkHttp3Downloader.java,0:
+/pkrss/src/main/java/com/pkmmte/pkrss/downloader/Downloader.java,0:
+/pkrss/src/main/java/com/pkmmte/pkrss/downloader/OkHttpDownloader.java,0:
+/pkrss/src/main/java/com/pkmmte/pkrss/downloader/DefaultDownloader.java,0:
+/pkrss/src/main/java/com/pkmmte/pkrss/Article.java,2:
+/pkrss/src/main/java/com/pkmmte/pkrss/Utils.java,1:
+/pkrss/src/main/java/com/pkmmte/pkrss/FavoriteDatabase.java,14:
+/pkrss/src/main/java/com/pkmmte/pkrss/CallbackHandler.java,1:

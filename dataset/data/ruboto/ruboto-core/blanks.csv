@@ -1,0 +1,15 @@
+/src/org/ruboto/RubotoService.java,20
+/src/org/ruboto/core/RubotoCoreActivity.java,1
+/src/org/ruboto/FrameworkHack.java,14
+/src/org/ruboto/JRubyAdapter.java,59
+/src/org/ruboto/Log.java,6
+/src/org/ruboto/Script.java,15
+/src/org/ruboto/RubotoBroadcastReceiver.java,8
+/src/org/ruboto/SplashActivity.java,25
+/src/org/ruboto/EntryPointActivity.java,7
+/src/org/ruboto/ScriptInfo.java,13
+/src/org/ruboto/RubotoActivity.java,71
+/src/org/ruboto/RubotoDialog.java,2
+/src/org/ruboto/ScriptLoader.java,9
+/src/org/ruboto/DexDex.java,31
+/test/src/org/ruboto/test/InstrumentationTestRunner.java,16

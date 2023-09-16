@@ -1,0 +1,7 @@
+/src/com/denismo/aws/iam/IAMAccountPasswordValidator.java,7
+/src/com/denismo/aws/iam/IAMSecretKeyValidator.java,7
+/src/com/denismo/aws/iam/IAMDualValidator.java,4
+/src/com/denismo/aws/iam/LDAPIAMPoller.java,135
+/src/com/denismo/apacheds/ApacheDSUtils.java,7
+/src/com/denismo/apacheds/auth/AWSIAMAuthenticator.java,27
+/src/com/denismo/apacheds/Runner.java,23

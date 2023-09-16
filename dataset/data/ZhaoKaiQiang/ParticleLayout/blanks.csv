@@ -1,0 +1,15 @@
+/Leonids/src/main/java/com/plattysoft/leonids/AnimatedParticle.java,5
+/Leonids/src/main/java/com/plattysoft/leonids/modifiers/AlphaModifier.java,8
+/Leonids/src/main/java/com/plattysoft/leonids/modifiers/AccelerationModifier.java,6
+/Leonids/src/main/java/com/plattysoft/leonids/modifiers/ScaleModifier.java,8
+/Leonids/src/main/java/com/plattysoft/leonids/ParticleField.java,9
+/Leonids/src/main/java/com/plattysoft/leonids/ParticleSystem.java,71
+/Leonids/src/main/java/com/plattysoft/leonids/Particle.java,28
+/Leonids/src/main/java/com/plattysoft/leonids/initializers/SpeeddModuleAndRangeInitializer.java,7
+/Leonids/src/main/java/com/plattysoft/leonids/initializers/RotationInitiazer.java,7
+/Leonids/src/main/java/com/plattysoft/leonids/initializers/ScaleInitializer.java,7
+/Leonids/src/main/java/com/plattysoft/leonids/initializers/SpeeddByComponentsInitializer.java,7
+/Leonids/src/main/java/com/plattysoft/leonids/initializers/AccelerationInitializer.java,7
+/Leonids/src/main/java/com/plattysoft/leonids/initializers/RotationSpeedInitializer.java,7
+/app/src/main/java/com/socks/particledeleteview/MainActivity.java,19
+/library/src/main/java/com/socks/library/ParticleLayout.java,37

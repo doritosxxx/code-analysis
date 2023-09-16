@@ -1,0 +1,10 @@
+/app/src/main/java/com/andexert/retrofitexample/ui/activity/MainActivity.java,45:
+/app/src/main/java/com/andexert/retrofitexample/model/Wind.java,4:
+/app/src/main/java/com/andexert/retrofitexample/model/MainInfos.java,16:
+/app/src/main/java/com/andexert/retrofitexample/model/Coord.java,7:
+/app/src/main/java/com/andexert/retrofitexample/model/Weather.java,11:
+/app/src/main/java/com/andexert/retrofitexample/model/Sys.java,12:
+/app/src/main/java/com/andexert/retrofitexample/app/App.java,7:
+/app/src/main/java/com/andexert/retrofitexample/rest/RestClient.java,7:
+/app/src/main/java/com/andexert/retrofitexample/rest/model/ApiResponse.java,19:
+/app/src/main/java/com/andexert/retrofitexample/rest/ItemTypeAdapterFactory.java,12:

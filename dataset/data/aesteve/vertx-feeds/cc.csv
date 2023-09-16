@@ -1,0 +1,12 @@
+/src/main/java/io/vertx/examples/feeds/verticles/MainVerticle.java,5:
+/src/main/java/io/vertx/examples/feeds/verticles/WebServer.java,3:
+/src/main/java/io/vertx/examples/feeds/verticles/FeedBroker.java,11:
+/src/main/java/io/vertx/examples/feeds/verticles/EmbeddedMongo.java,3:
+/src/main/java/io/vertx/examples/feeds/verticles/EmbeddedRedis.java,3:
+/src/main/java/io/vertx/examples/feeds/utils/RedisUtils.java,1:
+/src/main/java/io/vertx/examples/feeds/utils/StringUtils.java,5:
+/src/main/java/io/vertx/examples/feeds/dao/MongoDAO.java,7:
+/src/main/java/io/vertx/examples/feeds/dao/RedisDAO.java,6:
+/src/main/java/io/vertx/examples/feeds/handlers/api/FeedsApi.java,14:
+/src/main/java/io/vertx/examples/feeds/handlers/api/AuthenticationApi.java,5:
+/src/main/java/io/vertx/examples/feeds/handlers/UserContextHandler.java,6:

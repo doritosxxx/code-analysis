@@ -1,0 +1,13 @@
+/src/main/java/rx/observables/MathObservable.java,276
+/src/main/java/rx/math/operators/OnSubscribeSumLong.java,15
+/src/main/java/rx/math/operators/OnSubscribeMinMax.java,15
+/src/main/java/rx/math/operators/OnSubscribeSumInt.java,15
+/src/main/java/rx/math/operators/OperatorAverageDouble.java,23
+/src/main/java/rx/math/operators/ScalarDeferredSubscriber.java,24
+/src/main/java/rx/math/operators/OperatorAverageLong.java,23
+/src/main/java/rx/math/operators/OperatorSum.java,22
+/src/main/java/rx/math/operators/OperatorMinMax.java,21
+/src/main/java/rx/math/operators/OnSubscribeSumFloat.java,15
+/src/main/java/rx/math/operators/OperatorAverageFloat.java,23
+/src/main/java/rx/math/operators/OnSubscribeSumDouble.java,15
+/src/main/java/rx/math/operators/OperatorAverageInteger.java,23

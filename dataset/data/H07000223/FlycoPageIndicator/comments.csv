@@ -1,0 +1,12 @@
+/app/src/main/java/com/flyco/indicatorsamples/ui/FlycoPageIndicaorActivity.java,6
+/app/src/main/java/com/flyco/indicatorsamples/ui/SimpleHomeActivity.java,0
+/app/src/main/java/com/flyco/indicatorsamples/ui/RoundCornerIndicaorActivity.java,0
+/app/src/main/java/com/flyco/indicatorsamples/banner/SimpleImageBanner.java,5
+/app/src/main/java/com/flyco/indicatorsamples/utils/ViewFindUtils.java,15
+/app/src/main/java/com/flyco/indicatorsamples/adapter/SimpleHomeAdapter.java,1
+/FlycoPageIndicator_Lib/src/main/java/com/flyco/pageindicator/anim/base/IndicatorBaseAnimator.java,0
+/FlycoPageIndicator_Lib/src/main/java/com/flyco/pageindicator/anim/select/RotateEnter.java,0
+/FlycoPageIndicator_Lib/src/main/java/com/flyco/pageindicator/anim/select/ZoomInEnter.java,0
+/FlycoPageIndicator_Lib/src/main/java/com/flyco/pageindicator/anim/unselect/NoAnimExist.java,0
+/FlycoPageIndicator_Lib/src/main/java/com/flyco/pageindicator/indicator/FlycoPageIndicaor.java,20
+/FlycoPageIndicator_Lib/src/main/java/com/flyco/pageindicator/indicator/RoundCornerIndicaor.java,10

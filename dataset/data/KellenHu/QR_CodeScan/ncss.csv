@@ -1,0 +1,11 @@
+/gen/com/example/qr_codescan/BuildConfig.java,2:
+/gen/com/example/qr_codescan/R.java,56:
+/src/com/mining/app/zxing/decoding/DecodeHandler.java,36:
+/src/com/mining/app/zxing/decoding/DecodeFormatManager.java,57:
+/src/com/mining/app/zxing/decoding/InactivityTimer.java,23:
+/src/com/mining/app/zxing/decoding/Intents.java,35:
+/src/com/mining/app/zxing/decoding/FinishListener.java,10:
+/src/com/mining/app/zxing/camera/PlanarYUVLuminanceSource.java,56:
+/src/com/mining/app/zxing/camera/AutoFocusCallback.java,15:
+/src/com/mining/app/zxing/camera/PreviewCallback.java,22:
+/src/com/mining/app/zxing/view/ViewfinderResultPointCallback.java,6:

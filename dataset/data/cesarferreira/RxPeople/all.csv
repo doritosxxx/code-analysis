@@ -1,0 +1,14 @@
+/rxpeople/src/main/java/github/cesarferreira/rxpeople/models/EncapsulatedUser.java,0,2:,0:,7,1:,0,0,1:,0:,10,0:,0,0,4:,0:,0:
+/rxpeople/src/main/java/github/cesarferreira/rxpeople/models/FakeLocation.java,0,4:,0:,11,1:,0,3,1:,0:,33,8:,0,0,22:,0:,0:
+/rxpeople/src/main/java/github/cesarferreira/rxpeople/models/FakeUser.java,0,17:,0:,40,1:,0,0,1:,1:,131,36:,0,0,91:,0:,0:
+/rxpeople/src/main/java/github/cesarferreira/rxpeople/models/FakePicture.java,0,3:,0:,2,1:,0,3,1:,0:,8,0:,0,0,5:,0:,0:
+/rxpeople/src/main/java/github/cesarferreira/rxpeople/models/FetchedData.java,0,1:,0:,4,1:,0,0,0:,0:,7,0:,0,0,2:,0:,0:
+/rxpeople/src/main/java/github/cesarferreira/rxpeople/models/FakeName.java,0,3:,0:,3,1:,0,3,1:,0:,8,0:,0,0,5:,0:,0:
+/rxpeople/src/main/java/github/cesarferreira/rxpeople/utils/Gender.java,1,1:,0:,8,2:,1,0,1:,0:,15,2:,1,1,10:,2:,0:
+/rxpeople/src/main/java/github/cesarferreira/rxpeople/utils/Nationality.java,1,1:,0:,8,2:,1,0,1:,0:,25,2:,1,1,20:,12:,0:
+/rxpeople/src/main/java/github/cesarferreira/rxpeople/RxPeople.java,3,5:,0:,18,4:,3,18,1:,0:,65,8:,3,3,35:,1:,1:
+/rxpeople/src/main/java/github/cesarferreira/rxpeople/rest/RestClient.java,0,2:,0:,8,1:,0,0,1:,0:,19,1:,0,0,7:,0:,0:
+/rxpeople/src/main/java/github/cesarferreira/rxpeople/rest/SessionRequestInterceptor.java,0,0:,0:,2,1:,0,0,0:,1:,8,1:,0,0,3:,0:,0:
+/sample/src/main/java/github/cesarferreira/rxpeople/sample/MainActivity.java,1,0:,0:,7,2:,1,0,0:,0:,15,1:,1,1,7:,0:,0:
+/sample/src/main/java/github/cesarferreira/rxpeople/sample/UsersAdapterFragment.java,0,3:,0:,27,1:,0,3,1:,0:,81,8:,0,0,31:,0:,0:
+/sample/src/main/java/github/cesarferreira/rxpeople/sample/UsersAdapter.java,0,4:,0:,23,1:,0,0,2:,0:,62,5:,0,0,30:,1:,0:

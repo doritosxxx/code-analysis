@@ -1,0 +1,5 @@
+/code/jipsg/common/src/main/java/org/github/jipsg/common/image/BufferedImageUtils.java,2
+/code/jipsg/common/src/main/java/org/github/jipsg/common/image/BufferedImageFactory.java,3
+/code/jipsg/common/src/main/java/org/github/jipsg/common/image/BufferedImageOperations.java,2
+/code/jipsg/common/src/main/java/org/github/jipsg/common/image/ops/InvertImageOp.java,1
+/code/jipsg/common/src/main/java/org/github/jipsg/common/image/ops/AlphaChannelImageOp.java,0

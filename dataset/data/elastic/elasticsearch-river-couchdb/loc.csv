@@ -1,0 +1,3 @@
+/src/main/java/org/elasticsearch/river/couchdb/CouchdbRiver.java,491
+/src/main/java/org/elasticsearch/river/couchdb/CouchdbRiverModule.java,9
+/src/main/java/org/elasticsearch/plugin/river/couchdb/CouchdbRiverPlugin.java,21

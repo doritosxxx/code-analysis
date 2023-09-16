@@ -1,0 +1,17 @@
+/fasttuple-core/src/main/java/com/boundary/tuple/SizeOf.java,0:
+/fasttuple-core/src/main/java/com/boundary/tuple/unsafe/Coterie.java,0:
+/fasttuple-core/src/main/java/com/boundary/tuple/HeapTupleSchema.java,6:
+/fasttuple-core/src/main/java/com/boundary/tuple/DirectTupleSchema.java,30:
+/fasttuple-core/src/main/java/com/boundary/tuple/codegen/TupleExpressionGenerator.java,26:
+/fasttuple-core/src/main/java/com/boundary/tuple/codegen/TupleAllocatorGenerator.java,3:
+/fasttuple-core/src/main/java/com/boundary/tuple/codegen/TupleCodeGenerator.java,20:
+/fasttuple-core/src/main/java/com/boundary/tuple/codegen/DirectTupleCodeGenerator.java,8:
+/fasttuple-core/src/main/java/com/boundary/tuple/codegen/HeapTupleCodeGenerator.java,7:
+/fasttuple-core/src/main/java/com/boundary/tuple/codegen/CodegenUtil.java,0:
+/fasttuple-core/src/main/java/com/boundary/tuple/TuplePool.java,8:
+/fasttuple-core/src/main/java/com/boundary/tuple/FastTuple.java,16:
+/fasttuple-core/src/main/java/com/boundary/tuple/TupleSchema.java,25:
+/fasttuple-bench/src/main/java/com/boundary/tuple/AccessMethodBenchmark.java,27:
+/fasttuple-bench/src/main/java/com/boundary/tuple/FastTupleBenchmarks.java,29:
+/fasttuple-bench/src/main/java/com/boundary/tuple/Container.java,0:
+/fasttuple-bench/src/main/java/other/FastObjectPool.java,5:

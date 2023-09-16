@@ -1,0 +1,12 @@
+/app/src/main/java/cn/ittiger/uc/MainActivity.java,12
+/app/src/main/java/cn/ittiger/uc/view/behavior/base/ViewOffsetHelper.java,14
+/app/src/main/java/cn/ittiger/uc/view/behavior/base/MathUtils.java,3
+/app/src/main/java/cn/ittiger/uc/view/behavior/base/ViewOffsetBehavior.java,15
+/app/src/main/java/cn/ittiger/uc/view/behavior/base/HeaderScrollingViewBehavior.java,28
+/app/src/main/java/cn/ittiger/uc/view/behavior/UCViewTitleBehavior.java,14
+/app/src/main/java/cn/ittiger/uc/view/behavior/UCViewHeaderBehavior.java,41
+/app/src/main/java/cn/ittiger/uc/view/behavior/UCViewTabBehavior.java,19
+/app/src/main/java/cn/ittiger/uc/view/behavior/UCViewContentBehavior.java,21
+/app/src/main/java/cn/ittiger/uc/adapter/ContentFragmentAdapter.java,10
+/app/src/main/java/cn/ittiger/uc/adapter/ContentAdapter.java,15
+/app/src/main/java/cn/ittiger/uc/fragment/ContentFragment.java,15

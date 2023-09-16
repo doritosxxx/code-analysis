@@ -1,0 +1,12 @@
+/easyrecyclerview/src/main/java/com/camnter/easyrecyclerview/widget/decorator/EasyDividerItemDecoration.java,54
+/easyrecyclerview/src/main/java/com/camnter/easyrecyclerview/widget/decorator/EasyBorderDividerItemDecoration.java,54
+/easyrecyclerview/src/main/java/com/camnter/easyrecyclerview/widget/EasyRecyclerView.java,30
+/easyrecyclerview/src/main/java/com/camnter/easyrecyclerview/holder/EasyRecyclerViewHolder.java,71
+/easyrecyclerview/src/main/java/com/camnter/easyrecyclerview/adapter/EasyRecyclerViewAdapter.java,68
+/app/src/main/java/com/camnter/easyrecyclerviewtest/activity/EasyDividerItemDecorationActivity.java,21
+/app/src/main/java/com/camnter/easyrecyclerviewtest/activity/MainActivity.java,26
+/app/src/main/java/com/camnter/easyrecyclerviewtest/activity/EasyBorderDividerItemDecorationActivity.java,20
+/app/src/main/java/com/camnter/easyrecyclerviewtest/adapter/MainAdapter.java,44
+/app/src/main/java/com/camnter/easyrecyclerviewtest/adapter/EasyBorderDividerItemDecorationAdapter.java,44
+/app/src/main/java/com/camnter/easyrecyclerviewtest/adapter/EasyDividerItemDecorationAdapter.java,44
+/app/src/main/java/com/camnter/easyrecyclerviewtest/bean/EasyRecyclerViewData.java,20

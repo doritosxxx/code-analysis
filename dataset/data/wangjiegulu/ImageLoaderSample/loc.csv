@@ -1,0 +1,7 @@
+/gen/com/wangjie/imageloadersample/Manifest.java,3
+/gen/com/wangjie/imageloadersample/R.java,3
+/src/com/wangjie/imageloadersample/customviews/FadeImageView.java,59
+/src/com/wangjie/imageloadersample/imageloader/FileCache.java,31
+/src/com/wangjie/imageloadersample/imageloader/ImageLoader.java,278
+/src/com/wangjie/imageloadersample/imageloader/CacheConfig.java,44
+/src/com/wangjie/imageloadersample/imageloader/MemoryCache.java,64

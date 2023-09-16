@@ -1,0 +1,10 @@
+/xselector/src/main/java/com/android/xselector/XSelector.java,23
+/xselector/src/main/java/com/android/xselector/selector/ColorSelector.java,23
+/xselector/src/main/java/com/android/xselector/selector/ShapeSelector.java,86
+/xselector/src/main/java/com/android/xselector/selector/DrawableSelector.java,23
+/xselector/src/main/java/com/android/xselector/utils/XHelper.java,4
+/xselector/src/main/java/com/android/xselector/shadow/ShadowHelper.java,28
+/app/src/main/java/com/liujc/xselectordemo/ShadowActivity.java,8
+/app/src/main/java/com/liujc/xselectordemo/MainActivity.java,13
+/app/src/main/java/com/liujc/xselectordemo/ShapeActivity.java,7
+/app/src/main/java/com/liujc/xselectordemo/AppApplication.java,4

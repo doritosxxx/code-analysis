@@ -1,0 +1,15 @@
+/luhn/src/main/java/xyz/belvi/luhn/BaseActivity.java,0:
+/luhn/src/main/java/xyz/belvi/luhn/screens/CardVerificationProgressScreen.java,0:
+/luhn/src/main/java/xyz/belvi/luhn/customTextInputLayout/textWatchers/OTPTextWatcher.java,0:
+/luhn/src/main/java/xyz/belvi/luhn/customTextInputLayout/textWatchers/PinTextWatcher.java,0:
+/luhn/src/main/java/xyz/belvi/luhn/customTextInputLayout/textWatchers/CvvTextWatcher.java,0:
+/luhn/src/main/java/xyz/belvi/luhn/customTextInputLayout/textWatchers/CardNumberTextWatcher.java,0:
+/luhn/src/main/java/xyz/belvi/luhn/customTextInputLayout/textWatchers/ExpiringDateTextWatcher.java,1:
+/luhn/src/main/java/xyz/belvi/luhn/customTextInputLayout/transformations/CreditCardTransformation.java,1:
+/luhn/src/main/java/xyz/belvi/luhn/customTextInputLayout/inputLayouts/PinTextInputLayout.java,0:
+/luhn/src/main/java/xyz/belvi/luhn/customTextInputLayout/inputLayouts/CardTextInputLayout.java,0:
+/luhn/src/main/java/xyz/belvi/luhn/cardValidator/models/Card.java,0:
+/luhn/src/main/java/xyz/belvi/luhn/cardValidator/models/LuhnCard.java,0:
+/luhn/src/main/java/xyz/belvi/luhn/cardValidator/CardValidator.java,0:
+/luhn/src/main/java/xyz/belvi/luhn/Luhn.java,4:
+/app/src/main/java/xyz/belvi/addcard/MainActivity.java,0:

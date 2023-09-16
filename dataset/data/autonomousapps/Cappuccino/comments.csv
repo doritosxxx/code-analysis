@@ -1,0 +1,11 @@
+/cappuccino-no-op/src/main/java/com/metova/cappuccino/Cappuccino.java,1
+/cappuccino-no-op/src/main/java/com/metova/cappuccino/CappuccinoResourceWatcher.java,0
+/cappuccino/src/main/java/com/metova/cappuccino/animations/WindowManager.java,0
+/cappuccino/src/main/java/com/metova/cappuccino/animations/PermissionChecker.java,0
+/cappuccino/src/main/java/com/metova/cappuccino/animations/SystemAnimations.java,12
+/cappuccino/src/main/java/com/metova/cappuccino/CappuccinoIdlingResource.java,11
+/cappuccino/src/main/java/com/metova/cappuccino/CappuccinoException.java,0
+/cappuccino/src/main/java/com/metova/cappuccino/Cappuccino.java,149
+/cappuccino/src/main/java/com/metova/cappuccino/CappuccinoResourceWatcher.java,11
+/cappuccino-sample/src/main/java/com/example/cappuccino/MainActivity.java,15
+/cappuccino-sample/src/main/java/com/example/cappuccino/SecondActivity.java,1

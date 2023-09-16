@@ -1,0 +1,17 @@
+/example/ADT/src/it/polimi/poccodeloading/MainActivity.java,9,3:,0:,133,25:,36,112,0:,0:,291,10:,6,16,169:,8:,0:
+/example/ADT/src/it/polimi/poccodeloading/DexClassSampleActivity.java,5,10:,0:,95,13:,27,73,0:,0:,218,12:,2,10,120:,1:,0:
+/example/AS/app/src/main/java/it/polimi/poccodeloading/MainActivity.java,8,3:,0:,114,23:,33,107,0:,0:,281,10:,6,13,157:,8:,0:
+/example/AS/app/src/main/java/it/polimi/poccodeloading/DexClassSampleActivity.java,5,10:,0:,95,13:,27,72,0:,0:,219,12:,2,10,120:,1:,0:
+/repackPOC/RepackInputSelector/src/it/necst/grabnrun/selector/LinkContainerDialog.java,12,11:,0:,131,39:,77,63,1:,0:,306,8:,1,57,213:,5:,0:
+/repackPOC/RepackInputSelector/src/it/necst/grabnrun/selector/MainFrame.java,13,8:,0:,87,24:,52,24,1:,0:,203,10:,2,37,145:,3:,1:
+/gnr/app/src/main/java/it/necst/grabnrun/FileFilterByNameMatch.java,4,2:,0:,7,4:,4,32,1:,1:,32,1:,4,4,18:,1:,0:
+/gnr/app/src/main/java/it/necst/grabnrun/PackageNameTrie.java,2,1:,0:,31,8:,11,76,1:,0:,55,4:,1,4,37:,1:,0:
+/gnr/app/src/main/java/it/necst/grabnrun/CertificateFileFilterByNameMatch.java,0,0:,0:,6,1:,0,32,1:,0:,12,0:,0,0,4:,1:,0:
+/gnr/app/src/main/java/it/necst/grabnrun/SecureLoaderFactory.java,12,3:,0:,124,57:,115,242,2:,0:,350,8:,1,33,179:,7:,2:
+/gnr/app/src/main/java/it/necst/grabnrun/FileHelper.java,1,0:,0:,25,6:,6,0,0:,0:,54,0:,1,2,34:,3:,7:
+/gnr/app/src/main/java/it/necst/grabnrun/SecureDexClassLoader.java,14,14:,0:,236,83:,178,312,2:,0:,459,9:,1,46,262:,7:,3:
+/gnr/app/src/main/java/it/necst/grabnrun/FileDownloader.java,19,2:,0:,50,22:,38,71,1:,0:,156,7:,2,36,80:,4:,0:
+/gnr/app/src/main/java/it/necst/grabnrun/PackageNameHelper.java,3,0:,0:,16,7:,7,1,0:,0:,47,0:,1,6,31:,6:,2:
+/gnr/app/src/main/java/it/necst/grabnrun/ContainerSignatureVerifier.java,43,2:,0:,51,30:,86,47,1:,0:,159,2:,32,54,87:,1:,0:
+/gnr/app/src/main/java/it/necst/grabnrun/CacheLogger.java,4,6:,0:,38,22:,32,83,1:,0:,150,9:,1,13,100:,12:,0:
+/gnr/app/src/main/java/it/necst/grabnrun/DexPathStringProcessor.java,2,2:,0:,16,3:,2,1,1:,0:,46,3:,2,2,24:,4:,0:

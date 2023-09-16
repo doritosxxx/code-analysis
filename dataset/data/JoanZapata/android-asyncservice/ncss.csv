@@ -1,0 +1,16 @@
+/android-asyncservice-api/src/main/java/com/joanzapata/android/asyncservice/api/ErrorMapper.java,6:
+/android-asyncservice-api/src/main/java/com/joanzapata/android/asyncservice/api/annotation/OnMessage.java,8:
+/android-asyncservice-api/src/main/java/com/joanzapata/android/asyncservice/api/Message.java,22:
+/android-asyncservice-api/src/main/java/com/joanzapata/android/asyncservice/api/internal/Injector.java,14:
+/android-asyncservice-api/src/main/java/com/joanzapata/android/asyncservice/api/internal/AsyncService.java,40:
+/android-asyncservice-api/src/main/java/com/joanzapata/android/asyncservice/api/internal/BackgroundExecutor.java,112:
+/android-asyncservice-demo/src/main/java/com/joanzapata/android/asyncservice/demo/DemoService.java,16:
+/android-asyncservice-demo/src/main/java/com/joanzapata/android/asyncservice/demo/event/UserEvent.java,15:
+/android-asyncservice-demo/src/main/java/com/joanzapata/android/asyncservice/demo/event/NoUserEvent.java,1:
+/android-asyncservice-demo/src/main/java/com/joanzapata/android/asyncservice/demo/DummyErrorMessage.java,6:
+/android-asyncservice-demo/src/main/java/com/joanzapata/android/asyncservice/demo/MainActivity.java,20:
+/android-asyncservice/src/main/java/com/joanzapata/android/asyncservice/api/internal/AsyncServiceCache.java,66:
+/android-asyncservice-processors/src/main/java/com/joanzapata/android/asyncservice/processors/AsyncServiceAP.java,182:
+/android-asyncservice-processors/src/main/java/com/joanzapata/android/asyncservice/processors/InjectAP.java,75:
+/android-asyncservice-processors/src/main/java/com/joanzapata/android/asyncservice/processors/utils/Logger.java,15:
+/android-asyncservice-processors/src/main/java/com/joanzapata/android/asyncservice/processors/utils/Utils.java,120:

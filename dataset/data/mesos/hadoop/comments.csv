@@ -1,0 +1,8 @@
+/src/main/java/org/apache/mesos/hadoop/Metrics.java,0
+/src/main/java/org/apache/mesos/hadoop/Utils.java,3
+/src/main/java/org/apache/hadoop/mapred/MesosScheduler.java,57
+/src/main/java/org/apache/hadoop/mapred/ResourcePolicy.java,44
+/src/main/java/org/apache/hadoop/mapred/ResourcePolicyFixed.java,3
+/src/main/java/org/apache/hadoop/mapred/MesosExecutor.java,24
+/src/main/java/org/apache/hadoop/mapred/ResourcePolicyVariable.java,13
+/src/main/java/org/apache/hadoop/mapred/MesosTracker.java,18

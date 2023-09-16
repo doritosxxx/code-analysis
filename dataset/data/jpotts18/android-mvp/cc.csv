@@ -1,0 +1,12 @@
+/app/src/main/java/io/jpotts18/android_mvp/domain/ui/fragments/RepoListFragment.java,1:
+/app/src/main/java/io/jpotts18/android_mvp/domain/ui/LoginActivity.java,1:
+/app/src/main/java/io/jpotts18/android_mvp/domain/ui/activities/RepoListActivity.java,1:
+/app/src/main/java/io/jpotts18/android_mvp/domain/ui/activities/RepoListFragmentActivity.java,1:
+/app/src/main/java/io/jpotts18/android_mvp/domain/ui/activities/LoginActivity.java,2:
+/app/src/main/java/io/jpotts18/android_mvp/domain/models/Repo.java,1:
+/app/src/main/java/io/jpotts18/android_mvp/domain/login/LoginPresenter.java,1:
+/app/src/main/java/io/jpotts18/android_mvp/domain/login/async/AsyncLoginInteractor.java,3:
+/app/src/main/java/io/jpotts18/android_mvp/domain/login/sync/SynchronousLoginInteractor.java,1:
+/app/src/main/java/io/jpotts18/android_mvp/domain/repos/RepoAdapter.java,2:
+/app/src/main/java/io/jpotts18/android_mvp/domain/repos/RepoListInteractor.java,2:
+/app/src/main/java/io/jpotts18/android_mvp/domain/repos/RepoListPresenter.java,1:

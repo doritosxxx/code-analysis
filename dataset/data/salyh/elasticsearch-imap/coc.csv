@@ -1,0 +1,15 @@
+/src/main/java/org/elasticsearch/node/PluginAwareNode.java,0
+/src/main/java/de/saly/elasticsearch/importer/imap/maildestination/ElasticsearchMailDestination.java,49
+/src/main/java/de/saly/elasticsearch/importer/imap/maildestination/ElasticsearchBulkMailDestination.java,14
+/src/main/java/de/saly/elasticsearch/importer/imap/IMAPImporterCl.java,15
+/src/main/java/de/saly/elasticsearch/importer/imap/support/MailFlowJob.java,7
+/src/main/java/de/saly/elasticsearch/importer/imap/support/IMAPUtils.java,19
+/src/main/java/de/saly/elasticsearch/importer/imap/support/DeleteByQuery.java,3
+/src/main/java/de/saly/elasticsearch/importer/imap/support/IndexableMailMessage.java,119
+/src/main/java/de/saly/elasticsearch/importer/imap/ldap/SimpleLdapConnector.java,17
+/src/main/java/de/saly/elasticsearch/importer/imap/ldap/LdapLoginSource.java,33
+/src/main/java/de/saly/elasticsearch/importer/imap/state/ElasticsearchStateManager.java,10
+/src/main/java/de/saly/elasticsearch/importer/imap/state/State.java,10
+/src/main/java/de/saly/elasticsearch/importer/imap/impl/IMAPImporter.java,59
+/src/main/java/de/saly/elasticsearch/importer/imap/mailsource/ParallelPollingPOPMailSource.java,54
+/src/main/java/de/saly/elasticsearch/importer/imap/mailsource/ParallelPollingIMAPMailSource.java,135

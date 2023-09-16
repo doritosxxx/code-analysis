@@ -1,0 +1,17 @@
+/libsuperuser/src/eu/chainfire/libsuperuser/Debug.java,73
+/libsuperuser/src/eu/chainfire/libsuperuser/Shell.java,815
+/libsuperuser/src/eu/chainfire/libsuperuser/ShellOnMainThreadException.java,10
+/libsuperuser/src/eu/chainfire/libsuperuser/StreamGobbler.java,41
+/libsuperuser/src/eu/chainfire/libsuperuser/ShellNotClosedException.java,8
+/app/src/main/java/me/yugy/github/developquicksetting/Conf.java,9
+/app/src/main/java/me/yugy/github/developquicksetting/DevelopWidgetProvider.java,97
+/app/src/main/java/me/yugy/github/developquicksetting/Behaviour.java,10
+/app/src/main/java/me/yugy/github/developquicksetting/InstallerActivity.java,94
+/app/src/main/java/me/yugy/github/developquicksetting/MainActivity.java,190
+/app/src/main/java/me/yugy/github/developquicksetting/DeveloperSettings.java,162
+/app/src/main/java/me/yugy/github/developquicksetting/MainFragment.java,182
+/app/src/main/java/me/yugy/github/developquicksetting/SystemPropPoker.java,43
+/app/src/main/java/me/yugy/github/developquicksetting/DevelopSettingsService.java,107
+/app/src/main/java/me/yugy/github/developquicksetting/Application.java,14
+/app/src/main/java/me/yugy/github/developquicksetting/Utils.java,34
+/app/src/main/java/me/yugy/github/developquicksetting/Property.java,27

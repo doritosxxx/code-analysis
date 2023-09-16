@@ -1,0 +1,17 @@
+/viewsfrom/src/main/java/com/jaouan/viewsfrom/filters/AbstractRegexViewFilter.java,0:
+/viewsfrom/src/main/java/com/jaouan/viewsfrom/filters/TypeViewFilter.java,0:
+/viewsfrom/src/main/java/com/jaouan/viewsfrom/filters/IdViewFilter.java,0:
+/viewsfrom/src/main/java/com/jaouan/viewsfrom/filters/ComplementedViewFilter.java,0:
+/viewsfrom/src/main/java/com/jaouan/viewsfrom/filters/VisibilityViewFilter.java,0:
+/viewsfrom/src/main/java/com/jaouan/viewsfrom/filters/FilterHelper.java,2:
+/viewsfrom/src/main/java/com/jaouan/viewsfrom/filters/AbstractEqualsViewFilter.java,0:
+/viewsfrom/src/main/java/com/jaouan/viewsfrom/filters/TagViewFilter.java,0:
+/viewsfrom/src/main/java/com/jaouan/viewsfrom/filters/ExcluderViewFilter.java,0:
+/viewsfrom/src/main/java/com/jaouan/viewsfrom/filters/TagRegexViewFilter.java,0:
+/viewsfrom/src/main/java/com/jaouan/viewsfrom/filters/AggregatedViewFilters.java,0:
+/viewsfrom/src/main/java/com/jaouan/viewsfrom/ViewsFinder.java,0:
+/viewsfrom/src/main/java/com/jaouan/viewsfrom/FunctionUtils.java,3:
+/viewsfrom/src/main/java/com/jaouan/viewsfrom/ViewsAnimator.java,0:
+/viewsfrom/src/main/java/com/jaouan/viewsfrom/ViewsHelper.java,1:
+/viewsfrom/src/main/java/com/jaouan/viewsfrom/Views.java,1:
+/app/src/main/java/com/jaouan/viewsfrom/example/ExampleActivity.java,0:

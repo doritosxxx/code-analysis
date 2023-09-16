@@ -1,0 +1,10 @@
+/xselector/src/main/java/com/android/xselector/XSelector.java,2,0:,0:,23,4:,4,70,0:,0:,72,0:,1,3,39:,2:,13:
+/xselector/src/main/java/com/android/xselector/selector/ColorSelector.java,3,6:,0:,23,7:,7,22,0:,1:,111,17:,3,4,75:,2:,1:
+/xselector/src/main/java/com/android/xselector/selector/ShapeSelector.java,4,39:,0:,86,58:,65,197,1:,1:,521,45:,1,8,434:,9:,1:
+/xselector/src/main/java/com/android/xselector/selector/DrawableSelector.java,1,7:,0:,23,7:,12,41,1:,1:,115,16:,1,4,73:,1:,1:
+/xselector/src/main/java/com/android/xselector/utils/XHelper.java,0,0:,0:,4,1:,0,5,0:,0:,11,0:,0,0,5:,0:,2:
+/xselector/src/main/java/com/android/xselector/shadow/ShadowHelper.java,2,10:,0:,28,10:,14,49,1:,0:,172,19:,1,6,118:,8:,2:
+/app/src/main/java/com/liujc/xselectordemo/ShadowActivity.java,0,0:,0:,8,1:,0,0,0:,0:,73,3:,0,0,14:,0:,0:
+/app/src/main/java/com/liujc/xselectordemo/MainActivity.java,0,3:,0:,13,1:,0,5,0:,0:,152,9:,0,0,58:,0:,0:
+/app/src/main/java/com/liujc/xselectordemo/ShapeActivity.java,0,0:,0:,7,1:,0,12,0:,0:,164,2:,0,0,30:,0:,0:
+/app/src/main/java/com/liujc/xselectordemo/AppApplication.java,0,0:,0:,4,1:,0,6,0:,0:,10,1:,0,0,4:,0:,0:

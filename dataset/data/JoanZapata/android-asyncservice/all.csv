@@ -1,0 +1,16 @@
+/android-asyncservice-api/src/main/java/com/joanzapata/android/asyncservice/api/ErrorMapper.java,0,0:,0:,5,1:,0,27,0:,1:,11,1:,0,0,6:,0:,0:
+/android-asyncservice-api/src/main/java/com/joanzapata/android/asyncservice/api/annotation/OnMessage.java,0,0:,0:,8,1:,0,16,0:,0:,19,0:,0,0,8:,0:,0:
+/android-asyncservice-api/src/main/java/com/joanzapata/android/asyncservice/api/Message.java,1,4:,0:,14,2:,1,20,1:,1:,34,7:,1,1,22:,0:,0:
+/android-asyncservice-api/src/main/java/com/joanzapata/android/asyncservice/api/internal/Injector.java,1,1:,0:,10,2:,1,21,0:,0:,22,5:,1,1,14:,0:,0:
+/android-asyncservice-api/src/main/java/com/joanzapata/android/asyncservice/api/internal/AsyncService.java,3,0:,0:,22,13:,15,46,0:,0:,63,0:,1,4,40:,2:,7:
+/android-asyncservice-api/src/main/java/com/joanzapata/android/asyncservice/api/internal/BackgroundExecutor.java,5,7:,0:,26,28:,42,127,1:,0:,147,4:,1,12,112:,3:,10:
+/android-asyncservice-demo/src/main/java/com/joanzapata/android/asyncservice/demo/DemoService.java,1,0:,0:,10,2:,1,33,0:,0:,46,4:,1,1,16:,1:,2:
+/android-asyncservice-demo/src/main/java/com/joanzapata/android/asyncservice/demo/event/UserEvent.java,0,3:,0:,10,1:,0,15,2:,1:,22,3:,0,0,15:,0:,0:
+/android-asyncservice-demo/src/main/java/com/joanzapata/android/asyncservice/demo/event/NoUserEvent.java,0,0:,0:,2,1:,0,0,0:,0:,3,0:,0,0,1:,0:,0:
+/android-asyncservice-demo/src/main/java/com/joanzapata/android/asyncservice/demo/DummyErrorMessage.java,0,2:,0:,4,1:,0,0,1:,0:,10,0:,0,0,6:,0:,0:
+/android-asyncservice-demo/src/main/java/com/joanzapata/android/asyncservice/demo/MainActivity.java,0,2:,0:,15,1:,0,38,0:,0:,47,6:,0,0,20:,1:,0:
+/android-asyncservice/src/main/java/com/joanzapata/android/asyncservice/api/internal/AsyncServiceCache.java,2,0:,0:,38,21:,24,36,1:,0:,93,0:,1,4,66:,3:,9:
+/android-asyncservice-processors/src/main/java/com/joanzapata/android/asyncservice/processors/AsyncServiceAP.java,12,3:,0:,83,58:,103,67,1:,0:,385,10:,1,33,182:,1:,0:
+/android-asyncservice-processors/src/main/java/com/joanzapata/android/asyncservice/processors/InjectAP.java,21,2:,0:,38,20:,42,37,0:,0:,161,2:,3,39,75:,1:,0:
+/android-asyncservice-processors/src/main/java/com/joanzapata/android/asyncservice/processors/utils/Logger.java,0,1:,0:,12,1:,0,18,1:,0:,28,4:,0,0,15:,0:,0:
+/android-asyncservice-processors/src/main/java/com/joanzapata/android/asyncservice/processors/utils/Utils.java,2,0:,0:,39,33:,43,45,0:,0:,173,0:,1,11,120:,0:,28:

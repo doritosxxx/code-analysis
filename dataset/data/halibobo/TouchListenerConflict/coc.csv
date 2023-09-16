@@ -1,0 +1,12 @@
+/app/src/main/java/me/daei/touchlistenerconflict/widget/DragGridView.java,31
+/app/src/main/java/me/daei/touchlistenerconflict/widget/ControlScrollView.java,33
+/app/src/main/java/me/daei/touchlistenerconflict/widget/ViewWithSign.java,3
+/app/src/main/java/me/daei/touchlistenerconflict/LazyLoadFragment.java,4
+/app/src/main/java/me/daei/touchlistenerconflict/GridDatas.java,0
+/app/src/main/java/me/daei/touchlistenerconflict/AboutFragment.java,3
+/app/src/main/java/me/daei/touchlistenerconflict/MainActivity.java,7
+/app/src/main/java/me/daei/touchlistenerconflict/MainFragment.java,14
+/app/src/main/java/me/daei/touchlistenerconflict/ScreenUtils.java,0
+/app/src/main/java/me/daei/touchlistenerconflict/adapter/CommonAdapter.java,7
+/app/src/main/java/me/daei/touchlistenerconflict/adapter/ViewHolder.java,8
+/app/src/main/java/me/daei/touchlistenerconflict/bean/GridCutItem.java,0

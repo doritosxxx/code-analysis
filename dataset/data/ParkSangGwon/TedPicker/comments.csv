@@ -1,0 +1,14 @@
+/tedpicker/src/main/java/com/gun0912/tedpicker/custom/adapter/SpacesItemDecoration.java,3
+/tedpicker/src/main/java/com/gun0912/tedpicker/custom/adapter/BaseRecyclerViewAdapter.java,3
+/tedpicker/src/main/java/com/gun0912/tedpicker/Adapter_SelectedPhoto.java,4
+/tedpicker/src/main/java/com/gun0912/tedpicker/PagerAdapter_Picker.java,3
+/tedpicker/src/main/java/com/gun0912/tedpicker/Config.java,15
+/tedpicker/src/main/java/com/gun0912/tedpicker/view/CustomSquareFrameLayout.java,4
+/tedpicker/src/main/java/com/gun0912/tedpicker/view/CustomSquareImageView.java,7
+/tedpicker/src/main/java/com/gun0912/tedpicker/view/DrawingView.java,6
+/tedpicker/src/main/java/com/gun0912/tedpicker/GalleryFragment.java,11
+/tedpicker/src/main/java/com/gun0912/tedpicker/CwacCameraFragment.java,40
+/tedpicker/src/main/java/com/gun0912/tedpicker/ImagePickerActivity.java,10
+/tedpicker/src/main/java/com/gun0912/tedpicker/util/BitmapUtil.java,33
+/tedpicker/src/main/java/com/gun0912/tedpicker/util/Util.java,20
+/app/src/main/java/gun0912/com/test_picker/MainActivity.java,5

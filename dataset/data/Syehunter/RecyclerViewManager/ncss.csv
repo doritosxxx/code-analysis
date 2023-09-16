@@ -1,0 +1,12 @@
+/app/src/main/java/space/sye/z/recyclerviewmanager/MainActivity.java,76:
+/library/src/main/java/space/sye/z/library/widget/RotateLoadingLayout.java,88:
+/library/src/main/java/space/sye/z/library/widget/RefreshHeader.java,185:
+/library/src/main/java/space/sye/z/library/widget/RefreshLoadingLayout.java,18:
+/library/src/main/java/space/sye/z/library/widget/FlipLoadingLayout.java,12:
+/library/src/main/java/space/sye/z/library/holder/RecyclerHeaderViewHolder.java,3:
+/library/src/main/java/space/sye/z/library/listener/LoadMoreRecyclerListener.java,116:
+/library/src/main/java/space/sye/z/library/RefreshRecyclerView.java,136:
+/library/src/main/java/space/sye/z/library/adapter/RefreshRecyclerViewAdapter.java,183:
+/library/src/main/java/space/sye/z/library/manager/HeaderSapnSizeLookUp.java,8:
+/library/src/main/java/space/sye/z/library/manager/RefreshRecyclerAdapterManager.java,117:
+/library/src/main/java/space/sye/z/library/manager/RecyclerViewManager.java,65:

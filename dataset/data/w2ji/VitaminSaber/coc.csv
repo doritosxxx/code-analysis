@@ -1,0 +1,12 @@
+/vitaminsaber-sample/src/main/java/com/w2ji/vitaminsaber/example/SampleActivity.java,3
+/vitaminsaber-sample/src/main/java/com/w2ji/vitaminsaber/example/SampleUtil.java,0
+/vitaminsaber/src/main/java/com/w2ji/vitaminsaber/internal/FieldBinding.java,0
+/vitaminsaber/src/main/java/com/w2ji/vitaminsaber/internal/InjectResourceProcessor.java,30
+/vitaminsaber/src/main/java/com/w2ji/vitaminsaber/internal/ResourceInjector.java,20
+/vitaminsaber/src/main/java/com/w2ji/vitaminsaber/internal/ResourceInjection.java,3
+/vitaminsaber/src/main/java/com/w2ji/vitaminsaber/VitaminSaber.java,23
+/vitaminsaber/src/test/resources/output/TestAllResource$$ResourceInjector.java,10
+/vitaminsaber/src/test/resources/output/Test$$ResourceInjector.java,1
+/vitaminsaber/src/test/resources/output/TestDuplicate$$ResourceInjector.java,1
+/vitaminsaber/src/test/resources/input/TestAllResource.java,0
+/vitaminsaber/src/test/resources/input/TestDuplicate.java,0

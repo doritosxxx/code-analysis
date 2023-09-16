@@ -1,0 +1,10 @@
+/library/src/main/java/com/carl/recyclerview/ViewOnTouchDelegate.java,24
+/library/src/main/java/com/carl/recyclerview/SlideInAnimator.java,112
+/library/src/main/java/com/carl/recyclerview/MarginDecoration.java,67
+/library/src/main/java/com/carl/recyclerview/SnappingSwipingViewBuilder.java,123
+/library/src/main/java/com/carl/recyclerview/SnappyRecyclerView.java,50
+/library/src/main/java/com/carl/recyclerview/SwipeGestureHelper.java,345
+/library/src/main/java/com/carl/recyclerview/PanDownTransitionGestureHelper.java,94
+/library/src/main/java/com/carl/recyclerview/MathUtils.java,9
+/library/src/main/java/com/carl/recyclerview/SnappyLinearLayoutManager.java,142
+/demo/src/main/java/com/carl/recyclerviewdemo/MainActivity.java,104

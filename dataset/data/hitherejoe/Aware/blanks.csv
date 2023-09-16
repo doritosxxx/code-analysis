@@ -1,0 +1,12 @@
+/app/src/main/java/com/hitherejoe/aware/ui/main/MainActivity.java,16
+/app/src/main/java/com/hitherejoe/aware/ui/fence/beacon/BeaconFenceActivity.java,25
+/app/src/main/java/com/hitherejoe/aware/ui/fence/user/DetectedActivityFenceActivity.java,26
+/app/src/main/java/com/hitherejoe/aware/ui/fence/location/LocationFenceActivity.java,27
+/app/src/main/java/com/hitherejoe/aware/ui/fence/time/TimeFenceActivity.java,22
+/app/src/main/java/com/hitherejoe/aware/ui/fence/headphone/HeadphoneFenceActivity.java,22
+/app/src/main/java/com/hitherejoe/aware/ui/snapshot/user/UserActivity.java,18
+/app/src/main/java/com/hitherejoe/aware/ui/snapshot/weather/WeatherActivity.java,18
+/app/src/main/java/com/hitherejoe/aware/ui/snapshot/location/LocationActivity.java,13
+/app/src/main/java/com/hitherejoe/aware/ui/snapshot/beacons/BeaconActivity.java,15
+/app/src/main/java/com/hitherejoe/aware/ui/snapshot/headphone/HeadphoneActivity.java,11
+/app/src/main/java/com/hitherejoe/aware/ui/snapshot/places/PlacesActivity.java,13

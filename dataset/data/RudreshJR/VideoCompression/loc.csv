@@ -1,0 +1,10 @@
+/app/src/main/java/com/rudresh/videocompression/MainActivity.java,134
+/app/src/main/java/com/rudresh/videocompression/videocompression/InputSurface.java,106
+/app/src/main/java/com/rudresh/videocompression/videocompression/TextureRenderer.java,179
+/app/src/main/java/com/rudresh/videocompression/videocompression/Mp4Movie.java,59
+/app/src/main/java/com/rudresh/videocompression/videocompression/Track.java,219
+/app/src/main/java/com/rudresh/videocompression/videocompression/MediaController.java,632
+/app/src/main/java/com/rudresh/videocompression/videocompression/MP4Builder.java,367
+/app/src/main/java/com/rudresh/videocompression/videocompression/Config.java,4
+/app/src/main/java/com/rudresh/videocompression/videocompression/Sample.java,15
+/app/src/main/java/com/rudresh/videocompression/videocompression/OutputSurface.java,170

@@ -1,0 +1,9 @@
+/Shutterbug/src/com/applidium/shutterbug/FetchableImageView.java,17
+/Shutterbug/src/com/applidium/shutterbug/cache/ImageCache.java,27
+/Shutterbug/src/com/applidium/shutterbug/cache/DiskLruCache.java,93
+/Shutterbug/src/com/applidium/shutterbug/cache/LruCache.java,39
+/Shutterbug/src/com/applidium/shutterbug/utils/DownloadRequest.java,15
+/Shutterbug/src/com/applidium/shutterbug/utils/BitmapFactoryScale.java,5
+/Shutterbug/src/com/applidium/shutterbug/utils/ShutterbugManager.java,41
+/Shutterbug/src/com/applidium/shutterbug/downloader/ShutterbugDownloader.java,20
+/ShutterbugDemo/src/com/applidium/shutterbugdemo/ShutterbugActivity.java,22

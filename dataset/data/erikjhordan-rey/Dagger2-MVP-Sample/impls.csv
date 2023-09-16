@@ -1,0 +1,11 @@
+/app/src/main/java/io/github/erikjhordanrey/dagger2/widget/ResponsiveRecyclerView.java,0:
+/app/src/main/java/io/github/erikjhordanrey/dagger2/common/BaseActivity.java,0:
+/app/src/main/java/io/github/erikjhordanrey/dagger2/category/model/Category.java,0:
+/app/src/main/java/io/github/erikjhordanrey/dagger2/category/model/Categories.java,0:
+/app/src/main/java/io/github/erikjhordanrey/dagger2/category/view/activity/CategoryActivity.java,2:
+/app/src/main/java/io/github/erikjhordanrey/dagger2/category/view/presenter/CategoryPresenter.java,2:
+/app/src/main/java/io/github/erikjhordanrey/dagger2/category/adapter/CategoryAdapter.java,0:
+/app/src/main/java/io/github/erikjhordanrey/dagger2/category/adapter/CategoryViewHolder.java,0:
+/app/src/main/java/io/github/erikjhordanrey/dagger2/di/module/CategoryModule.java,0:
+/app/src/main/java/io/github/erikjhordanrey/dagger2/di/module/InteractorsModule.java,0:
+/app/src/main/java/io/github/erikjhordanrey/dagger2/CategoryApplication.java,0:

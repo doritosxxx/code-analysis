@@ -1,0 +1,10 @@
+/GreenDaoForAndroidStudio/DaoExample/src/main/java/pl/surecase/eu/greendaoexample/ui/activity/BoxListActivity.java,0
+/GreenDaoForAndroidStudio/DaoExample/src/main/java/pl/surecase/eu/greendaoexample/ui/activity/EditBoxActivity.java,0
+/GreenDaoForAndroidStudio/DaoExample/src/main/java/pl/surecase/eu/greendaoexample/ui/adapter/DbItemsAdapter.java,3
+/GreenDaoForAndroidStudio/DaoExample/src/main/java/pl/surecase/eu/greendaoexample/DaoExampleApplication.java,3
+/GreenDaoForAndroidStudio/DaoExample/src/main/java/pl/surecase/eu/greendaoexample/backend/repositories/BoxRepository.java,3
+/GreenDaoForAndroidStudio/DaoExample/src/main/java-gen/greendao/DaoSession.java,6
+/GreenDaoForAndroidStudio/DaoExample/src/main/java-gen/greendao/DaoMaster.java,7
+/GreenDaoForAndroidStudio/DaoExample/src/main/java-gen/greendao/BoxDao.java,17
+/GreenDaoForAndroidStudio/DaoExample/src/main/java-gen/greendao/Box.java,4
+/GreenDaoForAndroidStudio/MyDaoGenerator/src/main/java/pl/surecase/eu/MyDaoGenerator.java,0

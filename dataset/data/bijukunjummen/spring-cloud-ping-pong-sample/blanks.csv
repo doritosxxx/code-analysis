@@ -1,0 +1,16 @@
+/sample-config/src/main/java/org/bk/configserver/ConfigServerApplication.java,4
+/sample-pong/src/main/java/org/bk/producer/PongApplication.java,2
+/sample-pong/src/main/java/org/bk/producer/service/MessageHandlerServiceImpl.java,6
+/sample-pong/src/main/java/org/bk/producer/domain/MessageAcknowledgement.java,16
+/sample-pong/src/main/java/org/bk/producer/domain/Message.java,14
+/sample-pong/src/main/java/org/bk/producer/controller/PongController.java,7
+/.mvn/wrapper/MavenWrapperDownloader.java,10
+/sample-ping/src/main/java/org/bk/consumer/service/WebClientPongClient.java,4
+/sample-ping/src/main/java/org/bk/consumer/domain/MessageAcknowledgement.java,14
+/sample-ping/src/main/java/org/bk/consumer/domain/Message.java,10
+/sample-ping/src/main/java/org/bk/consumer/controller/PingController.java,5
+/sample-ping/src/main/java/org/bk/consumer/config/RootConfiguration.java,2
+/sample-ping/src/main/java/org/bk/consumer/PingApplication.java,5
+/sample-eureka/src/main/java/org/bk/eureka/EurekaApplication.java,3
+/sample-gateway/src/main/java/org/bk/gateway/GatewayRoutes.java,2
+/sample-gateway/src/main/java/org/bk/gateway/GatewayApplication.java,4

@@ -1,0 +1,17 @@
+/src/main/java/org/elasticsearch/common/lucene/TopLevelFixedBitSetCollector.java,27
+/src/main/java/org/elasticsearch/client/UpdateByQueryClientWrapper.java,0
+/src/main/java/org/elasticsearch/plugin/action/updatebyquery/ActionUpdateByQueryPlugin.java,21
+/src/main/java/org/elasticsearch/action/bulk/PublicBulkShardRequest.java,0
+/src/main/java/org/elasticsearch/action/bulk/PublicBulkShardResponse.java,0
+/src/main/java/org/elasticsearch/action/updatebyquery/UpdateByQueryAction.java,21
+/src/main/java/org/elasticsearch/action/updatebyquery/UpdateByQueryRequestBuilder.java,56
+/src/main/java/org/elasticsearch/action/updatebyquery/TransportShardUpdateByQueryAction.java,36
+/src/main/java/org/elasticsearch/action/updatebyquery/UpdateByQueryResponse.java,32
+/src/main/java/org/elasticsearch/action/updatebyquery/IndexUpdateByQueryRequest.java,21
+/src/main/java/org/elasticsearch/action/updatebyquery/TransportUpdateByQueryAction.java,29
+/src/main/java/org/elasticsearch/action/updatebyquery/ShardUpdateByQueryResponse.java,22
+/src/main/java/org/elasticsearch/action/updatebyquery/ShardUpdateByQueryRequest.java,21
+/src/main/java/org/elasticsearch/action/updatebyquery/UpdateByQuerySourceBuilder.java,48
+/src/main/java/org/elasticsearch/action/updatebyquery/IndexUpdateByQueryResponse.java,23
+/src/main/java/org/elasticsearch/action/updatebyquery/UpdateByQueryRequest.java,21
+/src/main/java/org/elasticsearch/rest/action/updatebyquery/RestUpdateByQueryAction.java,22

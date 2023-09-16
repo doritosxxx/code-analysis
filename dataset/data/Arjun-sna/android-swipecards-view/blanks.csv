@@ -1,0 +1,14 @@
+/app/src/main/java/in/arjsna/swipecardsample/FragmentDemo.java,23
+/app/src/main/java/in/arjsna/swipecardsample/Card.java,1
+/app/src/main/java/in/arjsna/swipecardsample/HomeActivity.java,3
+/app/src/main/java/in/arjsna/swipecardsample/CardsAdapter.java,6
+/app/src/main/java/in/arjsna/swipecardsample/CardSwipeWithFragment.java,3
+/app/src/main/java/in/arjsna/swipecardsample/PageSwipeActivity.java,13
+/app/src/main/java/in/arjsna/swipecardsample/PageAdapter.java,6
+/app/src/main/java/in/arjsna/swipecardsample/CardSwipeActivity.java,24
+/swipecardlib/src/main/java/in/arjsna/swipecardlib/LinearRegression.java,18
+/swipecardlib/src/main/java/in/arjsna/swipecardlib/BaseFlingAdapterView.java,17
+/swipecardlib/src/main/java/in/arjsna/swipecardlib/SwipeCardView.java,92
+/swipecardlib/src/main/java/in/arjsna/swipecardlib/SwipePageView.java,48
+/swipecardlib/src/main/java/in/arjsna/swipecardlib/FlingPageListener.java,39
+/swipecardlib/src/main/java/in/arjsna/swipecardlib/FlingCardListener.java,95

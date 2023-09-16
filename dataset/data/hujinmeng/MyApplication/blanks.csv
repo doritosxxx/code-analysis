@@ -1,0 +1,11 @@
+/app/src/main/java/com/hjm/simple/MainActivity.java,8
+/app/src/main/java/com/hjm/simple/fragment/FourFragment.java,9
+/app/src/main/java/com/hjm/simple/fragment/TwoFragment.java,9
+/app/src/main/java/com/hjm/simple/fragment/OneFragment.java,12
+/app/src/main/java/com/hjm/simple/fragment/ThreeFragment.java,9
+/bottomtabbar/src/main/java/com/hjm/bottomtabbarold/custom/CustomFragmentTabHost.java,54
+/bottomtabbar/src/main/java/com/hjm/bottomtabbarold/BottomTabBar.java,45
+/bottomtabbar/src/main/java/com/hjm/bottomtabbarold/util/TintUtil.java,24
+/bottomtabbar2/src/main/java/com/hjm/bottomtabbar/custom/CustomFragmentTabHost.java,54
+/bottomtabbar2/src/main/java/com/hjm/bottomtabbar/BottomTabBar.java,59
+/bottomtabbar2/src/main/java/com/hjm/bottomtabbar/util/TintUtil.java,24

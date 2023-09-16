@@ -1,0 +1,12 @@
+/app/src/main/java/com/rafakob/example/drawme/MainActivity.java,20:
+/library/src/main/java/com/rafakob/drawme/delegate/DrawMeShape.java,142:
+/library/src/main/java/com/rafakob/drawme/delegate/DrawMeShapeText.java,85:
+/library/src/main/java/com/rafakob/drawme/DrawMeRelativeLayout.java,13:
+/library/src/main/java/com/rafakob/drawme/DrawMeImageButton.java,13:
+/library/src/main/java/com/rafakob/drawme/DrawMeTextView.java,13:
+/library/src/main/java/com/rafakob/drawme/DrawMeFrameLayout.java,13:
+/library/src/main/java/com/rafakob/drawme/DrawMeLinearLayout.java,13:
+/library/src/main/java/com/rafakob/drawme/DrawMeEditText.java,13:
+/library/src/main/java/com/rafakob/drawme/DrawMeButton.java,14:
+/library/src/main/java/com/rafakob/drawme/util/FontCache.java,11:
+/library/src/main/java/com/rafakob/drawme/util/Coloring.java,22:

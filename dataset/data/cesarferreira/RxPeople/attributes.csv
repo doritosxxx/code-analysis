@@ -1,0 +1,14 @@
+/rxpeople/src/main/java/github/cesarferreira/rxpeople/models/EncapsulatedUser.java,2:
+/rxpeople/src/main/java/github/cesarferreira/rxpeople/models/FakeLocation.java,4:
+/rxpeople/src/main/java/github/cesarferreira/rxpeople/models/FakeUser.java,17:
+/rxpeople/src/main/java/github/cesarferreira/rxpeople/models/FakePicture.java,3:
+/rxpeople/src/main/java/github/cesarferreira/rxpeople/models/FetchedData.java,1:
+/rxpeople/src/main/java/github/cesarferreira/rxpeople/models/FakeName.java,3:
+/rxpeople/src/main/java/github/cesarferreira/rxpeople/utils/Gender.java,1:
+/rxpeople/src/main/java/github/cesarferreira/rxpeople/utils/Nationality.java,1:
+/rxpeople/src/main/java/github/cesarferreira/rxpeople/RxPeople.java,5:
+/rxpeople/src/main/java/github/cesarferreira/rxpeople/rest/RestClient.java,2:
+/rxpeople/src/main/java/github/cesarferreira/rxpeople/rest/SessionRequestInterceptor.java,0:
+/sample/src/main/java/github/cesarferreira/rxpeople/sample/MainActivity.java,0:
+/sample/src/main/java/github/cesarferreira/rxpeople/sample/UsersAdapterFragment.java,3:
+/sample/src/main/java/github/cesarferreira/rxpeople/sample/UsersAdapter.java,4:

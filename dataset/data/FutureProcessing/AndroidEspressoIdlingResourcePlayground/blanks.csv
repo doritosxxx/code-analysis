@@ -1,0 +1,12 @@
+/app/src/main/java/com/patryklenza/androidespressoidlingresource/FirstActivity.java,13
+/app/src/main/java/com/patryklenza/androidespressoidlingresource/RealLongRunningService.java,2
+/app/src/main/java/com/patryklenza/androidespressoidlingresource/GlobalApplication.java,22
+/app/src/main/java/com/patryklenza/androidespressoidlingresource/Repository.java,1
+/app/src/main/java/com/patryklenza/androidespressoidlingresource/SecondActivity.java,7
+/app/src/main/java/com/patryklenza/androidespressoidlingresource/BackendService.java,7
+/app/src/main/java/com/patryklenza/androidespressoidlingresource/ThirdActivity.java,9
+/app/src/main/java/com/patryklenza/androidespressoidlingresource/RestServicesModule.java,3
+/app/src/main/java/com/patryklenza/androidespressoidlingresource/ActivityEvent.java,7
+/app/src/androidTest/java/com/patryklenza/androidespressoidlingresource/MockRestServiceModule.java,1
+/app/src/androidTest/java/com/patryklenza/androidespressoidlingresource/MockBackendService.java,3
+/app/src/androidTest/java/com/patryklenza/androidespressoidlingresource/ActivityRule.java,16

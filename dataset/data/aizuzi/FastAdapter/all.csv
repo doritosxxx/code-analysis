@@ -1,0 +1,16 @@
+/fastadapter/src/main/java/com/zuzi/adapter/ItemTypeManager.java,2,3:,0:,9,3:,2,4,1:,0:,20,2:,2,2,14:,0:,0:
+/fastadapter/src/main/java/com/zuzi/adapter/FastAdapter.java,4,3:,0:,28,17:,25,6,1:,0:,108,11:,1,11,67:,0:,0:
+/fastadapter/src/main/java/com/zuzi/adapter/FastBaseHolder.java,1,4:,0:,14,1:,1,4,0:,0:,33,8:,1,1,21:,0:,0:
+/fastadapter/src/main/java/com/zuzi/adapter/SimpleViewHolder.java,0,0:,0:,4,1:,0,4,1:,0:,11,1:,0,0,5:,0:,0:
+/fastadapter_processor/src/main/java/com/zuzi/adapter/complier/AnnotatedMethods.java,13,1:,0:,14,7:,13,12,1:,0:,54,1:,13,13,27:,0:,0:
+/fastadapter_processor/src/main/java/com/zuzi/adapter/complier/GeneratedBuilderClass.java,1,3:,0:,29,8:,8,13,1:,0:,91,5:,1,3,48:,0:,0:
+/fastadapter_processor/src/main/java/com/zuzi/adapter/complier/FastModelProcessor.java,2,3:,0:,8,3:,2,6,0:,0:,55,4:,2,2,23:,0:,0:
+/fastadapter_processor/src/main/java/com/zuzi/adapter/complier/AnnotatedField.java,0,5:,0:,18,1:,0,4,0:,0:,43,10:,0,0,26:,0:,0:
+/fastadapter_processor/src/main/java/com/zuzi/adapter/complier/AnnotatedClass.java,1,3:,0:,10,2:,1,7,2:,0:,49,5:,1,1,22:,0:,0:
+/fastadapter_processor/src/main/java/com/zuzi/adapter/complier/GeneratedFieldAndMethod.java,2,2:,0:,24,6:,8,13,1:,0:,76,5:,1,6,39:,0:,0:
+/fastadapter_processor/src/main/java/com/zuzi/adapter/Utils.java,13,0:,0:,6,9:,13,4,0:,0:,44,0:,13,13,30:,1:,1:
+/app/src/main/java/com/aizuzi/adapter/demo/ColorItemDecoration.java,3,4:,0:,7,3:,3,4,1:,0:,45,4:,3,3,24:,0:,0:
+/app/src/main/java/com/aizuzi/adapter/demo/MainActivity.java,1,1:,0:,10,2:,1,1,0:,0:,47,2:,1,1,17:,1:,0:
+/app/src/main/java/com/aizuzi/adapter/demo/viewholder/AppBaseHolder.java,4,0:,0:,5,4:,4,4,0:,0:,23,2:,4,4,12:,0:,0:
+/app/src/main/java/com/aizuzi/adapter/demo/viewholder/TopViewHolder.java,0,1:,0:,4,1:,0,4,0:,0:,17,1:,0,0,4:,0:,0:
+/app/src/main/java/com/aizuzi/adapter/demo/viewholder/ItemViewHolder.java,0,3:,0:,5,1:,0,4,0:,0:,13,0:,0,0,4:,0:,0:

@@ -1,0 +1,12 @@
+/avatars/src/main/java/net/sectorsieteg/avatars/AvatarDrawableFactory.java,15
+/avatars/src/main/java/net/sectorsieteg/avatars/square/DoubleSquaredAvatarDrawable.java,15
+/avatars/src/main/java/net/sectorsieteg/avatars/square/TripleSquaredAvatarDrawable.java,15
+/avatars/src/main/java/net/sectorsieteg/avatars/square/SquaredAvatarDrawable.java,15
+/avatars/src/main/java/net/sectorsieteg/avatars/square/utils/SquareUtils.java,15
+/avatars/src/main/java/net/sectorsieteg/avatars/square/utils/SquareCanvas.java,15
+/avatars/src/main/java/net/sectorsieteg/avatars/square/utils/SquareCanvasProvider.java,15
+/avatars/src/main/java/net/sectorsieteg/avatars/square/QuadrupleSquaredAvatarDrawable.java,15
+/avatars/src/main/java/net/sectorsieteg/avatars/round/BorderedRoundedAvatarDrawable.java,19
+/avatars/src/main/java/net/sectorsieteg/avatars/round/RoundedAvatarDrawable.java,20
+/avatars/src/main/java/net/sectorsieteg/avatars/AvatarBorder.java,15
+/sample/src/main/java/net/sectorsieteg/sample/MainActivity.java,3

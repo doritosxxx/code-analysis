@@ -1,0 +1,14 @@
+/circualreveal/src/main/java/io/codetail/animation/SupportAnimator.java,105
+/circualreveal/src/main/java/io/codetail/animation/ViewAnimationUtils.java,42
+/circualreveal/src/main/java/io/codetail/animation/RevealAnimator.java,44
+/circualreveal/src/main/java/io/codetail/animation/SupportAnimatorPreL.java,0
+/circualreveal/src/main/java/io/codetail/animation/SupportAnimatorLollipop.java,0
+/circualreveal/src/main/java/io/codetail/widget/RevealFrameLayout.java,16
+/circualreveal/src/main/java/io/codetail/widget/RevealLinearLayout.java,16
+/app/src/main/java/com/github/skykai/activity/StickerDownloadActivity.java,6
+/app/src/main/java/com/github/skykai/model/Sticker.java,3
+/app/src/main/java/com/github/skykai/model/StickerItem.java,17
+/app/src/main/java/com/github/skykai/model/StickerType.java,8
+/app/src/main/java/com/github/skykai/view/StickerRecyclerView.java,4
+/app/src/main/java/com/github/skykai/App.java,0
+/app/src/main/java/com/github/skykai/util/Utils.java,3

@@ -1,0 +1,16 @@
+/fastadapter/src/main/java/com/zuzi/adapter/ItemTypeManager.java,20
+/fastadapter/src/main/java/com/zuzi/adapter/FastAdapter.java,108
+/fastadapter/src/main/java/com/zuzi/adapter/FastBaseHolder.java,33
+/fastadapter/src/main/java/com/zuzi/adapter/SimpleViewHolder.java,11
+/fastadapter_processor/src/main/java/com/zuzi/adapter/complier/AnnotatedMethods.java,54
+/fastadapter_processor/src/main/java/com/zuzi/adapter/complier/GeneratedBuilderClass.java,91
+/fastadapter_processor/src/main/java/com/zuzi/adapter/complier/FastModelProcessor.java,55
+/fastadapter_processor/src/main/java/com/zuzi/adapter/complier/AnnotatedField.java,43
+/fastadapter_processor/src/main/java/com/zuzi/adapter/complier/AnnotatedClass.java,49
+/fastadapter_processor/src/main/java/com/zuzi/adapter/complier/GeneratedFieldAndMethod.java,76
+/fastadapter_processor/src/main/java/com/zuzi/adapter/Utils.java,44
+/app/src/main/java/com/aizuzi/adapter/demo/ColorItemDecoration.java,45
+/app/src/main/java/com/aizuzi/adapter/demo/MainActivity.java,47
+/app/src/main/java/com/aizuzi/adapter/demo/viewholder/AppBaseHolder.java,23
+/app/src/main/java/com/aizuzi/adapter/demo/viewholder/TopViewHolder.java,17
+/app/src/main/java/com/aizuzi/adapter/demo/viewholder/ItemViewHolder.java,13

@@ -1,0 +1,11 @@
+/src/main/java/com/konifar/stringssearch/models/PluralStringElement.java,5,3:,0:,13,4:,5,0,1:,0:,37,4:,5,5,25:,0:,0:
+/src/main/java/com/konifar/stringssearch/models/NormalStringElement.java,0,3:,0:,10,1:,0,0,1:,0:,27,4:,0,0,16:,0:,0:
+/src/main/java/com/konifar/stringssearch/models/AbstractStringElement.java,0,0:,0:,10,1:,0,1,0:,1:,26,7:,0,0,11:,0:,0:
+/src/main/java/com/konifar/stringssearch/models/QuantityStringElement.java,0,3:,0:,10,1:,0,0,1:,0:,27,4:,0,0,16:,0:,0:
+/src/main/java/com/konifar/stringssearch/search/SearchStringItemProvider.java,10,0:,0:,9,6:,10,0,1:,0:,35,1:,10,10,16:,0:,0:
+/src/main/java/com/konifar/stringssearch/search/StringElementListCellRenderer.java,4,2:,0:,26,9:,13,9,3:,2:,88,5:,3,7,46:,0:,0:
+/src/main/java/com/konifar/stringssearch/search/SearchStringFilterFactory.java,34,1:,0:,22,12:,34,3,2:,0:,109,5:,34,34,56:,6:,1:
+/src/main/java/com/konifar/stringssearch/search/StringEllipsisPolicy.java,22,0:,0:,14,8:,22,0,0:,0:,40,1:,22,22,25:,3:,0:
+/src/main/java/com/konifar/stringssearch/search/SearchStringConfiguration.java,0,0:,0:,5,1:,0,11,0:,0:,21,1:,0,0,5:,0:,1:
+/src/main/java/com/konifar/stringssearch/search/SearchStringModel.java,1,0:,0:,20,6:,5,4,1:,1:,85,14:,1,2,36:,0:,0:
+/src/main/java/com/konifar/stringssearch/SearchStringsAction.java,5,0:,0:,9,6:,11,0,0:,1:,65,6:,4,7,23:,0:,0:

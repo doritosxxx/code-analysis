@@ -1,0 +1,14 @@
+/lib/src/main/java/com/hanhuy/android/protify/ActivityProxy.java,31
+/agent/src/main/java/com/hanhuy/android/protify/agent/ProtifyApplication.java,393
+/agent/src/main/java/com/hanhuy/android/protify/agent/Protify.java,17
+/agent/src/main/java/com/hanhuy/android/protify/agent/internal/ProtifyResources.java,32
+/agent/src/main/java/com/hanhuy/android/protify/agent/internal/Restarter.java,158
+/agent/src/main/java/com/hanhuy/android/protify/agent/internal/ProtifyReceiver.java,168
+/agent/src/main/java/com/hanhuy/android/protify/agent/internal/ProtifyActivity.java,55
+/agent/src/main/java/com/hanhuy/android/protify/agent/internal/DexExtractor.java,225
+/agent/src/main/java/com/hanhuy/android/protify/agent/internal/ZipUtil.java,73
+/agent/src/main/java/com/hanhuy/android/protify/agent/internal/LifecycleListener.java,44
+/agent/src/main/java/com/hanhuy/android/protify/agent/internal/DexLoader.java,272
+/sbt-plugin/src/sbt-test/protify/layout/src/main/java/com/example/protify/MainActivity.java,12
+/android/src/main/java/com/hanhuy/android/protify/RTxtLoaderBase.java,60
+/android/src/androidTest/java/com/hanhuy/android/keepshare/R.java,2099

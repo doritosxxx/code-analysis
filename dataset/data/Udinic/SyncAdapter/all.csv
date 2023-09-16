@@ -1,0 +1,15 @@
+/src/com/udinic/sync_adapter_example/authentication/AccountGeneral.java,0,0:,0:,7,1:,0,18,0:,0:,11,0:,0,0,9:,8:,0:
+/src/com/udinic/sync_adapter_example/authentication/User.java,0,8:,0:,20,1:,0,3,0:,1:,60,16:,0,0,41:,0:,0:
+/src/com/udinic/sync_adapter_example/authentication/UdinicAuthenticatorService.java,0,0:,0:,3,1:,0,6,0:,0:,11,1:,0,0,3:,0:,0:
+/src/com/udinic/sync_adapter_example/authentication/UdinicAuthenticator.java,7,2:,0:,24,10:,15,16,1:,0:,106,7:,3,12,58:,0:,0:
+/src/com/udinic/sync_adapter_example/authentication/AuthenticatorActivity.java,3,4:,0:,35,8:,12,17,0:,0:,114,8:,2,5,66:,6:,0:
+/src/com/udinic/sync_adapter_example/authentication/ParseComServer.java,3,2:,0:,31,8:,7,13,0:,1:,94,2:,3,4,44:,2:,1:
+/src/com/udinic/sync_adapter_example/authentication/SignUpActivity.java,7,5:,0:,22,4:,7,10,0:,0:,83,7:,7,7,43:,0:,0:
+/SyncAdapterExample/src/com/udinic/sync_adapter_example_app/syncadapter/ParseComServerAccessor.java,3,1:,0:,27,7:,7,7,0:,0:,84,2:,3,4,41:,0:,0:
+/SyncAdapterExample/src/com/udinic/sync_adapter_example_app/syncadapter/TvShowsSyncService.java,1,0:,0:,5,2:,1,20,0:,0:,19,2:,1,1,9:,2:,0:
+/SyncAdapterExample/src/com/udinic/sync_adapter_example_app/syncadapter/TvShowsSyncAdapter.java,25,1:,0:,23,15:,25,31,1:,0:,98,1:,25,25,61:,1:,0:
+/SyncAdapterExample/src/com/udinic/sync_adapter_example_app/Main.java,5,7:,0:,72,23:,52,43,0:,0:,326,32:,1,18,162:,0:,0:
+/SyncAdapterExample/src/com/udinic/sync_adapter_example_app/db/TvShowsDbHelper.java,0,0:,0:,11,1:,0,5,1:,0:,34,2:,0,0,16:,7:,0:
+/SyncAdapterExample/src/com/udinic/sync_adapter_example_app/db/dao/TvShow.java,3,2:,0:,15,6:,7,14,1:,1:,43,4:,1,6,27:,0:,1:
+/SyncAdapterExample/src/com/udinic/sync_adapter_example_app/db/TvShowsContentProvider.java,2,1:,0:,13,15:,11,10,0:,0:,110,6:,1,6,62:,5:,1:
+/SyncAdapterExample/src/com/udinic/sync_adapter_example_app/db/TvShowsContract.java,0,0:,0:,5,1:,0,6,0:,0:,11,0:,0,0,8:,7:,0:

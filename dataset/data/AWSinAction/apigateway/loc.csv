@@ -1,0 +1,13 @@
+/aws-apigateway-importer-master/src/com/amazonaws/service/apigateway/importer/impl/ApiGatewayRamlFileImporter.java,47
+/aws-apigateway-importer-master/src/com/amazonaws/service/apigateway/importer/impl/ApiGatewaySwaggerFileImporter.java,49
+/aws-apigateway-importer-master/src/com/amazonaws/service/apigateway/importer/impl/SchemaTransformer.java,118
+/aws-apigateway-importer-master/src/com/amazonaws/service/apigateway/importer/impl/sdk/ApiGatewaySdkApiImporter.java,188
+/aws-apigateway-importer-master/src/com/amazonaws/service/apigateway/importer/impl/sdk/ApiGatewaySdkRamlApiImporter.java,382
+/aws-apigateway-importer-master/src/com/amazonaws/service/apigateway/importer/impl/sdk/ApiGatewaySdkSwaggerApiImporter.java,462
+/aws-apigateway-importer-master/src/com/amazonaws/service/apigateway/importer/config/AwsConfig.java,62
+/aws-apigateway-importer-master/src/com/amazonaws/service/apigateway/importer/config/ApiImporterDefaultModule.java,78
+/aws-apigateway-importer-master/src/com/amazonaws/service/apigateway/importer/util/PatchUtils.java,34
+/aws-apigateway-importer-master/src/com/amazonaws/service/apigateway/importer/ApiImporterMain.java,152
+/aws-apigateway-importer-master/tst/com/amazonaws/service/apigateway/importer/impl/LambdaMatcher.java,25
+/aws-apigateway-importer-master/tst/com/amazonaws/service/apigateway/importer/config/SwaggerApiImporterTestModule.java,16
+/aws-apigateway-importer-master/tst/com/amazonaws/service/apigateway/importer/config/RamlApiImporterTestModule.java,16

@@ -1,0 +1,15 @@
+/app/src/main/java/com/example/lwp/design/ui/masonry/SpacesItemDecoration.java,1
+/app/src/main/java/com/example/lwp/design/ui/masonry/Product.java,0
+/app/src/main/java/com/example/lwp/design/ui/masonry/MasonryAdapter.java,0
+/app/src/main/java/com/example/lwp/design/MainActivity.java,0
+/app/src/main/java/com/example/lwp/design/ProductDetailActivity.java,4
+/app/src/main/java/com/example/lwp/design/BehaviorActivity.java,0
+/app/src/main/java/com/example/lwp/design/adapter/FragmentRecyclerAdapter.java,0
+/app/src/main/java/com/example/lwp/design/bean/User.java,0
+/app/src/main/java/com/example/lwp/design/bean/UserBuilder.java,0
+/app/src/main/java/com/example/lwp/design/fragment/FragmentOne.java,0
+/app/src/main/java/com/example/lwp/design/fragment/FragmentTwo.java,0
+/app/src/main/java/com/example/lwp/design/fragment/FragmentThree.java,0
+/app/src/main/java/com/example/lwp/design/behavior/QqBehavior.java,1
+/app/src/main/java/com/example/lwp/design/behavior/ZhiHuBehavior.java,7
+/app/src/main/java/com/example/lwp/design/behavior/JianShuBehavior.java,0

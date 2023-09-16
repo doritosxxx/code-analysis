@@ -1,0 +1,16 @@
+/lib/src/main/java/com/shamanland/fonticon/FontIconButton.java,8
+/lib/src/main/java/com/shamanland/fonticon/TextPaintHelper.java,16
+/lib/src/main/java/com/shamanland/fonticon/FontIconTypefaceHolder.java,8
+/lib/src/main/java/com/shamanland/fonticon/FontIconDrawable.java,83
+/lib/src/main/java/com/shamanland/fonticon/FontIconTextView.java,8
+/lib/src/main/java/com/shamanland/fonticon/CompoundDrawables.java,27
+/lib/src/main/java/com/shamanland/fonticon/FontIconToggleButton.java,8
+/lib/src/main/java/com/shamanland/fonticon/FontIconEditText.java,8
+/lib/src/main/java/com/shamanland/fonticon/FontIconView.java,49
+/example/src/main/java/com/shamanland/fonticon/example/GlowingIconsFragment.java,5
+/example/src/main/java/com/shamanland/fonticon/example/CompoundIconsFragment.java,22
+/example/src/main/java/com/shamanland/fonticon/example/ContentFragment.java,3
+/example/src/main/java/com/shamanland/fonticon/example/MainActivity.java,26
+/example/src/main/java/com/shamanland/fonticon/example/MenuFragment.java,14
+/example/src/main/java/com/shamanland/fonticon/example/ScaledIconsFragment.java,24
+/example/src/main/java/com/shamanland/fonticon/example/MyApplication.java,4

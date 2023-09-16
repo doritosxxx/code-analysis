@@ -1,0 +1,12 @@
+/app/src/main/java/com/materialnotes/widget/AboutNoticeDialog.java,1,1:,0:,8,2:,1,19,0:,0:,31,2:,1,1,11:,1:,0:
+/app/src/main/java/com/materialnotes/widget/NotesAdapter.java,5,8:,0:,20,4:,5,46,3:,0:,73,6:,5,5,47:,1:,0:
+/app/src/main/java/com/materialnotes/activity/MainActivity.java,3,9:,0:,34,20:,29,53,0:,0:,225,22:,1,7,150:,2:,0:
+/app/src/main/java/com/materialnotes/activity/EditNoteActivity.java,3,3:,0:,18,11:,13,36,0:,0:,98,7:,1,6,63:,1:,3:
+/app/src/main/java/com/materialnotes/activity/ViewNoteActivity.java,2,7:,0:,17,6:,5,27,0:,0:,82,5:,1,4,50:,4:,2:
+/app/src/main/java/com/materialnotes/data/Note.java,19,5:,0:,17,24:,38,5,0:,1:,81,13:,10,28,74:,1:,0:
+/app/src/main/java/com/materialnotes/data/source/sqlite/NotesDatabaseHelper.java,5,1:,0:,8,5:,5,15,1:,0:,47,2:,5,5,28:,4:,0:
+/app/src/main/java/com/materialnotes/data/source/sqlite/SQLFileParser.java,5,0:,0:,6,5:,5,11,0:,0:,33,0:,5,5,16:,2:,1:
+/app/src/main/java/com/materialnotes/data/dao/impl/sqlite/NoteSQLiteDAO.java,2,1:,0:,13,8:,8,33,1:,1:,119,4:,1,5,63:,7:,0:
+/app/src/main/java/com/materialnotes/view/ShowHideOnScroll.java,1,2:,0:,13,4:,3,27,1:,1:,52,7:,1,1,29:,0:,0:
+/app/src/main/java/com/materialnotes/config/ConfigModule.java,0,1:,0:,7,1:,0,6,1:,0:,18,1:,0,0,6:,0:,0:
+/app/src/main/java/com/materialnotes/util/Strings.java,1,0:,0:,4,2:,1,13,1:,0:,10,0:,1,1,6:,1:,1:

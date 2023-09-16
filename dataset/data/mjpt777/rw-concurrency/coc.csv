@@ -1,0 +1,6 @@
+/src/LockFreeSpaceship.java,2
+/src/ReentrantLockSpaceship.java,0
+/src/SynchronizedSpaceship.java,0
+/src/StampedLockSpaceship.java,1
+/src/ReadWriteLockSpaceShip.java,0
+/src/StampedLockWithRetriesSpaceship.java,3

@@ -1,0 +1,17 @@
+/example/ADT/src/it/polimi/poccodeloading/MainActivity.java,36
+/example/ADT/src/it/polimi/poccodeloading/DexClassSampleActivity.java,27
+/example/AS/app/src/main/java/it/polimi/poccodeloading/MainActivity.java,33
+/example/AS/app/src/main/java/it/polimi/poccodeloading/DexClassSampleActivity.java,27
+/repackPOC/RepackInputSelector/src/it/necst/grabnrun/selector/LinkContainerDialog.java,77
+/repackPOC/RepackInputSelector/src/it/necst/grabnrun/selector/MainFrame.java,52
+/gnr/app/src/main/java/it/necst/grabnrun/FileFilterByNameMatch.java,4
+/gnr/app/src/main/java/it/necst/grabnrun/PackageNameTrie.java,11
+/gnr/app/src/main/java/it/necst/grabnrun/CertificateFileFilterByNameMatch.java,0
+/gnr/app/src/main/java/it/necst/grabnrun/SecureLoaderFactory.java,115
+/gnr/app/src/main/java/it/necst/grabnrun/FileHelper.java,6
+/gnr/app/src/main/java/it/necst/grabnrun/SecureDexClassLoader.java,178
+/gnr/app/src/main/java/it/necst/grabnrun/FileDownloader.java,38
+/gnr/app/src/main/java/it/necst/grabnrun/PackageNameHelper.java,7
+/gnr/app/src/main/java/it/necst/grabnrun/ContainerSignatureVerifier.java,86
+/gnr/app/src/main/java/it/necst/grabnrun/CacheLogger.java,32
+/gnr/app/src/main/java/it/necst/grabnrun/DexPathStringProcessor.java,2

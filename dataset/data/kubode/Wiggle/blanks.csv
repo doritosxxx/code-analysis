@@ -1,0 +1,7 @@
+/core/src/main/java/com/github/kubode/wiggle/WiggleHelper.java,24
+/core/src/androidTest/java/com/github/kubode/wiggle/MockView.java,11
+/core/src/androidTest/java/com/github/kubode/wiggle/MockActivity.java,4
+/core/src/androidTest/java/com/github/kubode/wiggle/MyMatchers.java,4
+/sample/src/main/java/com/github/kubode/wiggle/sample/MainActivity.java,3
+/sample/src/main/java/com/github/kubode/wiggle/sample/ItemView.java,6
+/framelayout/src/main/java/com/github/kubode/wiggle/framelayout/WiggleFrameLayout.java,10

@@ -1,0 +1,10 @@
+/src/main/java/com/zenobase/search/facet/geocluster/GeoPoints.java,1:
+/src/main/java/com/zenobase/search/facet/geocluster/InternalGeoClusterFacet.java,2:
+/src/main/java/com/zenobase/search/facet/geocluster/GeoBoundingBox.java,2:
+/src/main/java/com/zenobase/search/facet/geocluster/GeoCluster.java,2:
+/src/main/java/com/zenobase/search/facet/geocluster/GeoClusterBuilder.java,1:
+/src/main/java/com/zenobase/search/facet/geocluster/GeoClusterFacetExecutor.java,1:
+/src/main/java/com/zenobase/search/facet/geocluster/GeoClusterReducer.java,1:
+/src/main/java/com/zenobase/search/facet/geocluster/GeoClusterFacetBuilder.java,1:
+/src/main/java/com/zenobase/search/facet/geocluster/GeoClusterFacetPlugin.java,0:
+/src/main/java/com/zenobase/search/facet/geocluster/GeoClusterFacetParser.java,1:

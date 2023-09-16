@@ -1,0 +1,15 @@
+/app/src/main/java/com/wakehao/transitionexample/WithSharedElementTransitionsActivity.java,108
+/app/src/main/java/com/wakehao/transitionexample/ContentAndSharedTransitionActivity.java,54
+/app/src/main/java/com/wakehao/transitionexample/SceneActivity.java,56
+/app/src/main/java/com/wakehao/transitionexample/MainActivity.java,44
+/app/src/main/java/com/wakehao/transitionexample/ContentTransitionsActivity.java,36
+/app/src/main/java/com/wakehao/transitionexample/scene/BaseSceneActivity.java,49
+/app/src/main/java/com/wakehao/transitionexample/scene/SceneFadeSlideExplodeActivity.java,20
+/app/src/main/java/com/wakehao/transitionexample/scene/SceneChangeBoundsActivity.java,24
+/app/src/main/java/com/wakehao/transitionexample/scene/SceneChangeTransformActivity.java,25
+/app/src/main/java/com/wakehao/transitionexample/scene/SceneChangeClipBoundsActivity.java,40
+/app/src/main/java/com/wakehao/transitionexample/scene/SceneChangeImageTransformActivity.java,19
+/app/src/main/java/com/wakehao/transitionexample/fragment/SmallIconFragment.java,36
+/app/src/main/java/com/wakehao/transitionexample/fragment/FragmentTransitionActivity.java,29
+/app/src/main/java/com/wakehao/transitionexample/fragment/BigIconFragment.java,16
+/app/src/main/java/com/wakehao/transitionexample/BeginDelayedActivity.java,73

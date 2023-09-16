@@ -1,0 +1,15 @@
+/src/org/netbeans/modules/php/twig/editor/embedding/TwigEmbeddingProvider.java,11,0:,0:,16,8:,11,7,0:,0:,59,4:,11,11,32:,1:,0:
+/src/org/netbeans/modules/php/twig/editor/lexer/TwigTopLexerState.java,3,2:,0:,13,7:,6,7,3:,0:,45,2:,2,4,39:,0:,0:
+/src/org/netbeans/modules/php/twig/editor/lexer/TwigLexer.java,31,5:,0:,103,66:,156,15,1:,1:,226,7:,1,141,197:,10:,1:
+/src/org/netbeans/modules/php/twig/editor/lexer/TwigLexerState.java,3,2:,0:,11,7:,6,7,3:,0:,40,2:,2,4,34:,0:,0:
+/src/org/netbeans/modules/php/twig/editor/lexer/TwigTopLexer.java,26,3:,0:,41,53:,107,7,1:,1:,141,5:,1,93,118:,8:,1:
+/src/org/netbeans/modules/php/twig/editor/format/TwigFormatter.java,0,0:,0:,8,1:,0,0,0:,1:,19,5:,0,0,9:,0:,0:
+/src/org/netbeans/modules/php/twig/editor/completion/TwigCompletionHandler.java,0,0:,0:,11,1:,0,0,0:,1:,49,8:,0,0,17:,0:,0:
+/src/org/netbeans/modules/php/twig/editor/parsing/TwigParser.java,141,11:,0:,92,30:,141,11,0:,0:,185,5:,141,141,138:,1:,0:
+/src/org/netbeans/modules/php/twig/editor/parsing/TwigParserResult.java,0,11:,0:,36,1:,0,0,3:,0:,111,22:,0,0,70:,0:,0:
+/src/org/netbeans/modules/php/twig/editor/parsing/TwigSyntaxValidationTask.java,3,1:,0:,21,3:,3,0,0:,0:,58,5:,3,3,19:,0:,0:
+/src/org/netbeans/modules/php/twig/editor/TwigEditorKit.java,0,0:,0:,7,1:,0,0,0:,0:,22,2:,0,0,5:,0:,0:
+/src/org/netbeans/modules/php/twig/editor/gsf/TwigLanguage.java,0,0:,0:,18,1:,0,8,1:,0:,49,13:,0,0,28:,0:,0:
+/src/org/netbeans/modules/php/twig/editor/gsf/TwigStructureScanner.java,7,0:,0:,24,10:,14,7,0:,1:,63,3:,1,13,31:,0:,0:
+/src/org/netbeans/modules/php/twig/editor/gsf/TwigStructureItem.java,2,5:,0:,36,8:,8,8,2:,1:,125,19:,1,4,66:,0:,0:
+/src/org/netbeans/modules/php/twig/editor/TwigDataObject.java,0,0:,0:,6,1:,0,7,1:,0:,27,2:,0,0,8:,0:,0:

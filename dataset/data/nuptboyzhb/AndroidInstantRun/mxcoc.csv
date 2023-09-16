@@ -1,0 +1,15 @@
+/InstantRunSourceCode/gen/com/example/businesslayoutdemo/ff/BuildConfig.java,0
+/InstantRunSourceCode/src/com/android/tools/fd/common/Log.java,0
+/InstantRunSourceCode/src/com/android/tools/fd/runtime/Paths.java,0
+/InstantRunSourceCode/src/com/android/tools/fd/runtime/MonkeyPatcher.java,37
+/InstantRunSourceCode/src/com/android/tools/fd/runtime/Restarter.java,20
+/InstantRunSourceCode/src/com/android/tools/fd/runtime/ApplicationPatch.java,3
+/InstantRunSourceCode/src/com/android/tools/fd/runtime/BootstrapApplication.java,35
+/InstantRunSourceCode/src/com/android/tools/fd/runtime/AppInfo.java,0
+/InstantRunSourceCode/src/com/android/tools/fd/runtime/AndroidInstantRuntime.java,10
+/InstantRunSourceCode/src/com/android/tools/fd/runtime/AbstractPatchesLoaderImpl.java,12
+/InstantRunSourceCode/src/com/android/tools/fd/runtime/InstantReloadException.java,0
+/InstantRunSourceCode/src/com/android/tools/fd/runtime/FileManager.java,27
+/InstantRunSourceCode/src/com/android/tools/fd/runtime/IncrementalClassLoader.java,5
+/InstantRunSourceCode/src/com/android/tools/fd/runtime/Server.java,61
+/InstantRunSourceCode/src/com/android/tools/fd/runtime/PatchesLoaderDumper.java,3

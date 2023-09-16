@@ -1,0 +1,12 @@
+/samples/src/main/java/com/madisp/pretty/samples/SampleActivity.java,0,0:,0:,3,1:,0,0,0:,0:,12,1:,0,0,5:,0:,0:
+/samples/src/main/java/com/madisp/pretty/samples/FontDecor.java,0,0:,0:,6,1:,0,0,0:,0:,22,3:,0,0,7:,0:,0:
+/samples/src/main/java/com/madisp/pretty/samples/SampleFragment.java,0,0:,0:,2,1:,0,0,0:,0:,12,1:,0,0,3:,0:,0:
+/tests/src/main/java/com/madisp/pretty/FragInLayoutActivity.java,0,0:,0:,1,1:,0,0,0:,0:,3,0:,0,0,1:,0:,0:
+/tests/src/main/java/com/madisp/pretty/TestFragment.java,0,0:,0:,2,1:,0,0,0:,0:,12,1:,0,0,3:,0:,0:
+/tests/src/main/java/com/madisp/pretty/CreatesFragActivity.java,1,0:,0:,3,2:,1,0,0:,0:,14,1:,1,1,8:,0:,0:
+/tests/src/androidTest/java/com/madisp/pretty/UiThreadRule.java,12,1:,0:,6,5:,12,3,1:,1:,42,3:,12,12,21:,0:,0:
+/pretty/src/main/java/com/madisp/pretty/Pretty.java,1,1:,0:,8,2:,1,18,1:,0:,36,2:,1,1,14:,0:,1:
+/pretty/src/main/java/com/madisp/pretty/AttrsDecor.java,6,0:,0:,8,7:,6,28,0:,1:,35,4:,6,6,19:,0:,0:
+/pretty/src/main/java/com/madisp/pretty/LayoutFactoryWrapper.java,11,2:,0:,8,6:,11,6,1:,1:,49,3:,11,11,26:,1:,0:
+/pretty/src/main/java/com/madisp/pretty/PrettyLayoutInflater.java,3,2:,0:,11,4:,3,5,2:,0:,46,5:,3,3,23:,0:,0:
+/pretty/src/main/java/com/madisp/pretty/PrettyLayoutFactory.java,2,1:,0:,5,3:,2,3,1:,0:,25,1:,2,2,14:,0:,0:

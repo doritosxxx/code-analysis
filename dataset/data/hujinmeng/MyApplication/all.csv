@@ -1,0 +1,11 @@
+/app/src/main/java/com/hjm/simple/MainActivity.java,2,1:,0:,8,3:,4,7,0:,0:,43,3:,2,2,17:,0:,0:
+/app/src/main/java/com/hjm/simple/fragment/FourFragment.java,0,0:,0:,9,1:,0,5,1:,0:,16,1:,0,0,4:,0:,0:
+/app/src/main/java/com/hjm/simple/fragment/TwoFragment.java,0,0:,0:,9,1:,0,5,1:,0:,16,1:,0,0,4:,0:,0:
+/app/src/main/java/com/hjm/simple/fragment/OneFragment.java,0,0:,0:,12,1:,0,0,1:,0:,31,3:,0,0,10:,0:,0:
+/app/src/main/java/com/hjm/simple/fragment/ThreeFragment.java,0,0:,0:,9,1:,0,5,1:,0:,16,1:,0,0,4:,0:,0:
+/bottomtabbar/src/main/java/com/hjm/bottomtabbarold/custom/CustomFragmentTabHost.java,6,14:,0:,54,25:,44,34,6:,1:,260,19:,1,18,175:,1:,0:
+/bottomtabbar/src/main/java/com/hjm/bottomtabbarold/BottomTabBar.java,1,15:,0:,45,18:,21,150,2:,0:,244,23:,1,4,162:,0:,0:
+/bottomtabbar/src/main/java/com/hjm/bottomtabbarold/util/TintUtil.java,1,0:,0:,24,4:,3,79,0:,0:,85,0:,1,1,43:,0:,13:
+/bottomtabbar2/src/main/java/com/hjm/bottomtabbar/custom/CustomFragmentTabHost.java,6,14:,0:,54,25:,44,34,6:,1:,260,19:,1,18,175:,1:,0:
+/bottomtabbar2/src/main/java/com/hjm/bottomtabbar/BottomTabBar.java,3,15:,0:,59,29:,42,154,2:,0:,297,25:,1,9,203:,0:,0:
+/bottomtabbar2/src/main/java/com/hjm/bottomtabbar/util/TintUtil.java,1,0:,0:,24,4:,3,79,0:,0:,85,0:,1,1,43:,0:,13:

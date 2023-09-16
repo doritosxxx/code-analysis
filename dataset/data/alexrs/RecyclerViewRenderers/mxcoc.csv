@@ -1,0 +1,17 @@
+/recyclerview-renderers-demo/src/main/java/me/alexrs/recyclerviewrenderers/factory/Factory.java,1
+/recyclerview-renderers-demo/src/main/java/me/alexrs/recyclerviewrenderers/items/ItemBender.java,0
+/recyclerview-renderers-demo/src/main/java/me/alexrs/recyclerviewrenderers/items/ItemZoidberg.java,0
+/recyclerview-renderers-demo/src/main/java/me/alexrs/recyclerviewrenderers/items/ItemFry.java,0
+/recyclerview-renderers-demo/src/main/java/me/alexrs/recyclerviewrenderers/decorator/DividerItemDecoration.java,2
+/recyclerview-renderers-demo/src/main/java/me/alexrs/recyclerviewrenderers/viewholder/ViewHolderFry.java,0
+/recyclerview-renderers-demo/src/main/java/me/alexrs/recyclerviewrenderers/viewholder/ViewHolderBender.java,0
+/recyclerview-renderers-demo/src/main/java/me/alexrs/recyclerviewrenderers/viewholder/ViewHolderZoidberg.java,0
+/recyclerview-renderers-demo/src/main/java/me/alexrs/recyclerviewrenderers/renderers/ItemFryRenderer.java,0
+/recyclerview-renderers-demo/src/main/java/me/alexrs/recyclerviewrenderers/renderers/ItemZoidbergRenderer.java,0
+/recyclerview-renderers-demo/src/main/java/me/alexrs/recyclerviewrenderers/renderers/ItemBenderRenderer.java,0
+/recyclerview-renderers-demo/src/main/java/me/alexrs/recyclerviewrenderers/activities/RenderersActivity.java,1
+/recyclerview-renderers-demo/src/main/java/me/alexrs/recyclerviewrenderers/activities/DetailActivity.java,0
+/recyclerview-renderers-lib/src/main/java/me/alexrs/recyclerviewrenderers/builder/RendererBuilder.java,0
+/recyclerview-renderers-lib/src/main/java/me/alexrs/recyclerviewrenderers/viewholder/RenderViewHolder.java,0
+/recyclerview-renderers-lib/src/main/java/me/alexrs/recyclerviewrenderers/adapter/RendererAdapter.java,2
+/recyclerview-renderers-lib/src/main/java/me/alexrs/recyclerviewrenderers/renderer/Renderer.java,0

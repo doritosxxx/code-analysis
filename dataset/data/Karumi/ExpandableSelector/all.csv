@@ -1,0 +1,6 @@
+/sample/src/main/java/com/karumi/expandableselector/sample/MainActivity.java,3,4:,0:,24,14:,9,15,0:,0:,165,21:,2,5,112:,0:,0:
+/expandableselector/src/main/java/com/karumi/expandableselector/animation/ResizeAnimation.java,0,5:,0:,8,1:,0,20,1:,0:,32,2:,0,0,20:,1:,0:
+/expandableselector/src/main/java/com/karumi/expandableselector/animation/AbstractAnimationListener.java,0,0:,0:,9,1:,0,20,0:,1:,10,3:,0,0,4:,0:,0:
+/expandableselector/src/main/java/com/karumi/expandableselector/animation/ExpandableSelectorAnimator.java,1,8:,0:,35,7:,6,54,1:,0:,189,29:,1,2,107:,2:,0:
+/expandableselector/src/main/java/com/karumi/expandableselector/ExpandableItem.java,0,3:,0:,15,1:,0,20,4:,0:,41,7:,0,0,28:,1:,0:
+/expandableselector/src/main/java/com/karumi/expandableselector/ExpandableSelector.java,1,7:,0:,40,22:,30,68,4:,0:,259,33:,1,6,165:,1:,0:

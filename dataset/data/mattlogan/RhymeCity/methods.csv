@@ -1,0 +1,15 @@
+/rhymecity/src/main/java/me/mattlogan/rhymecity/AppModule.java,3:
+/rhymecity/src/main/java/me/mattlogan/rhymecity/ui/ui/SearchPresenter.java,9:
+/rhymecity/src/main/java/me/mattlogan/rhymecity/ui/activity/MainActivity.java,6:
+/rhymecity/src/main/java/me/mattlogan/rhymecity/ui/adapter/RhymesAdapter.java,4:
+/rhymecity/src/main/java/me/mattlogan/rhymecity/ui/module/SearchModule.java,1:
+/rhymecity/src/main/java/me/mattlogan/rhymecity/ui/fragment/RhymesFragment.java,4:
+/rhymecity/src/main/java/me/mattlogan/rhymecity/ui/fragment/SearchFragment.java,21:
+/rhymecity/src/main/java/me/mattlogan/rhymecity/data/model/Rhymes.java,1:
+/rhymecity/src/main/java/me/mattlogan/rhymecity/data/model/RhymesResponse.java,1:
+/rhymecity/src/main/java/me/mattlogan/rhymecity/data/WordsApiDataProvider.java,2:
+/rhymecity/src/main/java/me/mattlogan/rhymecity/data/api/AuthInterceptor.java,1:
+/rhymecity/src/main/java/me/mattlogan/rhymecity/data/util/SafeCompositeSubscription.java,2:
+/rhymecity/src/main/java/me/mattlogan/rhymecity/data/util/Pair.java,2:
+/rhymecity/src/main/java/me/mattlogan/rhymecity/data/util/EndlessObserver.java,1:
+/rhymecity/src/main/java/me/mattlogan/rhymecity/RhymeCityApplication.java,3:

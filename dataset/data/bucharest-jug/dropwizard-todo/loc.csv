@@ -1,0 +1,10 @@
+/todo-service/src/main/java/ro/bjug/todo/TodoServiceConfiguration.java,15
+/todo-service/src/main/java/ro/bjug/todo/TodoService.java,31
+/todo-service/src/main/java/ro/bjug/todo/resources/HtmlPageResource.java,25
+/todo-service/src/main/java/ro/bjug/todo/resources/TodoResource.java,90
+/todo-service/src/main/java/ro/bjug/todo/dao/BindTodo.java,30
+/todo-service/src/main/java/ro/bjug/todo/dao/TodoMapper.java,21
+/todo-api/src/main/java/ro/bjug/todo/api/TodoBuilder.java,42
+/todo-api/src/main/java/ro/bjug/todo/api/ItemBuilder.java,29
+/todo-api/src/main/java/ro/bjug/todo/api/Todo.java,77
+/todo-api/src/main/java/ro/bjug/todo/api/Item.java,70

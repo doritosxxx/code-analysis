@@ -1,0 +1,13 @@
+/app/src/main/java/me/relex/seamlessviewpagerheader/delegate/ScrollViewDelegate.java,6
+/app/src/main/java/me/relex/seamlessviewpagerheader/delegate/AbsListViewDelegate.java,11
+/app/src/main/java/me/relex/seamlessviewpagerheader/widget/SlidingTabLayout.java,50
+/app/src/main/java/me/relex/seamlessviewpagerheader/widget/SlidingTabStrip.java,32
+/app/src/main/java/me/relex/seamlessviewpagerheader/widget/TouchCallbackLayout.java,15
+/app/src/main/java/me/relex/seamlessviewpagerheader/activity/MainFragmentActivity.java,18
+/app/src/main/java/me/relex/seamlessviewpagerheader/activity/MainActivity.java,54
+/app/src/main/java/me/relex/seamlessviewpagerheader/activity/ListActivity.java,9
+/app/src/main/java/me/relex/seamlessviewpagerheader/tools/ViewPagerHeaderHelper.java,44
+/app/src/main/java/me/relex/seamlessviewpagerheader/fragment/ListViewFragment.java,9
+/app/src/main/java/me/relex/seamlessviewpagerheader/fragment/ScrollViewFragment.java,10
+/app/src/main/java/me/relex/seamlessviewpagerheader/fragment/MainFragment.java,57
+/app/src/main/java/me/relex/seamlessviewpagerheader/fragment/BaseViewPagerFragment.java,8

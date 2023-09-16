@@ -1,0 +1,16 @@
+/pkrss/src/main/java/com/pkmmte/pkrss/Category.java,6,3:,0:,22,10:,13,0,3:,1:,84,13:,4,9,51:,1:,0:
+/pkrss/src/main/java/com/pkmmte/pkrss/parser/Parser.java,3,2:,0:,9,9:,3,17,0:,0:,47,6:,3,3,34:,0:,0:
+/pkrss/src/main/java/com/pkmmte/pkrss/parser/Rss2Parser.java,9,4:,0:,36,44:,58,44,1:,0:,204,5:,1,19,142:,0:,0:
+/pkrss/src/main/java/com/pkmmte/pkrss/parser/AtomParser.java,9,4:,0:,20,30:,45,37,1:,0:,156,4:,1,17,95:,0:,0:
+/pkrss/src/main/java/com/pkmmte/pkrss/Request.java,1,22:,0:,19,2:,1,4,2:,0:,105,12:,1,1,84:,1:,0:
+/pkrss/src/main/java/com/pkmmte/pkrss/Enclosure.java,5,3:,0:,20,5:,5,38,3:,1:,77,11:,5,5,47:,1:,0:
+/pkrss/src/main/java/com/pkmmte/pkrss/PkRSS.java,2,17:,0:,84,42:,48,201,2:,0:,323,36:,1,9,243:,11:,3:
+/pkrss/src/main/java/com/pkmmte/pkrss/RequestCreator.java,4,4:,0:,30,14:,16,92,1:,0:,140,18:,1,10,87:,1:,0:
+/pkrss/src/main/java/com/pkmmte/pkrss/downloader/OkHttp3Downloader.java,4,6:,0:,24,14:,18,17,1:,0:,87,4:,1,9,47:,0:,0:
+/pkrss/src/main/java/com/pkmmte/pkrss/downloader/Downloader.java,3,2:,0:,12,9:,3,38,0:,0:,50,9:,3,3,37:,0:,0:
+/pkrss/src/main/java/com/pkmmte/pkrss/downloader/OkHttpDownloader.java,3,6:,0:,21,15:,19,24,1:,0:,89,4:,1,9,50:,0:,0:
+/pkrss/src/main/java/com/pkmmte/pkrss/downloader/DefaultDownloader.java,5,5:,0:,21,16:,20,23,1:,0:,99,4:,1,9,57:,0:,0:
+/pkrss/src/main/java/com/pkmmte/pkrss/Article.java,4,27:,0:,106,45:,65,288,6:,1:,519,82:,1,30,376:,2:,2:
+/pkrss/src/main/java/com/pkmmte/pkrss/Utils.java,5,0:,0:,9,8:,11,13,0:,0:,37,0:,3,8,23:,1:,2:
+/pkrss/src/main/java/com/pkmmte/pkrss/FavoriteDatabase.java,2,0:,0:,23,6:,5,43,1:,0:,137,8:,2,3,65:,14:,0:
+/pkrss/src/main/java/com/pkmmte/pkrss/CallbackHandler.java,5,1:,0:,12,6:,11,8,2:,0:,54,5:,2,9,29:,1:,1:

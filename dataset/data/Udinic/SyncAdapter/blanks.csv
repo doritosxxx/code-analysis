@@ -1,0 +1,15 @@
+/src/com/udinic/sync_adapter_example/authentication/AccountGeneral.java,7
+/src/com/udinic/sync_adapter_example/authentication/User.java,20
+/src/com/udinic/sync_adapter_example/authentication/UdinicAuthenticatorService.java,3
+/src/com/udinic/sync_adapter_example/authentication/UdinicAuthenticator.java,24
+/src/com/udinic/sync_adapter_example/authentication/AuthenticatorActivity.java,35
+/src/com/udinic/sync_adapter_example/authentication/ParseComServer.java,31
+/src/com/udinic/sync_adapter_example/authentication/SignUpActivity.java,22
+/SyncAdapterExample/src/com/udinic/sync_adapter_example_app/syncadapter/ParseComServerAccessor.java,27
+/SyncAdapterExample/src/com/udinic/sync_adapter_example_app/syncadapter/TvShowsSyncService.java,5
+/SyncAdapterExample/src/com/udinic/sync_adapter_example_app/syncadapter/TvShowsSyncAdapter.java,23
+/SyncAdapterExample/src/com/udinic/sync_adapter_example_app/Main.java,72
+/SyncAdapterExample/src/com/udinic/sync_adapter_example_app/db/TvShowsDbHelper.java,11
+/SyncAdapterExample/src/com/udinic/sync_adapter_example_app/db/dao/TvShow.java,15
+/SyncAdapterExample/src/com/udinic/sync_adapter_example_app/db/TvShowsContentProvider.java,13
+/SyncAdapterExample/src/com/udinic/sync_adapter_example_app/db/TvShowsContract.java,5

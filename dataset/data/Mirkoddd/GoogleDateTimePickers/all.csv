@@ -1,0 +1,27 @@
+/sample/Pickers Sample/gen/com/mirko/sample/BuildConfig.java,0,0:,0:,1,1:,0,1,0:,0:,4,0:,0,0,2:,1:,0:
+/sample/Pickers Sample/gen/com/inscription/R.java,0,0:,0:,1,1:,0,6,0:,0:,16,0:,0,0,11:,7:,0:
+/sample/Pickers Sample/gen/mirko/android/datetimepicker/R.java,0,0:,0:,1,1:,0,6,0:,0:,133,0:,0,0,123:,114:,0:
+/sample/Pickers Sample/src/com/mirko/sample/SwipeDismissTouchListener.java,22,12:,0:,22,16:,22,63,1:,1:,153,7:,22,22,101:,0:,0:
+/sample/Pickers Sample/src/com/mirko/sample/MainActivity.java,3,11:,0:,70,13:,18,3,0:,0:,210,20:,1,6,111:,0:,3:
+/sample/Pickers Sample/src/com/mirko/sample/Hint.java,0,1:,0:,12,1:,0,1,0:,0:,20,2:,0,0,9:,0:,0:
+/library/GoogleDateTimePickers/gen/mirko/android/datetimepicker/BuildConfig.java,0,0:,0:,1,1:,0,1,0:,0:,4,0:,0,0,2:,1:,0:
+/library/GoogleDateTimePickers/src/com/googlecode/TouchExplorationHelper.java,3,9:,0:,69,33:,34,149,1:,1:,241,25:,1,8,171:,1:,0:
+/library/GoogleDateTimePickers/src/mirko/android/datetimepicker/AccessibleLinearLayout.java,0,0:,0:,6,1:,0,18,1:,0:,22,2:,0,0,9:,0:,0:
+/library/GoogleDateTimePickers/src/mirko/android/datetimepicker/date/DatePickerDialog.java,3,26:,0:,70,35:,43,56,1:,2:,386,27:,1,9,280:,21:,1:
+/library/GoogleDateTimePickers/src/mirko/android/datetimepicker/date/TextViewWithCircularIndicator.java,1,5:,0:,13,3:,3,18,1:,0:,58,4:,1,2,33:,1:,0:
+/library/GoogleDateTimePickers/src/mirko/android/datetimepicker/date/SimpleMonthAdapter.java,1,7:,0:,33,7:,7,38,5:,1:,139,13:,1,4,92:,3:,0:
+/library/GoogleDateTimePickers/src/mirko/android/datetimepicker/date/YearPickerView.java,2,5:,0:,18,8:,10,21,2:,2:,120,10:,1,6,76:,1:,0:
+/library/GoogleDateTimePickers/src/mirko/android/datetimepicker/date/FrameLayoutWithMaxHeight.java,1,1:,0:,11,3:,2,31,3:,0:,34,2:,1,1,19:,0:,0:
+/library/GoogleDateTimePickers/src/mirko/android/datetimepicker/date/SimpleMonthView.java,2,39:,0:,95,39:,45,155,2:,0:,438,34:,1,11,311:,26:,0:
+/library/GoogleDateTimePickers/src/mirko/android/datetimepicker/date/DatePickerDialogSupport.java,3,25:,0:,67,34:,42,55,1:,2:,379,26:,1,9,274:,20:,1:
+/library/GoogleDateTimePickers/src/mirko/android/datetimepicker/date/DayPickerView.java,7,19:,0:,51,44:,68,118,1:,2:,322,21:,1,17,230:,8:,0:
+/library/GoogleDateTimePickers/src/mirko/android/datetimepicker/date/AccessibleDateAnimator.java,1,1:,0:,7,2:,1,19,1:,0:,27,2:,1,1,13:,0:,0:
+/library/GoogleDateTimePickers/src/mirko/android/datetimepicker/time/CircleView.java,4,11:,0:,18,7:,8,23,1:,0:,69,2:,3,5,49:,1:,0:
+/library/GoogleDateTimePickers/src/mirko/android/datetimepicker/time/RadialSelectorView.java,8,23:,0:,49,34:,48,77,1:,0:,249,9:,2,26,166:,1:,0:
+/library/GoogleDateTimePickers/src/mirko/android/datetimepicker/time/AmPmCirclesView.java,3,16:,0:,29,12:,11,31,1:,0:,134,5:,1,7,95:,5:,0:
+/library/GoogleDateTimePickers/src/mirko/android/datetimepicker/time/TimePickerDialog.java,8,34:,0:,91,140:,203,145,2:,2:,706,34:,1,57,566:,16:,1:
+/library/GoogleDateTimePickers/src/mirko/android/datetimepicker/time/RadialPickerLayout.java,8,31:,0:,83,113:,178,169,1:,1:,599,29:,1,61,477:,10:,0:
+/library/GoogleDateTimePickers/src/mirko/android/datetimepicker/time/TimePickerDialogSupport.java,8,33:,0:,90,139:,201,145,2:,2:,695,33:,1,57,556:,15:,1:
+/library/GoogleDateTimePickers/src/mirko/android/datetimepicker/time/RadialTextsView.java,5,31:,0:,44,20:,22,54,1:,0:,249,10:,2,11,175:,1:,0:
+/library/GoogleDateTimePickers/src/mirko/android/datetimepicker/AccessibleTextView.java,0,0:,0:,6,1:,0,18,1:,0:,22,2:,0,0,9:,0:,0:
+/library/GoogleDateTimePickers/src/mirko/android/datetimepicker/Utils.java,2,0:,0:,14,10:,6,51,0:,0:,68,0:,1,3,30:,3:,6:

@@ -1,0 +1,15 @@
+/MoviesDemoProject/MoviesDemo/src/main/java/com/idunnolol/moviesdemo/widget/MovieAdapter.java,2,8:,0:,30,2:,2,4,1:,0:,91,10:,2,2,52:,0:,0:
+/MoviesDemoProject/MoviesDemo/src/main/java/com/idunnolol/moviesdemo/ui/AboutDialogFragment.java,0,0:,0:,5,1:,0,0,0:,0:,18,1:,0,0,5:,0:,0:
+/MoviesDemoProject/MoviesDemo/src/main/java/com/idunnolol/moviesdemo/ui/MoviesActivity.java,2,5:,0:,38,15:,16,40,1:,2:,173,17:,1,8,97:,0:,0:
+/MoviesDemoProject/MoviesDemo/src/main/java/com/idunnolol/moviesdemo/ui/MoviesApplication.java,11,1:,0:,17,14:,22,2,0:,0:,86,2:,1,21,53:,0:,1:
+/MoviesDemoProject/MoviesDemo/src/main/java/com/idunnolol/moviesdemo/data/Movie.java,1,7:,0:,24,2:,1,3,0:,0:,59,13:,1,1,39:,0:,0:
+/MoviesDemoProject/MoviesDemo/src/main/java/com/idunnolol/moviesdemo/view/DecorFrameLayout.java,0,0:,0:,6,1:,0,4,3:,1:,15,0:,0,0,7:,0:,0:
+/MoviesDemoProject/MoviesDemo/src/main/java/com/idunnolol/moviesdemo/view/SlidingListView.java,2,0:,0:,12,6:,8,5,3:,0:,43,3:,2,3,28:,0:,0:
+/MoviesDemoProject/MoviesDemo/src/main/java/com/idunnolol/moviesdemo/view/CenteringRelativeLayout.java,2,0:,0:,8,2:,2,4,3:,0:,26,1:,2,2,13:,0:,0:
+/MoviesDemoProject/MoviesDemo/src/main/java/com/idunnolol/moviesdemo/view/ViewPager.java,11,70:,0:,290,440:,761,474,6:,0:,2098,106:,1,144,1552:,21:,0:
+/MoviesDemoProject/MoviesDemo/src/main/java/com/idunnolol/moviesdemo/view/MovieRowView.java,4,17:,0:,36,9:,13,6,3:,0:,148,6:,1,10,99:,0:,0:
+/MoviesDemoProject/MoviesDemo/src/main/java/com/idunnolol/moviesdemo/view/SlidingPairView.java,2,3:,0:,19,4:,6,6,3:,0:,64,5:,1,3,45:,0:,0:
+/MoviesDemoProject/MoviesDemo/src/main/java/com/idunnolol/moviesdemo/view/SlidingRevealViewGroup.java,1,8:,0:,29,6:,5,22,3:,0:,86,10:,1,3,56:,0:,0:
+/MoviesDemoProject/MoviesDemo/src/main/java/com/idunnolol/moviesdemo/util/FontCache.java,1,0:,0:,6,2:,1,0,0:,0:,15,0:,1,1,7:,1:,1:
+/MoviesDemoProject/MoviesDemo/src/main/java/com/idunnolol/moviesdemo/util/BitmapCache.java,1,0:,0:,11,2:,1,1,0:,0:,31,1:,1,1,16:,3:,2:
+/MoviesDemoProject/MoviesDemo/src/main/java/com/idunnolol/moviesdemo/util/ResourceUtils.java,5,0:,0:,9,5:,5,20,0:,0:,33,0:,5,5,19:,1:,1:

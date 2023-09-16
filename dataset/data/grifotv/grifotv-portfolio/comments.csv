@@ -1,0 +1,12 @@
+/scripts/yuicompressor-2.4.6/src/com/yahoo/platform/yui/compressor/JarClassLoader.java,16
+/scripts/yuicompressor-2.4.6/src/com/yahoo/platform/yui/compressor/JavaScriptToken.java,8
+/scripts/yuicompressor-2.4.6/src/com/yahoo/platform/yui/compressor/CssCompressor.java,75
+/scripts/yuicompressor-2.4.6/src/com/yahoo/platform/yui/compressor/JavaScriptCompressor.java,146
+/scripts/yuicompressor-2.4.6/src/com/yahoo/platform/yui/compressor/Bootstrap.java,8
+/scripts/yuicompressor-2.4.6/src/com/yahoo/platform/yui/compressor/ScriptOrFnScope.java,16
+/scripts/yuicompressor-2.4.6/src/com/yahoo/platform/yui/compressor/JavaScriptIdentifier.java,11
+/scripts/yuicompressor-2.4.6/src/com/yahoo/platform/yui/compressor/YUICompressor.java,19
+/scripts/yuicompressor-2.4.6/src/org/mozilla/javascript/TokenStream.java,139
+/scripts/yuicompressor-2.4.6/src/org/mozilla/javascript/Parser.java,197
+/scripts/yuicompressor-2.4.6/src/org/mozilla/javascript/Token.java,52
+/scripts/yuicompressor-2.4.6/src/org/mozilla/javascript/Decompiler.java,150

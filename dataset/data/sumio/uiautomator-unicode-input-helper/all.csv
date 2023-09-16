@@ -1,0 +1,17 @@
+/UiAutomatorInputSample/src/com/beetstra/jutf7/ModifiedUTF7Charset.java,2,0:,0:,6,3:,2,29,1:,0:,19,3:,2,2,12:,1:,0:
+/UiAutomatorInputSample/src/com/beetstra/jutf7/UTF7StyleCharset.java,1,2:,0:,9,1:,1,65,1:,0:,30,6:,1,1,17:,1:,0:
+/UiAutomatorInputSample/src/com/beetstra/jutf7/CharsetProvider.java,5,4:,0:,7,8:,10,35,1:,0:,60,2:,4,6,44:,6:,2:
+/UiAutomatorInputSample/src/com/beetstra/jutf7/UTF7Charset.java,2,1:,0:,5,2:,2,39,1:,0:,25,3:,2,2,17:,4:,0:
+/UiAutomatorInputSample/src/com/beetstra/jutf7/UTF7StyleCharsetDecoder.java,13,9:,0:,11,21:,54,62,1:,0:,109,8:,1,41,90:,0:,0:
+/UiAutomatorInputSample/src/com/beetstra/jutf7/Base64Util.java,2,2:,0:,6,6:,6,66,1:,0:,34,3:,1,4,26:,1:,0:
+/UiAutomatorInputSample/src/com/beetstra/jutf7/UTF7StyleCharsetEncoder.java,5,8:,0:,8,20:,21,95,1:,0:,91,5:,2,10,74:,3:,0:
+/UiAutomatorInputSample/src/jp/jun_nama/test/utf7ime/helper/Utf7ImeHelper.java,3,0:,0:,14,5:,6,86,0:,0:,54,0:,1,5,29:,1:,4:
+/Utf7Ime/src/jp/jun_nama/test/utf7ime/Utf7ImeService.java,3,4:,0:,30,8:,9,46,0:,0:,103,13:,1,7,71:,4:,0:
+/helper-library/src/com/beetstra/jutf7/ModifiedUTF7Charset.java,2,0:,0:,6,3:,2,29,1:,0:,19,3:,2,2,12:,1:,0:
+/helper-library/src/com/beetstra/jutf7/UTF7StyleCharset.java,1,2:,0:,9,1:,1,65,1:,0:,30,6:,1,1,17:,1:,0:
+/helper-library/src/com/beetstra/jutf7/CharsetProvider.java,5,4:,0:,7,8:,10,35,1:,0:,60,2:,4,6,44:,6:,2:
+/helper-library/src/com/beetstra/jutf7/UTF7Charset.java,2,1:,0:,5,2:,2,39,1:,0:,25,3:,2,2,17:,4:,0:
+/helper-library/src/com/beetstra/jutf7/UTF7StyleCharsetDecoder.java,13,9:,0:,11,21:,54,62,1:,0:,109,8:,1,41,90:,0:,0:
+/helper-library/src/com/beetstra/jutf7/Base64Util.java,2,2:,0:,6,6:,6,66,1:,0:,34,3:,1,4,26:,1:,0:
+/helper-library/src/com/beetstra/jutf7/UTF7StyleCharsetEncoder.java,5,8:,0:,8,20:,21,95,1:,0:,91,5:,2,10,74:,3:,0:
+/helper-library/src/jp/jun_nama/test/utf7ime/helper/Utf7ImeHelper.java,3,0:,0:,14,5:,6,86,0:,0:,54,0:,1,5,29:,1:,4:

@@ -1,0 +1,6 @@
+/ormgap-plugin/src/main/java/com/github/stephanenicolas/ormgap/CreateOrmLiteConfigTask.java,25
+/ormgap-plugin/src/main/java/com/github/stephanenicolas/ormgap/CreateOrmLiteConfigAction.java,5
+/ormgap-example/src/main/java/com/example/ormgap/SimpleData.java,10
+/ormgap-example/src/main/java/com/example/ormgap/DatabaseHelper.java,11
+/ormgap-example/src/main/java/com/example/ormgap/MainActivity.java,6
+/ormgap-ormlite-extension/src/main/java/com/github/stephanenicolas/ormgap/OrmLiteConfigUtil.java,21

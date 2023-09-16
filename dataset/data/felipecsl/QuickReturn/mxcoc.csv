@@ -1,0 +1,12 @@
+/app/src/main/java/com/felipecsl/quickreturn/app/MainActivity.java,21
+/library/src/main/java/com/felipecsl/quickreturn/library/widget/QuickReturnAdapter.java,7
+/library/src/main/java/com/felipecsl/quickreturn/library/widget/AbsListViewScrollTarget.java,5
+/library/src/main/java/com/felipecsl/quickreturn/library/widget/ObservableScrollView.java,1
+/library/src/main/java/com/felipecsl/quickreturn/library/widget/QuickReturnTargetView.java,19
+/library/src/main/java/com/felipecsl/quickreturn/library/widget/ScrollViewScrollTarget.java,1
+/library/src/main/java/com/felipecsl/quickreturn/library/QuickReturnAttacher.java,2
+/library/src/main/java/com/felipecsl/quickreturn/library/CompositeOnScrollListener.java,2
+/library/src/main/java/com/felipecsl/quickreturn/library/ScrollViewQuickReturnAttacher.java,0
+/library/src/main/java/com/felipecsl/quickreturn/library/SimpleAnimationListener.java,0
+/library/src/main/java/com/felipecsl/quickreturn/library/CompositeAbsListViewOnScrollListener.java,2
+/library/src/main/java/com/felipecsl/quickreturn/library/AbsListViewQuickReturnAttacher.java,2

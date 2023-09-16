@@ -1,0 +1,16 @@
+/gen/com/google/android/gms/R.java,114:
+/gen/com/yaylas/sytech/facerecognizer/BuildConfig.java,2:
+/gen/com/yaylas/sytech/facerecognizer/R.java,249:
+/gen/org/opencv/R.java,12:
+/src/com/yaylas/sytech/facerecognizer/methods/FaceDetection.java,55:
+/src/com/yaylas/sytech/facerecognizer/FaceDetectionActivity.java,354:
+/src/com/yaylas/sytech/facerecognizer/MainPageActivity.java,158:
+/src/com/yaylas/sytech/facerecognizer/utils/ImageUtils.java,33:
+/src/com/yaylas/sytech/facerecognizer/utils/FaceDetectionUtils.java,73:
+/src/com/yaylas/sytech/facerecognizer/SplashActivity.java,93:
+/src/com/yaylas/sytech/facerecognizer/DetectionBasedTracker.java,31:
+/src/com/yaylas/sytech/facerecognizer/EditDatabaseActivity.java,111:
+/src/com/yaylas/sytech/facerecognizer/facedatabase/Person.java,24:
+/src/com/yaylas/sytech/facerecognizer/facedatabase/FacesDataSource.java,71:
+/src/com/yaylas/sytech/facerecognizer/facedatabase/FaceRecognizerDBHelper.java,15:
+/src/com/yaylas/sytech/facerecognizer/FaceRecognitionActivity.java,240:

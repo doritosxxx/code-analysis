@@ -1,0 +1,12 @@
+/app/src/main/java/com/materialnotes/widget/AboutNoticeDialog.java,11:
+/app/src/main/java/com/materialnotes/widget/NotesAdapter.java,47:
+/app/src/main/java/com/materialnotes/activity/MainActivity.java,150:
+/app/src/main/java/com/materialnotes/activity/EditNoteActivity.java,63:
+/app/src/main/java/com/materialnotes/activity/ViewNoteActivity.java,50:
+/app/src/main/java/com/materialnotes/data/Note.java,74:
+/app/src/main/java/com/materialnotes/data/source/sqlite/NotesDatabaseHelper.java,28:
+/app/src/main/java/com/materialnotes/data/source/sqlite/SQLFileParser.java,16:
+/app/src/main/java/com/materialnotes/data/dao/impl/sqlite/NoteSQLiteDAO.java,63:
+/app/src/main/java/com/materialnotes/view/ShowHideOnScroll.java,29:
+/app/src/main/java/com/materialnotes/config/ConfigModule.java,6:
+/app/src/main/java/com/materialnotes/util/Strings.java,6:

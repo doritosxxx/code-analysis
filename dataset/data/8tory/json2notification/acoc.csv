@@ -1,0 +1,15 @@
+/json2notification/src/main/java/com/bluelinelabs/logansquare/models/SimpleIntent.java,0
+/json2notification/src/main/java/com/bluelinelabs/logansquare/models/SimpleNotification.java,0
+/json2notification/src/main/java/com/bluelinelabs/logansquare/models/SimpleBigPictureStyle.java,0
+/json2notification/src/main/java/com/bluelinelabs/logansquare/models/SimplePendingIntent.java,0
+/json2notification/src/main/java/com/bluelinelabs/logansquare/typeconverters/UriConverter.java,1
+/json2notification/src/main/java/com/bluelinelabs/logansquare/typeconverters/IntentConverter.java,2
+/json2notification/src/main/java/com/bluelinelabs/logansquare/typeconverters/BigPictureStyleConverter.java,7
+/json2notification/src/main/java/com/bluelinelabs/logansquare/typeconverters/NotificationConverter.java,17
+/json2notification/src/main/java/com/bluelinelabs/logansquare/typeconverters/PendingIntentConverter.java,6
+/json2notification/src/main/java/com/bluelinelabs/logansquare/typeconverters/Bitmaps.java,0
+/json2notification/src/main/java/json2notification/Json2Notification.java,2
+/json2notification/src/main/java/json2notification/model/Android.java,0
+/json2notification/src/main/java/json2notification/model/AndroidNotification.java,1
+/json2notification-app/src/main/java/json2notification/app/MainActivity.java,2
+/json2notification-app/src/main/java/json2notification/app/App.java,0

@@ -1,0 +1,11 @@
+/src/main/java/com/dailycred/GettingStarted.java,6
+/src/main/java/com/dailycred/dynamonito/core/ModelMetadata.java,4
+/src/main/java/com/dailycred/dynamonito/core/AmazonDynamoDBIntercepter.java,24
+/src/main/java/com/dailycred/dynamonito/core/DynamonitoCacheException.java,5
+/src/main/java/com/dailycred/dynamonito/core/DynamonitoMapper.java,49
+/src/main/java/com/dailycred/dynamonito/cache/RedisCacheAdaptor.java,19
+/src/main/java/com/dailycred/dynamonito/cache/InMemoryCacheAdaptor.java,17
+/src/main/java/com/dailycred/dynamonito/redis/RedisService.java,15
+/src/main/java/com/dailycred/dynamonito/util/Tuple2.java,9
+/src/main/java/com/dailycred/dynamonito/util/Util.java,28
+/src/main/java/com/amazonaws/services/dynamodb/datamodeling/DynamonitoReflector.java,9

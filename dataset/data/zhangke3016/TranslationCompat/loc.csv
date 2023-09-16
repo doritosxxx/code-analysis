@@ -1,0 +1,14 @@
+/transitioncontroller/src/main/java/com/mrzk/transitioncontroller/controller/animationUtils/TransitionController.java,171
+/transitioncontroller/src/main/java/com/mrzk/transitioncontroller/controller/animationUtils/ViewAnimationCompatUtils.java,35
+/transitioncontroller/src/main/java/com/mrzk/transitioncontroller/controller/utils/BitmapUtil.java,19
+/transitioncontroller/src/main/java/com/mrzk/transitioncontroller/controller/utils/BarUtils.java,56
+/transitioncontroller/src/main/java/com/mrzk/transitioncontroller/controller/view/CircularRevealLayout.java,154
+/transitioncontroller/src/main/java/com/mrzk/transitioncontroller/controller/view/RectRevealLayout.java,158
+/app/src/main/java/com/mrzk/example/MainActivity.java,35
+/app/src/main/java/com/mrzk/example/pagelist/PageDetail2Activity.java,83
+/app/src/main/java/com/mrzk/example/pagelist/PageDetailActivity.java,80
+/app/src/main/java/com/mrzk/example/pagelist/PageListActivity.java,72
+/app/src/main/java/com/mrzk/example/pagelist/PageDetail3Activity.java,83
+/app/src/main/java/com/mrzk/example/login/LoginSuccessActivity.java,11
+/app/src/main/java/com/mrzk/example/login/LoginActivity.java,36
+/app/src/main/java/com/mrzk/example/login/RegisterActivity.java,84

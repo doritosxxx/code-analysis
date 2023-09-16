@@ -1,0 +1,11 @@
+/morphos/src/main/java/rjsv/morphos/Morpho.java,1
+/morphos/src/main/java/rjsv/morphos/data/animations/RotationXYAnimation.java,14
+/morphos/src/main/java/rjsv/morphos/data/animations/AxisTranslationAnimation.java,42
+/morphos/src/main/java/rjsv/morphos/data/animations/Animation.java,0
+/morphos/src/main/java/rjsv/morphos/data/animations/RotationAnimation.java,11
+/morphos/src/main/java/rjsv/morphos/data/animations/AlphaAnimation.java,6
+/morphos/src/main/java/rjsv/morphos/data/animations/DimensionsAnimation.java,7
+/morphos/src/main/java/rjsv/morphos/data/animations/TranslationAnimation.java,20
+/morphos/src/main/java/rjsv/morphos/data/animations/ScaleAnimation.java,4
+/morphos/src/main/java/rjsv/morphos/data/ViewDefault.java,3
+/morphos/src/main/java/rjsv/morphos/Swarm.java,1

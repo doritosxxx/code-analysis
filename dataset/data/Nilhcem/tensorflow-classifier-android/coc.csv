@@ -1,0 +1,12 @@
+/app/src/main/java/org/tensorflow/demo/env/BorderedText.java,10
+/app/src/main/java/org/tensorflow/demo/env/ImageUtils.java,37
+/app/src/main/java/org/tensorflow/demo/env/Logger.java,17
+/app/src/main/java/org/tensorflow/demo/ClassifierActivity.java,10
+/app/src/main/java/org/tensorflow/demo/CameraConnectionFragment.java,36
+/app/src/main/java/org/tensorflow/demo/LegacyCameraConnectionFragment.java,9
+/app/src/main/java/org/tensorflow/demo/Classifier.java,4
+/app/src/main/java/org/tensorflow/demo/AutoFitTextureView.java,8
+/app/src/main/java/org/tensorflow/demo/OverlayView.java,1
+/app/src/main/java/org/tensorflow/demo/TensorFlowImageClassifier.java,12
+/app/src/main/java/org/tensorflow/demo/CameraActivity.java,45
+/app/src/main/java/org/tensorflow/demo/RecognitionScoreView.java,3
