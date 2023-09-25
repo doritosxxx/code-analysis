@@ -57,7 +57,16 @@ async function getRepoFiles(rootDir: string): Promise<string[]> {
     return files;
 }
 
-async function serializeResults(results: Record<string, number>[]) {
+function flattenResults(results: Record<string, number>[]): [string, number][] {
+    const flattened = results.reduce((result, chunk) => {
+        result.push(...Object.entries(chunk));
+        return result;
+    }, [] as [string, number][]);
+
+    return flattened.sort(([a], [b]) => a.localeCompare(b));
+}
+
+async function serializeResults(results: [string, number][]) {
     await fs.mkdir(RESULTS_ROOT, {
         recursive: true,
     })
@@ -65,10 +74,8 @@ async function serializeResults(results: Record<string, number>[]) {
     const file = await fs.open(path.resolve(RESULTS_ROOT, "./nullReferences.csv"), 'w');
 
     try {
-        for (const result of results) {
-            for (const [path, metrics] of Object.entries(result)) {
-                await file.write(`${path.slice(REPOS_ROOT.length).replace(/\\/g, '/')},${metrics}\n`);
-            }
+        for (const [path, metrics] of results) {
+            await file.write(`${path.slice(REPOS_ROOT.length).replace(/\\/g, '/')},${metrics}\n`);
         }
     }
     catch (error) {
@@ -80,11 +87,9 @@ async function serializeResults(results: Record<string, number>[]) {
 }
 
 function countNullReferences(code: string): number {
-    /**
-     * This will also match comments, variable names and string literals.
-     * References should be filtered for more precise metrics.
-     */
-    const references = code.match(/\bnull\b/g) || [];
+    const codeWithoutComments = code.replace(/\/\*[\s\S]*?\*\/|(?<=[^:])\/\/.*|^\/\/.*/g, '');
+
+    const references = codeWithoutComments.match(/\bnull\b/g) || [];
 
     return references.length;
 }
@@ -122,7 +127,7 @@ async function main() {
 
     console.log("Serializing results");
 
-    await serializeResults(results);
+    await serializeResults(flattenResults(results));
 }
 
 main();
