@@ -67,7 +67,7 @@ async function serializeResults(results: Record<string, number>[]) {
     try {
         for (const result of results) {
             for (const [path, metrics] of Object.entries(result)) {
-                await file.write(`${path.slice(REPOS_ROOT.length).replace('\\', '/')},${metrics}\n`);
+                await file.write(`${path.slice(REPOS_ROOT.length).replace(/\\/g, '/')},${metrics}\n`);
             }
         }
     }
