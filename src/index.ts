@@ -26,8 +26,7 @@ async function getFilesAndDirs(rootDir: string): Promise<{
     stats.forEach((stat, i) => {
         if (stat.isDirectory()) {
             dirs.push(dirNames[i]);
-        }
-        else if (stat.isFile()) {
+        } else if (stat.isFile()) {
             files.push(dirNames[i]);
         }
     })
@@ -116,7 +115,6 @@ async function main() {
     });
 
     const results = [];
-
 
     for (let index = 0; index < repoParsers.length; index++) {
         const parser = repoParsers[index];
