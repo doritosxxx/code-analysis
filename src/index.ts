@@ -4,39 +4,52 @@ import path from 'path';
 const REPOS_ROOT = path.resolve(__dirname, "../dataset/github");
 const RESULTS_ROOT = path.resolve(__dirname, "../results");
 
-async function getFiles(rootDir: string) {
+async function getDirectoryContent(rootDir: string) {
     const names = await fs.readdir(rootDir);
 
     return names.map(name => path.resolve(rootDir, name));
 }
 
-async function getJavaFiles(rootDir: string) {
-    const dirNames = await getFiles(rootDir);
+async function getFilesAndDirs(rootDir: string): Promise<{
+    files: string[];
+    dirs: string[];
+}> {
+    const dirNames = await getDirectoryContent(rootDir);
 
-    return dirNames.filter(dirName => dirName.endsWith('.java'));
-}
-
-async function getDirs(rootDir: string) {
-    const dirNames = await getFiles(rootDir);
-    const isDirArray = await Promise.all(
-        dirNames.map(dirName => fs.stat(dirName).then(stats => stats.isDirectory()))
+    const stats = await Promise.all(
+        dirNames.map(dirName => fs.stat(dirName))
     );
 
-    return dirNames.filter((_, i) => isDirArray[i]);
+    const files: string[] = [];
+    const dirs: string[] = [];
+
+    stats.forEach((stat, i) => {
+        if (stat.isDirectory()) {
+            dirs.push(dirNames[i]);
+        }
+        else if (stat.isFile()) {
+            files.push(dirNames[i]);
+        }
+    })
+
+    return {
+        dirs,
+        files,
+    }
 }
 
 async function getRepoFiles(rootDir: string): Promise<string[]> {
     const files: string[] = [];
 
-    async function pushRepoFiles(dir: string, files: string[]): Promise<void> {
-        const [dirs, javaFiles] = await Promise.all([
-            getDirs(dir),
-            getJavaFiles(dir),
-        ]);
+    async function pushRepoFiles(dir: string, result: string[]): Promise<void> {
+        const {
+            dirs,
+            files,
+        } = await getFilesAndDirs(dir);
 
-        files.push(...javaFiles);
+        result.push(...files.filter(filename => filename.endsWith('.java')));
 
-        await Promise.all(dirs.map(dir => pushRepoFiles(dir, files)));
+        await Promise.all(dirs.map(dir => pushRepoFiles(dir, result)));
     }
 
     await pushRepoFiles(rootDir, files);
@@ -77,7 +90,7 @@ function countNullReferences(code: string): number {
 }
 
 async function main() {
-    const repos = await getFiles(REPOS_ROOT);
+    const repos = await getDirectoryContent(REPOS_ROOT);
 
     const filesPerRepo = await Promise.all(repos.map(getRepoFiles));
 
