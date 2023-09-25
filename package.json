@@ -1,10 +1,14 @@
 {
   "name": "code-analysis",
   "version": "1.0.0",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@types/node": "^20.6.4",
     "ts-node": "^10.9.1"
   }
 }
