@@ -1,60 +1,12 @@
 import fs from 'fs/promises';
 import path from 'path';
 
-const REPOS_ROOT = path.resolve(__dirname, "../dataset/github");
-const RESULTS_ROOT = path.resolve(__dirname, "../results");
-
-async function getDirectoryContent(rootDir: string) {
-    const names = await fs.readdir(rootDir);
-
-    return names.map(name => path.resolve(rootDir, name));
-}
-
-async function getFilesAndDirs(rootDir: string): Promise<{
-    files: string[];
-    dirs: string[];
-}> {
-    const dirNames = await getDirectoryContent(rootDir);
-
-    const stats = await Promise.all(
-        dirNames.map(dirName => fs.stat(dirName))
-    );
-
-    const files: string[] = [];
-    const dirs: string[] = [];
-
-    stats.forEach((stat, i) => {
-        if (stat.isDirectory()) {
-            dirs.push(dirNames[i]);
-        } else if (stat.isFile()) {
-            files.push(dirNames[i]);
-        }
-    })
-
-    return {
-        dirs,
-        files,
-    }
-}
-
-async function getRepoFiles(rootDir: string): Promise<string[]> {
-    const files: string[] = [];
-
-    async function pushRepoFiles(dir: string, result: string[]): Promise<void> {
-        const {
-            dirs,
-            files,
-        } = await getFilesAndDirs(dir);
-
-        result.push(...files.filter(filename => filename.endsWith('.java')));
-
-        await Promise.all(dirs.map(dir => pushRepoFiles(dir, result)));
-    }
-
-    await pushRepoFiles(rootDir, files);
-
-    return files;
-}
+import {
+    REPOS_ROOT,
+    RESULTS_ROOT,
+    getDirectoryContent,
+    getRepoFiles
+} from './helpers';
 
 function flattenResults(results: Record<string, number>[]): [string, number][] {
     const flattened = results.reduce((result, chunk) => {
@@ -72,9 +24,14 @@ async function serializeResults(results: [string, number][]) {
 
     const file = await fs.open(path.resolve(RESULTS_ROOT, "./nullReferences.csv"), 'w');
 
+    await file.write("repository,file,nullReferences\n");
+
     try {
         for (const [path, metrics] of results) {
-            await file.write(`${path.slice(REPOS_ROOT.length).replace(/\\/g, '/')},${metrics}\n`);
+            const truncatedPath = path.slice(REPOS_ROOT.length + 1).replace(/\\/g, '/');
+
+            const [, repository, javaPath] = truncatedPath.match(/^([\w\d.-]+\/[\w\d.-]+)(\/.*)$/i) || [];
+            await file.write(`${repository},${javaPath},${metrics}\n`);
         }
     }
     catch (error) {
