@@ -2,7 +2,8 @@
   "name": "code-analysis",
   "version": "1.0.0",
   "scripts": {
-    "start": "ts-node src/index.ts"
+    "count": "ts-node src/index.ts",
+    "merge": "ts-node src/mergeMetrics.ts"
   },
   "keywords": [],
   "author": "",
