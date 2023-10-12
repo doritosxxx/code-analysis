@@ -1,5 +1,0 @@
-/app-tests/src/main/java/com/soagrowers/android/RobolectricGradleTestRunner.java,24
-/core/src/main/java/com/soagrowers/android/MyClass.java,6
-/app/src/main/java/com/soagrowers/android/MyActivity.java,35
-/app/src/androidTest/java/com/soagrowers/android/MyActivityInstrumentation.java,28
-/app/src/androidTest/java/com/soagrowers/android/MyActivityRobotium.java,25

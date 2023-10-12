@@ -1,6 +1,0 @@
-/sample/src/main/java/com/example/windowview/DemoActivity.java,0,0:,0:,7,1:,0,1,0:,0:,26,3:,0,0,10:,0:,0:
-/sample-debug/src/main/java/com/example/windowviewdebug/DebugActivity.java,2,5:,0:,23,10:,8,3,0:,0:,148,11:,1,4,95:,3:,0:
-/sample-debug/src/main/java/com/example/windowviewdebug/DebugWindowView.java,5,6:,0:,27,22:,22,15,4:,0:,168,8:,1,19,125:,3:,0:
-/library/src/main/java/com/jmedeisis/windowview/WindowView.java,2,15:,0:,63,36:,41,141,4:,1:,333,36:,1,9,235:,9:,1:
-/library/src/main/java/com/jmedeisis/windowview/sensor/ExponentialSmoothingFilter.java,0,2:,0:,7,1:,0,23,1:,1:,25,4:,0,0,15:,0:,0:
-/library/src/main/java/com/jmedeisis/windowview/sensor/TiltSensor.java,5,23:,0:,47,48:,54,113,1:,1:,266,16:,1,19,212:,3:,3:

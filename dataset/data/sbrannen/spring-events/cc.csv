@@ -1,8 +1,0 @@
-/src/main/java/com/sambrannen/spring/events/web/GlobalControllerAdvice.java,1:
-/src/main/java/com/sambrannen/spring/events/web/WebSecurityConfig.java,1:
-/src/main/java/com/sambrannen/spring/events/web/RestEventsController.java,1:
-/src/main/java/com/sambrannen/spring/events/web/EventsController.java,2:
-/src/main/java/com/sambrannen/spring/events/service/EventNotFoundException.java,1:
-/src/main/java/com/sambrannen/spring/events/service/StandardEventService.java,1:
-/src/main/java/com/sambrannen/spring/events/domain/Event.java,16:
-/src/main/java/com/sambrannen/spring/events/Application.java,1:

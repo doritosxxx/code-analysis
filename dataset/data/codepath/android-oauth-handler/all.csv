@@ -1,7 +1,0 @@
-/library/src/main/java/com/codepath/utils/GenericsUtil.java,12,0:,0:,8,12:,25,5,0:,0:,67,0:,10,15,46:,0:,2:
-/library/src/main/java/com/codepath/oauth/OAuthTokenClient.java,3,4:,0:,22,10:,15,14,1:,0:,122,13:,2,8,64:,0:,0:
-/library/src/main/java/com/codepath/oauth/OAuthAsyncHttpClient.java,0,0:,0:,15,1:,0,0,1:,0:,54,1:,0,0,14:,1:,3:
-/library/src/main/java/com/codepath/oauth/OAuthLoginFragment.java,1,1:,0:,10,2:,1,2,0:,1:,29,3:,1,1,12:,0:,0:
-/library/src/main/java/com/codepath/oauth/OAuthBaseClient.java,4,9:,0:,34,20:,25,17,1:,0:,165,16:,1,11,120:,5:,1:
-/library/src/main/java/com/codepath/oauth/OAuthLoginActivity.java,1,1:,0:,11,2:,1,20,0:,1:,34,4:,1,1,15:,0:,0:
-/library/src/main/java/com/codepath/oauth/OAuthLoginActionBarActivity.java,1,1:,0:,12,2:,1,20,0:,1:,35,4:,1,1,15:,0:,0:

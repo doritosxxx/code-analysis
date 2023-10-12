@@ -1,9 +1,0 @@
-/tests/src/main/java/com/uphyca/galette/tests/TestActivity.java,57
-/example/src/main/java/com/uphyca/example/galette/MainActivity.java,33
-/example/src/main/java/com/uphyca/example/galette/MyApplication.java,36
-/instrumentation/src/main/java/com/uphyca/galette/GAletteInstrumentation.java,314
-/library/src/main/java/com/uphyca/galette/GAlette.java,162
-/library/src/main/java/com/uphyca/galette/ScreenViewBuilderDelegate.java,72
-/library/src/main/java/com/uphyca/galette/StringFieldBuilder.java,3
-/library/src/main/java/com/uphyca/galette/LongFieldBuilder.java,3
-/library/src/main/java/com/uphyca/galette/EventBuilderDelegate.java,92

@@ -1,6 +1,0 @@
-/app/src/main/java/me/rakshakhegde/dagger_android_injector/dependencies/InjectorsModule.java,10
-/app/src/main/java/me/rakshakhegde/dagger_android_injector/dependencies/AppComponent.java,16
-/app/src/main/java/me/rakshakhegde/dagger_android_injector/screens/main_screen/MainActivity.java,25
-/app/src/main/java/me/rakshakhegde/dagger_android_injector/screens/main_screen/MainModule.java,13
-/app/src/main/java/me/rakshakhegde/dagger_android_injector/screens/main_screen/MainViewModel.java,13
-/app/src/main/java/me/rakshakhegde/dagger_android_injector/App.java,10

@@ -1,9 +1,0 @@
-/MAComponents/src/com/martinappl/components/ui/containers/HorizontalList.java,7,20:,0:,140,79:,117,90,3:,0:,434,30:,1,26,344:,5:,0:
-/MAComponents/src/com/martinappl/components/ui/containers/HorizontalListWithRemovableItems.java,5,17:,0:,68,24:,35,42,3:,0:,212,18:,2,11,149:,2:,0:
-/MAComponents/src/com/martinappl/components/ui/containers/contentbands/TileBase.java,0,6:,0:,26,1:,0,6,0:,0:,66,19:,0,0,45:,0:,0:
-/MAComponents/src/com/martinappl/components/ui/containers/contentbands/BasicContentBand.java,6,36:,0:,218,132:,189,216,6:,0:,734,62:,1,35,574:,9:,0:
-/MAComponents/src/com/martinappl/components/ui/containers/contentbands/EndlessContentBand.java,6,0:,0:,41,27:,31,11,3:,0:,143,5:,2,11,104:,0:,0:
-/MAComponents/src/com/martinappl/components/ui/containers/FeatureCoverFlow.java,6,43:,0:,286,125:,200,266,7:,1:,895,75:,1,36,669:,1:,0:
-/MAComponents/src/com/martinappl/components/ui/containers/EndlessLoopAdapterContainer.java,7,27:,0:,250,153:,226,287,6:,0:,808,59:,1,39,633:,13:,0:
-/MAComponents/src/com/martinappl/components/general/ToolBox.java,3,1:,0:,83,46:,57,141,0:,0:,360,2:,1,8,230:,1:,30:
-/MAComponents/src/com/martinappl/components/general/Validate.java,2,0:,0:,33,27:,32,347,1:,0:,127,0:,1,3,103:,0:,21:

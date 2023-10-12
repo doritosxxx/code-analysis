@@ -1,9 +1,0 @@
-/tests/src/main/java/com/uphyca/galette/tests/TestActivity.java,0,0:,0:,13,1:,0,0,0:,0:,57,10:,0,0,22:,0:,0:
-/example/src/main/java/com/uphyca/example/galette/MainActivity.java,0,1:,0:,9,1:,0,25,0:,0:,33,4:,0,0,12:,0:,0:
-/example/src/main/java/com/uphyca/example/galette/MyApplication.java,0,2:,0:,12,1:,0,6,0:,2:,36,5:,0,0,15:,0:,0:
-/instrumentation/src/main/java/com/uphyca/galette/GAletteInstrumentation.java,3,12:,0:,45,42:,39,55,3:,0:,314,19:,1,9,249:,0:,4:
-/library/src/main/java/com/uphyca/galette/GAlette.java,1,1:,0:,30,19:,19,15,0:,0:,162,10:,1,5,86:,4:,6:
-/library/src/main/java/com/uphyca/galette/ScreenViewBuilderDelegate.java,1,1:,0:,17,1:,12,36,1:,1:,72,12:,1,1,40:,0:,0:
-/library/src/main/java/com/uphyca/galette/StringFieldBuilder.java,0,0:,0:,2,1:,0,15,0:,1:,3,0:,0,0,1:,0:,0:
-/library/src/main/java/com/uphyca/galette/LongFieldBuilder.java,0,0:,0:,2,1:,0,15,0:,1:,3,0:,0,0,1:,0:,0:
-/library/src/main/java/com/uphyca/galette/EventBuilderDelegate.java,1,1:,0:,21,1:,16,48,1:,1:,92,16:,1,1,52:,0:,0:

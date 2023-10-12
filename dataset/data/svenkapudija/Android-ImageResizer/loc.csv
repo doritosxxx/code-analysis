@@ -1,7 +1,0 @@
-/src/com/svenkapudija/imageresizer/ImageResizerException.java,10
-/src/com/svenkapudija/imageresizer/operations/ImageResize.java,56
-/src/com/svenkapudija/imageresizer/operations/ImageRotate.java,44
-/src/com/svenkapudija/imageresizer/operations/ImageCrop.java,71
-/src/com/svenkapudija/imageresizer/ImageResizer.java,60
-/src/com/svenkapudija/imageresizer/utils/ImageDecoder.java,59
-/src/com/svenkapudija/imageresizer/utils/ImageWriter.java,26
