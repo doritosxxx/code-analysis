@@ -57,10 +57,10 @@ async function main() {
             console.log(`[${++loaded}/${metricsFiles.length}]`)
 
             if (headers.length === 0) {
-                headers = first;
+                headers = ["repo", ...first];
             }
 
-            rows.map(row => {
+            return rows.map(row => {
                 const path = row[0];
 
                 let nulls: string | undefined = buckets[repo + path];
@@ -72,8 +72,12 @@ async function main() {
 
                 return [repo, ...row, nulls];
             });
+        })
+        .catch(e => {
+            console.log(`Error during reading ${repo} ${file}`);
+            console.error(e);
 
-            return rows;
+            return [];
         })
     ));
 
