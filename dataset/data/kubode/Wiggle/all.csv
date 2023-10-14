@@ -1,7 +1,0 @@
-/core/src/main/java/com/github/kubode/wiggle/WiggleHelper.java,1,11:,0:,24,6:,5,33,7:,1:,116,6:,1,3,69:,1:,1:
-/core/src/androidTest/java/com/github/kubode/wiggle/MockView.java,1,2:,0:,11,2:,1,0,3:,0:,41,5:,1,1,24:,0:,0:
-/core/src/androidTest/java/com/github/kubode/wiggle/MockActivity.java,0,0:,0:,4,1:,0,0,0:,0:,11,1:,0,0,4:,0:,0:
-/core/src/androidTest/java/com/github/kubode/wiggle/MyMatchers.java,0,0:,0:,4,1:,0,0,0:,0:,20,2:,0,0,8:,0:,1:
-/sample/src/main/java/com/github/kubode/wiggle/sample/MainActivity.java,1,0:,0:,3,2:,1,0,0:,0:,15,1:,1,1,8:,0:,0:
-/sample/src/main/java/com/github/kubode/wiggle/sample/ItemView.java,0,0:,0:,6,1:,0,0,1:,0:,19,0:,0,0,9:,0:,0:
-/framelayout/src/main/java/com/github/kubode/wiggle/framelayout/WiggleFrameLayout.java,0,1:,0:,10,1:,0,5,4:,0:,35,2:,0,0,18:,0:,0:

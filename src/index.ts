@@ -1,6 +1,9 @@
 import fs from 'fs/promises';
 import path from 'path';
 
+import { createSemaphore } from './semaphore';
+import * as csv from './csv';
+
 import {
     REPOS_ROOT,
     RESULTS_ROOT,
@@ -8,16 +11,7 @@ import {
     getRepoFiles
 } from './helpers';
 
-function flattenResults(results: Record<string, number>[]): [string, number][] {
-    const flattened = results.reduce((result, chunk) => {
-        result.push(...Object.entries(chunk));
-        return result;
-    }, [] as [string, number][]);
-
-    return flattened.sort(([a], [b]) => a.localeCompare(b));
-}
-
-async function serializeResults(results: [string, number][]) {
+async function serializeResults(results: Record<string, number>[]) {
     await fs.mkdir(RESULTS_ROOT, {
         recursive: true,
     })
@@ -27,11 +21,23 @@ async function serializeResults(results: [string, number][]) {
     await file.write("repository,file,nullReferences\n");
 
     try {
-        for (const [path, metrics] of results) {
-            const truncatedPath = path.slice(REPOS_ROOT.length + 1).replace(/\\/g, '/');
+        for (const i in results) {
+            const entries = Object.entries(results[i]);
 
-            const [, repository, javaPath] = truncatedPath.match(/^([\w\d.-]+\/[\w\d.-]+)(\/.*)$/i) || [];
-            await file.write(`${repository},${javaPath},${metrics}\n`);
+            console.log(`chunk [${+ i + 1}/${results.length}] with ${entries.length} files`);
+
+            const lines = entries.map(([path, metric]) => {
+                const truncatedPath = path.slice(REPOS_ROOT.length + 1).replace(/\\/g, '/');
+
+                const [, repository, javaPath] = truncatedPath.match(/^([^\/]+\/[^\/]+)(\/.+)$/) || [];
+
+                return [repository, javaPath, metric.toString()] as const;
+            }).sort(([, path1], [, path2]) => path1.localeCompare(path2));
+
+            for (const line of lines) {
+                await file.write(csv.stringifyLine(line));
+                await file.write('\n')
+            }
         }
     }
     catch (error) {
@@ -55,11 +61,17 @@ async function main() {
 
     const filesPerRepo = await Promise.all(repos.map(getRepoFiles));
 
-    console.log(`Finished indexing files. ${filesPerRepo.length} repos found.`)
+    console.log(`Finished indexing files. ${filesPerRepo.length} repos found.`);
+
+    const semaphore = createSemaphore(512);
 
     const repoParsers = filesPerRepo.map((repoFiles) => async () => {
         const metrics = await Promise.all(
-            repoFiles.map(path => fs.readFile(path, { encoding: 'utf-8' }).then(countNullReferences))
+            repoFiles
+                .map(path => semaphore
+                    .callWithLock(() => fs.readFile(path, { encoding: 'utf-8' }))
+                    .then(countNullReferences)
+                )
         );
 
         const result: Record<string, number> = {};
@@ -82,7 +94,7 @@ async function main() {
 
     console.log("Serializing results");
 
-    await serializeResults(flattenResults(results));
+    await serializeResults(results);
 }
 
 main();

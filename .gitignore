@@ -1,7 +1,6 @@
 .idea
 target
-
 node_modules
 
-dataset/github
-dataset/measurements
+dataset
+results/all.csv

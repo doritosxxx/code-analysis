@@ -1,6 +1,0 @@
-/sample/src/main/java/com/example/windowview/DemoActivity.java,7
-/sample-debug/src/main/java/com/example/windowviewdebug/DebugActivity.java,23
-/sample-debug/src/main/java/com/example/windowviewdebug/DebugWindowView.java,27
-/library/src/main/java/com/jmedeisis/windowview/WindowView.java,63
-/library/src/main/java/com/jmedeisis/windowview/sensor/ExponentialSmoothingFilter.java,7
-/library/src/main/java/com/jmedeisis/windowview/sensor/TiltSensor.java,47

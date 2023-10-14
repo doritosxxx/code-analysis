@@ -1,9 +1,0 @@
-/app/src/main/java/com/jack/test/MainActivity.java,0:
-/app/src/main/java/com/jack/test/CustomApp.java,1:
-/library/src/main/java/com/jack/anr/AnrManager.java,7:
-/library/src/main/java/com/jack/anr/Config.java,0:
-/library/src/main/java/com/jack/anr/observer/UILooperObserver.java,3:
-/library/src/main/java/com/jack/anr/observer/FPSFrameCallBack.java,3:
-/library/src/main/java/com/jack/anr/observer/BlockHandler.java,3:
-/library/src/main/java/com/jack/anr/AnrConstant.java,0:
-/library/src/main/java/com/jack/anr/collector/StackTraceCollector.java,5:

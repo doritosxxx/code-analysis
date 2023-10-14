@@ -1,4 +1,4 @@
-import fs from 'fs/promises';
+import fs from 'node:fs/promises';
 import path from 'path';
 
 export const REPOS_ROOT = path.resolve(__dirname, "../dataset/github");

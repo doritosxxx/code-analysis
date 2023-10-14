@@ -1,7 +1,0 @@
-/src/com/denismo/aws/iam/IAMAccountPasswordValidator.java,3,0:,0:,6,5:,7,22,0:,1:,66,2:,2,5,36:,1:,0:
-/src/com/denismo/aws/iam/IAMSecretKeyValidator.java,7,0:,0:,4,6:,7,22,0:,1:,42,2:,7,7,20:,1:,0:
-/src/com/denismo/aws/iam/IAMDualValidator.java,4,1:,0:,6,3:,4,3,1:,1:,26,1:,4,4,16:,1:,0:
-/src/com/denismo/aws/iam/LDAPIAMPoller.java,5,15:,0:,55,85:,135,35,1:,0:,611,31:,1,18,420:,5:,0:
-/src/com/denismo/apacheds/ApacheDSUtils.java,1,1:,0:,17,7:,7,39,1:,0:,79,6:,1,4,39:,1:,0:
-/src/com/denismo/apacheds/auth/AWSIAMAuthenticator.java,6,7:,0:,26,16:,27,25,1:,0:,143,8:,4,10,94:,5:,2:
-/src/com/denismo/apacheds/Runner.java,3,3:,0:,43,16:,23,63,2:,0:,206,7:,1,8,119:,2:,2:

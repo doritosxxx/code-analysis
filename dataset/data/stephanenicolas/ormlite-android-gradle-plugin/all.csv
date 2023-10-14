@@ -1,6 +1,0 @@
-/ormgap-plugin/src/main/java/com/github/stephanenicolas/ormgap/CreateOrmLiteConfigTask.java,4,4:,0:,25,27:,29,5,1:,0:,188,15:,1,10,113:,1:,0:
-/ormgap-plugin/src/main/java/com/github/stephanenicolas/ormgap/CreateOrmLiteConfigAction.java,1,4:,0:,5,2:,1,6,1:,0:,36,1:,1,1,16:,0:,0:
-/ormgap-example/src/main/java/com/example/ormgap/SimpleData.java,1,5:,0:,10,1:,1,5,2:,0:,36,1:,1,1,19:,0:,0:
-/ormgap-example/src/main/java/com/example/ormgap/DatabaseHelper.java,1,2:,0:,11,5:,4,30,1:,0:,65,5:,1,1,38:,2:,0:
-/ormgap-example/src/main/java/com/example/ormgap/MainActivity.java,1,0:,0:,6,2:,1,4,0:,0:,25,3:,1,1,12:,0:,0:
-/ormgap-ormlite-extension/src/main/java/com/github/stephanenicolas/ormgap/OrmLiteConfigUtil.java,7,0:,0:,21,44:,73,83,0:,0:,241,1:,1,22,167:,5:,14:
