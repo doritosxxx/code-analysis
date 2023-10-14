@@ -26,12 +26,12 @@ export const createSemaphore = (limit: number): Semaphore => {
         })
     }
 
-    const callWithLock: Semaphore['callWithLock'] = (fn) => new Promise(resolve => {
+    const callWithLock: Semaphore['callWithLock'] = (fn) => new Promise((resolve, reject) => {
         if (running < limit) {
-            return runFn(fn).then(resolve);
+            return runFn(fn).then(resolve).catch(reject);
         }
 
-        stack.push(() => runFn(fn).then(resolve));
+        stack.push(() => runFn(fn).then(resolve).catch(reject));
     });
 
     return {
