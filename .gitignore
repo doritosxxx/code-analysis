@@ -1,6 +1,6 @@
 .idea
 target
-
 node_modules
 
 dataset
+results/all.csv
