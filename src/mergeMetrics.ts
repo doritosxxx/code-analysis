@@ -1,42 +1,37 @@
-import * as fs from 'fs/promises'
+import * as path from 'path'
 
+import { createSemaphore } from './semaphore';
+import { readCSV, writeCSV } from './csv';
 import { DATA_ROOT, RESULTS_ROOT, getFilesAndDirs } from './helpers'
 
-async function _getMetricsFilesDirs(path: string, result: string[]): Promise<any> {
-    const {
-        dirs,
-        files,
-    } = await getFilesAndDirs(path);
+async function getMetricsFiles() {
+    const { dirs: authors } = await getFilesAndDirs(DATA_ROOT);
 
-    result.push(...files.filter(file => file.endsWith('all.csv')));
+    const repos = await Promise
+        .all(authors.map(getFilesAndDirs))
+        .then(contents => contents.flatMap(({ dirs }) => dirs))
 
-    return Promise.all(dirs.map(dir => _getMetricsFilesDirs(dir, result)));
-}
+    return repos.map(repoRoot => {
 
-async function getMetricsFilesDirs() {
-    const result: string[] = [];
-    await _getMetricsFilesDirs(DATA_ROOT, result);
-    return result;
-}
+        const match = repoRoot.replace(/\\/g, '/').match(/[^\/]+\/[^\/]+$/);
 
-async function readCSV<T extends string[] = string[]>(path: string): Promise<T[]> {
-    const content = await fs.readFile(path, "utf-8");
+        if (!match) {
+            console.log(`Can not find repo name for ${repoRoot}`);
+        }
 
-    return content.trim().split('\n').map(line => line.split(',') as T);
-}
-
-function writeCSV<T extends string[] = string[]>(path: string, content: T[]): Promise<void> {
-    return fs.writeFile(path, content.map(line => line.join(',')).join('\n'));
+        return {
+            repo: match ? match[0] : '',
+            file: path.resolve(repoRoot, "all.csv"),
+        }
+    });
 }
 
 const getNullReferences = () => readCSV<[string, string, string]>(RESULTS_ROOT + "/nullReferences.csv");
 
-const getAllMetrics = () => readCSV<string[]>(DATA_ROOT + "/all.csv");
-
 async function main() {
-    const [nullReferences, allMetrics] = await Promise.all([
+    const [nullReferences, metricsFiles] = await Promise.all([
         getNullReferences(),
-        getAllMetrics()
+        getMetricsFiles()
     ]);
 
     const buckets = nullReferences.reduce((buckets, [repo, path, nulls], index) => {
@@ -49,25 +44,47 @@ async function main() {
         return buckets;
     }, {} as Record<string, string>);
 
-    allMetrics.forEach((line, index) => {
-        if (index === 0) {
-            line.push('nullReferences');
-            return;
-        }
+    const semaphore = createSemaphore(512);
+    let loaded = 0;
 
-        const [repo, path] = line;
+    console.log(`Loading ${metricsFiles.length} repos...`);
 
-        let nulls: string | undefined = buckets[repo + path];
+    let headers: string[] = [];
 
-        if (nulls === undefined) {
-            console.log(`Can not find null references for ${repo} ${path}`);
-            nulls = '0';
-        }
+    const csvs = await Promise.all(metricsFiles.map(({ file, repo }) => semaphore
+        .callWithLock(() => readCSV(file))
+        .then(([first, ...rows]) => {
+            console.log(`[${++loaded}/${metricsFiles.length}]`)
 
-        line.push(nulls);
-    });
+            if (headers.length === 0) {
+                headers = first;
+            }
 
-    writeCSV(RESULTS_ROOT + "/all.csv", allMetrics);
+            rows.map(row => {
+                const path = row[0];
+
+                let nulls: string | undefined = buckets[repo + path];
+
+                if (nulls === undefined) {
+                    console.log(`Can not find null references for ${repo} ${path}`);
+                    nulls = '0';
+                }
+
+                return [repo, ...row, nulls];
+            });
+
+            return rows;
+        })
+    ));
+
+    console.log(`Loaded ${csvs.length} repos`);
+
+    const csv = csvs.flat(1);
+
+    headers.push('nullReferences');
+    csv.unshift(headers);
+
+    writeCSV(RESULTS_ROOT + "/all.csv", csv);
 }
 
 main();
