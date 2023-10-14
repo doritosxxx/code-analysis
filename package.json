@@ -4,6 +4,7 @@
   "scripts": {
     "count": "ts-node src/index.ts",
     "merge": "ts-node src/mergeMetrics.ts",
+    "compress": "ts-node src/compress.ts",
     "build": "tsc --project tsconfig.compile.json"
   },
   "keywords": [],
